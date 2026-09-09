@@ -1,9 +1,6 @@
-# Large game saves and raw dumps (>10MB)
-*.ck3
-*.pdf
+# Huge raw dumps (>250MB - strictly forbidden by GitHub 100MB hard limit)
 reports/melted.txt
 extracted_save/
-latest_save_1075_raw.*
 scratch/player_block.txt
 scratch/*.log
 astra_package/
