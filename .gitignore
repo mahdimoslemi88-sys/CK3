@@ -1,0 +1,18 @@
+# Large game saves and raw dumps (>10MB)
+*.ck3
+*.pdf
+reports/melted.txt
+extracted_save/
+latest_save_1075_raw.*
+scratch/player_block.txt
+scratch/*.log
+astra_package/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.class
+
+# Temporary IDE
+.idea/
+.vscode/

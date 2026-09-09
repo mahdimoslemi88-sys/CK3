@@ -1,0 +1,10 @@
+c_otrar         (ID:5615 ) | Holder: Aksonqor     (ID:6497  ) | Army: 790   | Faith: Faith_50        | Status: Vassal of 347
+c_taraz         (ID:5649 ) | Holder: Uzur         (ID:33567967) | Army: 317   | Faith: Faith_50        | Status: Vassal of 55
+c_samarkand     (ID:5688 ) | Holder: Shayan       (ID:16806670) | Army: 343   | Faith: Faith_50        | Status: Vassal of 38
+d_ferghana      (ID:5750 ) | Holder: Asad         (ID:7834  ) | Army: 790   | Faith: Faith_50        | Status: Vassal of 347
+c_ferghana      (ID:5751 ) | Holder: Nasr         (ID:7342  ) | Army: 790   | Faith: Faith_10        | Status: Vassal of 347
+c_khojand       (ID:5757 ) | Holder: Asad         (ID:7834  ) | Army: 790   | Faith: Faith_50        | Status: Vassal of 347
+c_kath          (ID:5796 ) | Holder: Shahin       (ID:17953 ) | Army: 572   | Faith: Faith_48        | Status: Vassal of 43
+c_khiva         (ID:5803 ) | Holder: Parviz       (ID:16792222) | Army: 223   | Faith: Faith_50        | Status: Vassal of 47
+c_merv          (ID:6053 ) | Holder: Tahir        (ID:9920  ) | Army: 790   | Faith: Faith_64        | Status: Vassal of 347
+c_balkh         (ID:6125 ) | Holder: Muhammad     (ID:7893  ) | Army: 790   | Faith: Faith_50        | Status: Vassal of 347

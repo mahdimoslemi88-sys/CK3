@@ -1,0 +1,5127 @@
+{
+  "date": "1075.9.23",
+  "ruler": {
+    "id": "16888178",
+    "name": "Mehrzad",
+    "age": 72,
+    "health": 1.5221,
+    "stress": null,
+    "gold": 3192.45609,
+    "income": 291.0847,
+    "piety": 48908.32771,
+    "prestige": 4790.35392,
+    "legitimacy": 1013.187,
+    "culture": 91,
+    "faith": 50
+  },
+  "military": {
+    "current_strength": 37290,
+    "total_strength": 42548,
+    "levy": 38543,
+    "regiments": [
+      {
+        "regiment_id": "16788341",
+        "type": "mangonel",
+        "size": 70,
+        "max": null,
+        "origin": null,
+        "source": null
+      },
+      {
+        "regiment_id": "67122196",
+        "type": "mangonel",
+        "size": 70,
+        "max": null,
+        "origin": 4032,
+        "source": null
+      },
+      {
+        "regiment_id": "201340710",
+        "type": "armored_horsemen",
+        "size": 350,
+        "max": null,
+        "origin": 4319,
+        "source": null
+      },
+      {
+        "regiment_id": "50346060",
+        "type": "asawira",
+        "size": 350,
+        "max": null,
+        "origin": 4341,
+        "source": null
+      },
+      {
+        "regiment_id": "67123668",
+        "type": "armored_horsemen",
+        "size": 350,
+        "max": null,
+        "origin": 4109,
+        "source": null
+      },
+      {
+        "regiment_id": "134234781",
+        "type": "armored_horsemen",
+        "size": 350,
+        "max": null,
+        "origin": 1440,
+        "source": null
+      }
+    ],
+    "knights": [
+      16913815,
+      157300,
+      16917066,
+      50406336,
+      142044,
+      143106,
+      50405157,
+      100759333,
+      138641,
+      16900623,
+      156449,
+      149305,
+      33683146,
+      134250426,
+      16919021
+    ],
+    "commanders": [],
+    "rally_points": [
+      {
+        "province": 4394,
+        "color": 0
+      },
+      {
+        "province": 4531,
+        "color": 1
+      },
+      {
+        "province": 4064,
+        "color": 2
+      },
+      {
+        "province": 1438,
+        "color": 3
+      },
+      {
+        "province": 7127,
+        "color": 4
+      },
+      {
+        "province": 7973,
+        "color": 5
+      },
+      {
+        "province": 4505,
+        "color": 6
+      },
+      {
+        "province": 1440,
+        "color": 7
+      },
+      {
+        "province": 4109,
+        "color": 8
+      },
+      {
+        "province": 4782,
+        "color": 9
+      }
+    ],
+    "armies": [],
+    "player_id": "16888178"
+  },
+  "active_wars": [
+    {
+      "war_id": "1912602624",
+      "attacker": {
+        "participants": [
+          {
+            "character": 16905881,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 67191493,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "naval_expansion_cb",
+      "cb_attacker": 16905881,
+      "cb_defender": 67191493,
+      "cb_claimant": null,
+      "start_date": "1075.8.11",
+      "name_raw": "\u0015ONCLICK:TITLE,11134 \u0015TOOLTIP:LANDED_TITLE,11134 \u0015L; ﯽﻟﺎﺸﯾﺍﻭ ﺯﺍ ﺎﻧﺎﮑﯿﺗ\u0015!\u0015!\u0015! ﺯﺍ \u0015ONCLICK:TITLE,11001 \u0015TOOLTIP:LANDED_TITLE,11001 \u0015L; ﯽﻧﺎﺟﺍﺮﯾﻭ\u0015!\u0015!\u0015! ﺵﺮﺘﺴﮔ3rd ",
+      "name": "ﯽﻟﺎﺸﯾﺍﻭ ﺯﺍ ﺎﻧﺎﮑﯿﺗ ﺯﺍ ﯽﻧﺎﺟﺍﺮﯾﻭ ﺵﺮﺘﺴﮔ3rd",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 11134
+        },
+        {
+          "kind": "title",
+          "id": 11001
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1711276033",
+      "attacker": {
+        "participants": [
+          {
+            "character": 16892885,
+            "contribution": [
+              7940,
+              0,
+              62
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 16899359,
+            "contribution": [
+              6380,
+              0,
+              204
+            ]
+          }
+        ],
+        "ticking_war_score": 24.035
+      },
+      "casus_belli": "invasion_war",
+      "cb_attacker": 16892885,
+      "cb_defender": 16899359,
+      "cb_claimant": null,
+      "start_date": "1072.5.6",
+      "name_raw": "\u0015ONCLICK:TITLE,11841 \u0015TOOLTIP:LANDED_TITLE,11841 \u0015L; ﮓﻧﻭﺮﻟﺎﯿﮔ ﺯﺍ ﺕﺎﻧﺎﺧ\u0015!\u0015!\u0015! ﻪﺑ ﻢﺟﺎﻬﺗ \u0015ONCLICK:TITLE,4772 \u0015TOOLTIP:LANDED_TITLE,4772 \u0015L; ﯽﯾﺎﻨﯿﮔﻮﺗ\u0015!\u0015!\u0015!",
+      "name": "ﮓﻧﻭﺮﻟﺎﯿﮔ ﺯﺍ ﺕﺎﻧﺎﺧ ﻪﺑ ﻢﺟﺎﻬﺗ ﯽﯾﺎﻨﯿﮔﻮﺗ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 11841
+        },
+        {
+          "kind": "title",
+          "id": 4772
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1811939330",
+      "attacker": {
+        "participants": [
+          {
+            "character": 138017,
+            "contribution": [
+              1488,
+              202,
+              0
+            ]
+          },
+          {
+            "character": 50426503,
+            "contribution": [
+              1003,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 33680261,
+            "contribution": [
+              659,
+              0,
+              24
+            ]
+          },
+          {
+            "character": 50430245,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 33650030,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 134300003,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": 11.625
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 50399836,
+            "contribution": [
+              1970,
+              202,
+              0
+            ]
+          },
+          {
+            "character": 121222,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": 23.25
+      },
+      "casus_belli": "county_struggle_cb",
+      "cb_attacker": 138017,
+      "cb_defender": 50399836,
+      "cb_claimant": null,
+      "start_date": "1073.12.19",
+      "name_raw": "\u0015ONCLICK:TITLE,7444 \u0015TOOLTIP:LANDED_TITLE,7444 \u0015L; ﻪﻠﻄﯿﻠﻃ ﺯﺍ ﺕﺭﺎﻣﺍ\u0015!\u0015!\u0015! ﻪﯿﻠﻋ \u0015E; \u0015TOOLTIP:GAME_CONCEPT,struggle_conquest_conquest ﺩﺭﻮﺧﺮﺑ\u0015!\u0015! \u0015ONCLICK:TITLE,7668 \u0015TOOLTIP:LANDED_TITLE,7668 \u0015L; ﯽﯾﺍﺭﺍﻭﺎﻧ\u0015!\u0015!\u0015!4th ",
+      "name": "ﻪﻠﻄﯿﻠﻃ ﺯﺍ ﺕﺭﺎﻣﺍ ﻪﯿﻠﻋ ﺩﺭﻮﺧﺮﺑ ﯽﯾﺍﺭﺍﻭﺎﻧ 4th",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 7444
+        },
+        {
+          "kind": "title",
+          "id": 7668
+        }
+      ],
+      "battles": [
+        {
+          "province": 1893,
+          "war_score": 13.5285,
+          "attacker_won": true
+        }
+      ],
+      "war_score_sum": 13.528
+    },
+    {
+      "war_id": "1895825412",
+      "attacker": {
+        "participants": [
+          {
+            "character": 16934068,
+            "contribution": [
+              510,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 67215809,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 33676754,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "peasant_war",
+      "cb_attacker": 16934068,
+      "cb_defender": 67215809,
+      "cb_claimant": 16934068,
+      "start_date": "1075.8.3",
+      "name_raw": "ﯽﻧﺎﻘﻫﺩ ﻡﺎﯿﻗ",
+      "name": "ﯽﻧﺎﻘﻫﺩ ﻡﺎﯿﻗ",
+      "name_refs": [],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1795162117",
+      "attacker": {
+        "participants": [
+          {
+            "character": 16897591,
+            "contribution": [
+              0,
+              81,
+              0
+            ]
+          },
+          {
+            "character": 33679741,
+            "contribution": [
+              800,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 125054,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 33667770,
+            "contribution": [
+              180,
+              81,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "claim_cb",
+      "cb_attacker": 16897591,
+      "cb_defender": 33667770,
+      "cb_claimant": 16897591,
+      "start_date": "1075.1.31",
+      "name_raw": "\u0015ONCLICK:TITLE,4782 \u0015TOOLTIP:LANDED_TITLE,4782 \u0015L; ﺱﺍﺯﺍ ﺯﺍ ﯼﺭﻻﺎﺳ ﻪﻠﯿﺒﻗ\u0015!\u0015!\u0015! ﺮﺑ \u0015ONCLICK:TITLE,4870 \u0015TOOLTIP:LANDED_TITLE,4870 \u0015L; ﻥﺍﺩﻭﺍﺮﻗ\u0015!\u0015!\u0015! ﯼﺎﻋﺩﺍ",
+      "name": "ﺱﺍﺯﺍ ﺯﺍ ﯼﺭﻻﺎﺳ ﻪﻠﯿﺒﻗ ﺮﺑ ﻥﺍﺩﻭﺍﺮﻗ ﯼﺎﻋﺩﺍ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 4782
+        },
+        {
+          "kind": "title",
+          "id": 4870
+        }
+      ],
+      "battles": [
+        {
+          "province": 7624,
+          "war_score": 10.519,
+          "attacker_won": false
+        }
+      ],
+      "war_score_sum": 10.519
+    },
+    {
+      "war_id": "1711276038",
+      "attacker": {
+        "participants": [
+          {
+            "character": 152349,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 157244,
+            "contribution": [
+              1730,
+              0,
+              4
+            ]
+          }
+        ],
+        "ticking_war_score": 7.865
+      },
+      "casus_belli": "make_tributary_cb",
+      "cb_attacker": 152349,
+      "cb_defender": 157244,
+      "cb_claimant": null,
+      "start_date": "1074.5.4",
+      "name_raw": "ﯼﺭﺍﺬﮔ ﺝﺎﺑ ﮓﻨﺟ \u0015ONCLICK:TITLE,5104 \u0015TOOLTIP:LANDED_TITLE,5104 \u0015L; ﻥﺎﯿﮐ ﺭﺎﮑﻣﻮﭼ\u0015!\u0015!\u0015!-\u0015ONCLICK:TITLE,5125 \u0015TOOLTIP:LANDED_TITLE,5125 \u0015L; ﻥﺎﮐﺭﺎﯾﺭﺎﺳﺍﺮﻗ\u0015!\u0015!\u0015!",
+      "name": "ﯼﺭﺍﺬﮔ ﺝﺎﺑ ﮓﻨﺟ ﻥﺎﯿﮐ ﺭﺎﮑﻣﻮﭼ - ﻥﺎﮐﺭﺎﯾﺭﺎﺳﺍﺮﻗ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 5104
+        },
+        {
+          "kind": "title",
+          "id": 5125
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1795162119",
+      "attacker": {
+        "participants": [
+          {
+            "character": 16896289,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 83989203,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 100746742,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": 9.02
+      },
+      "casus_belli": "retaliation_cb",
+      "cb_attacker": 16896289,
+      "cb_defender": 100746742,
+      "cb_claimant": null,
+      "start_date": "1074.4.13",
+      "name_raw": "ﯽﯾﻮﺟ ﻡﺎﻘﺘﻧﺍ ﮓﻨﺟ",
+      "name": "ﯽﯾﻮﺟ ﻡﺎﻘﺘﻧﺍ ﮓﻨﺟ",
+      "name_refs": [],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1828716552",
+      "attacker": {
+        "participants": [
+          {
+            "character": 33656932,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 134583,
+            "contribution": [
+              260,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 16896470,
+            "contribution": [
+              10,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 16909273,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "vassalization_cb",
+      "cb_attacker": 33656932,
+      "cb_defender": 134583,
+      "cb_claimant": null,
+      "start_date": "1075.7.2",
+      "name_raw": "ﯼﺯﺎﺳ ﻩﺪﻧﺎﺸﻧ ﺖﺳﺩ ﮓﻨﺟ \u0015ONCLICK:TITLE,11059 \u0015TOOLTIP:LANDED_TITLE,11059 \u0015L; ﺎﯿﻧﺍﺭﺎﮐﺍﺪﻧﺍﺩ\u0015!\u0015!\u0015!-\u0015ONCLICK:TITLE,10226 \u0015TOOLTIP:LANDED_TITLE,10226 \u0015L; ﯽﻧﺎﺘﺳﻭﺪﻨﻫ\u0015!\u0015!\u0015!",
+      "name": "ﯼﺯﺎﺳ ﻩﺪﻧﺎﺸﻧ ﺖﺳﺩ ﮓﻨﺟ ﺎﯿﻧﺍﺭﺎﮐﺍﺪﻧﺍﺩ - ﯽﻧﺎﺘﺳﻭﺪﻨﻫ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 11059
+        },
+        {
+          "kind": "title",
+          "id": 10226
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1979711497",
+      "attacker": {
+        "participants": [
+          {
+            "character": 151043880,
+            "contribution": [
+              1490,
+              236,
+              16
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 151501,
+            "contribution": [
+              910,
+              236,
+              0
+            ]
+          },
+          {
+            "character": 67210577,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "nomadic_conquest_cb",
+      "cb_attacker": 151043880,
+      "cb_defender": 151501,
+      "cb_claimant": null,
+      "start_date": "1074.11.3",
+      "name_raw": "\u0015ONCLICK:TITLE,4643 \u0015TOOLTIP:LANDED_TITLE,4643 \u0015L; ﻮﮔﺭﻭﺍ ﺯﺍ ﻦﯿﺸﻧ ﮓﯿﺑ\u0015!\u0015!\u0015! ﺢﺘﻓ \u0015ONCLICK:TITLE,4657 \u0015TOOLTIP:LANDED_TITLE,4657 \u0015L; ﯽﯾﺎﮕﻨﻠﺳ\u0015!\u0015!\u0015!4th ",
+      "name": "ﻮﮔﺭﻭﺍ ﺯﺍ ﻦﯿﺸﻧ ﮓﯿﺑ ﺢﺘﻓ ﯽﯾﺎﮕﻨﻠﺳ 4th",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 4643
+        },
+        {
+          "kind": "title",
+          "id": 4657
+        }
+      ],
+      "battles": [
+        {
+          "province": 7539,
+          "war_score": 33.7245,
+          "attacker_won": true
+        }
+      ],
+      "war_score_sum": 33.724
+    },
+    {
+      "war_id": "1778384906",
+      "attacker": {
+        "participants": [
+          {
+            "character": 127362,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 83984697,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 150137,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 83967884,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "make_tributary_cb",
+      "cb_attacker": 127362,
+      "cb_defender": 83967884,
+      "cb_claimant": null,
+      "start_date": "1075.6.8",
+      "name_raw": "ﯼﺭﺍﺬﮔ ﺝﺎﺑ ﮓﻨﺟ \u0015ONCLICK:TITLE,3919 \u0015TOOLTIP:LANDED_TITLE,3919 \u0015L; ﻥﺎﯾﺎﮑﺴﻧﺍﺯﺎﮐ\u0015!\u0015!\u0015!-\u0015ONCLICK:TITLE,4214 \u0015TOOLTIP:LANDED_TITLE,4214 \u0015L; ﯽﻟﻮﮑﺳﺍ\u0015!\u0015!\u0015!",
+      "name": "ﯼﺭﺍﺬﮔ ﺝﺎﺑ ﮓﻨﺟ ﻥﺎﯾﺎﮑﺴﻧﺍﺯﺎﮐ - ﯽﻟﻮﮑﺳﺍ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 3919
+        },
+        {
+          "kind": "title",
+          "id": 4214
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1744830476",
+      "attacker": {
+        "participants": [
+          {
+            "character": 50445042,
+            "contribution": [
+              1748,
+              0,
+              30
+            ]
+          },
+          {
+            "character": 50443167,
+            "contribution": [
+              2580,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 50431462,
+            "contribution": [
+              932,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": 9.515
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 67233568,
+            "contribution": [
+              170,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": 22.11
+      },
+      "casus_belli": "minor_religious_war",
+      "cb_attacker": 50445042,
+      "cb_defender": 67233568,
+      "cb_claimant": null,
+      "start_date": "1073.2.26",
+      "name_raw": "\u0015ONCLICK:TITLE,10621 \u0015TOOLTIP:LANDED_TITLE,10621 \u0015L; ﺭﻮﭙﻧﺎﻫﺮﺑ ﺯﺍ ﺎﻧﺎﮑﯿﺗ\u0015!\u0015!\u0015! ﯼﺍﺮﺑ \u0015E; \u0015TOOLTIP:GAME_CONCEPT,holy_war ﺱﺪﻘﻣ ﮓﻨﺟ\u0015!\u0015!",
+      "name": "ﺭﻮﭙﻧﺎﻫﺮﺑ ﺯﺍ ﺎﻧﺎﮑﯿﺗ ﯼﺍﺮﺑ ﺱﺪﻘﻣ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 10621
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1895825421",
+      "attacker": {
+        "participants": [
+          {
+            "character": 143645,
+            "contribution": [
+              4760,
+              0,
+              144
+            ]
+          }
+        ],
+        "ticking_war_score": 22.22
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 16888179,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "claim_cb",
+      "cb_attacker": 143645,
+      "cb_defender": 16888179,
+      "cb_claimant": 50448062,
+      "start_date": "1073.8.29",
+      "name_raw": "\u0015ONCLICK:TITLE,2504 \u0015TOOLTIP:LANDED_TITLE,2504 \u0015L; ﺩﺎﭙﻟﺪﻣ ﺯﺍ ﻦﯿﺸﻧ ﺖﻨﮐ\u0015!\u0015!\u0015! ﺮﺑ \u0015ONCLICK:CHARACTER,50448062 \u0015TOOLTIP:CHARACTER,50448062 \u0015L \u0015high ﺮﮔﺮﮔ\u0015! HOUSE's\u0015!\u0015!\u0015! ﯼﺎﻋﺩﺍ ﯼﺍﺮﺑ \u0015ONCLICK:TITLE,2458 \u0015TOOLTIP:LANDED_TITLE,2458 \u0015L; ﯽﻗﺮﺷ ﯽﺗﺎﮔ\u0015!\u0015!\u0015! ﮓﻨﺟ",
+      "name": "ﺩﺎﭙﻟﺪﻣ ﺯﺍ ﻦﯿﺸﻧ ﺖﻨﮐ ﺮﺑ ﺮﮔﺮﮔ HOUSE's ﯼﺎﻋﺩﺍ ﯼﺍﺮﺑ ﯽﻗﺮﺷ ﯽﺗﺎﮔ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 2504
+        },
+        {
+          "kind": "character",
+          "id": 50448062
+        },
+        {
+          "kind": "title",
+          "id": 2458
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1627389966",
+      "attacker": {
+        "participants": [
+          {
+            "character": 50427408,
+            "contribution": [
+              6,
+              240,
+              0
+            ]
+          },
+          {
+            "character": 83972381,
+            "contribution": [
+              262,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 135998,
+            "contribution": [
+              51,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 141073,
+            "contribution": [
+              201,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 50443735,
+            "contribution": [
+              250,
+              733,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "refused_liege_demand_war",
+      "cb_attacker": 50427408,
+      "cb_defender": 50443735,
+      "cb_claimant": null,
+      "start_date": "1075.2.23",
+      "name_raw": "\u0015ONCLICK:CHARACTER,50443735 \u0015TOOLTIP:CHARACTER,50443735 \u0015L \u0015high ﻩﺎﺷ\u0015! \u0015high ﻝﺭﺎﺷ\u0015!\u0015!\u0015!\u0015! ﺩﺍﺪﺒﺘﺳﺍ ﻪﯿﻠﻋ ﮓﻨﺟ",
+      "name": "ﻩﺎﺷ ﻝﺭﺎﺷ ﺩﺍﺪﺒﺘﺳﺍ ﻪﯿﻠﻋ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "character",
+          "id": 50443735
+        }
+      ],
+      "battles": [
+        {
+          "province": 4660,
+          "war_score": 18.101,
+          "attacker_won": true
+        },
+        {
+          "province": 4662,
+          "war_score": 4.829,
+          "attacker_won": false
+        },
+        {
+          "province": 4662,
+          "war_score": 18.0095,
+          "attacker_won": true
+        }
+      ],
+      "war_score_sum": 40.939
+    },
+    {
+      "war_id": "1728053263",
+      "attacker": {
+        "participants": [
+          {
+            "character": 83974778,
+            "contribution": [
+              1800,
+              0,
+              12
+            ]
+          }
+        ],
+        "ticking_war_score": 5.72
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 157185,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 33695343,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "nomadic_war",
+      "cb_attacker": 83974778,
+      "cb_defender": 157185,
+      "cb_claimant": 83974778,
+      "start_date": "1075.2.27",
+      "name_raw": "ﯼﺮﮕﻨﺗ ﺮﯿﻘﺷﺎﺑ ﻥﺎﻨﯿﺸﻧ ﭺﻮﮐ ﻡﺎﯿﻗ",
+      "name": "ﯼﺮﮕﻨﺗ ﺮﯿﻘﺷﺎﺑ ﻥﺎﻨﯿﺸﻧ ﭺﻮﮐ ﻡﺎﯿﻗ",
+      "name_refs": [],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1996488720",
+      "attacker": {
+        "participants": [
+          {
+            "character": 33647582,
+            "contribution": [
+              900,
+              510,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 116627,
+            "contribution": [
+              1990,
+              510,
+              0
+            ]
+          },
+          {
+            "character": 16922127,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 16910486,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "liberty_faction_war",
+      "cb_attacker": 33647582,
+      "cb_defender": 116627,
+      "cb_claimant": null,
+      "start_date": "1075.1.8",
+      "name_raw": "ﯼﺩﺍﺯﺁ ﮓﻨﺟ",
+      "name": "ﯼﺩﺍﺯﺁ ﮓﻨﺟ",
+      "name_refs": [],
+      "battles": [
+        {
+          "province": 6813,
+          "war_score": 13.526,
+          "attacker_won": false
+        }
+      ],
+      "war_score_sum": 13.526
+    },
+    {
+      "war_id": "2013265938",
+      "attacker": {
+        "participants": [
+          {
+            "character": 129961,
+            "contribution": [
+              4740,
+              0,
+              68
+            ]
+          }
+        ],
+        "ticking_war_score": 2.75
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 83936142,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 122339,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": 5.115
+      },
+      "casus_belli": "claim_cb",
+      "cb_attacker": 129961,
+      "cb_defender": 83936142,
+      "cb_claimant": 33650030,
+      "start_date": "1073.10.4",
+      "name_raw": "\u0015ONCLICK:TITLE,7830 \u0015TOOLTIP:LANDED_TITLE,7830 \u0015L; ﺖﻟﻼﯿﻓ ﺯﺍ ﺕﺭﺎﻣﺍ\u0015!\u0015!\u0015! ﺮﺑ \u0015ONCLICK:CHARACTER,33650030 \u0015TOOLTIP:CHARACTER,33650030 \u0015L \u0015high ﺮﯿﻣﺍ\u0015! \u0015high ﻢﯿﻠﺳ\u0015!'s\u0015!\u0015!\u0015! ﯼﺎﻋﺩﺍ ﯼﺍﺮﺑ \u0015ONCLICK:TITLE,7474 \u0015TOOLTIP:LANDED_TITLE,7474 \u0015L; ﺮﯿﺸﻨﺧ\u0015!\u0015!\u0015! ﮓﻨﺟ",
+      "name": "ﺖﻟﻼﯿﻓ ﺯﺍ ﺕﺭﺎﻣﺍ ﺮﺑ ﺮﯿﻣﺍ ﻢﯿﻠﺳ 's ﯼﺎﻋﺩﺍ ﯼﺍﺮﺑ ﺮﯿﺸﻨﺧ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 7830
+        },
+        {
+          "kind": "character",
+          "id": 33650030
+        },
+        {
+          "kind": "title",
+          "id": 7474
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1610612755",
+      "attacker": {
+        "participants": [
+          {
+            "character": 16882891,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 146789,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 100705677,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "refused_liege_demand_war",
+      "cb_attacker": 16882891,
+      "cb_defender": 100705677,
+      "cb_claimant": null,
+      "start_date": "1075.5.7",
+      "name_raw": "\u0015ONCLICK:CHARACTER,100705677 \u0015TOOLTIP:CHARACTER,100705677 \u0015L \u0015high ﻩﺎﺷ\u0015! \u0015high ﺭﺎﮐﺭﺎﺘﺳﺍ\u0015!\u0015!\u0015!\u0015! ﺩﺍﺪﺒﺘﺳﺍ ﻪﯿﻠﻋ ﮓﻨﺟ",
+      "name": "ﻩﺎﺷ ﺭﺎﮐﺭﺎﺘﺳﺍ ﺩﺍﺪﺒﺘﺳﺍ ﻪﯿﻠﻋ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "character",
+          "id": 100705677
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1795162132",
+      "attacker": {
+        "participants": [
+          {
+            "character": 50460765,
+            "contribution": [
+              0,
+              131,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 16923652,
+            "contribution": [
+              1680,
+              131,
+              6
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "refused_liege_demand_war",
+      "cb_attacker": 50460765,
+      "cb_defender": 16923652,
+      "cb_claimant": null,
+      "start_date": "1074.12.14",
+      "name_raw": "\u0015ONCLICK:CHARACTER,16923652 \u0015TOOLTIP:CHARACTER,16923652 \u0015L \u0015high ﺮﯿﻣﺍ\u0015! \u0015high ﯽﺋﻼﻋﺍ\u0015!\u0015!\u0015!\u0015! ﺩﺍﺪﺒﺘﺳﺍ ﻪﯿﻠﻋ ﮓﻨﺟ",
+      "name": "ﺮﯿﻣﺍ ﯽﺋﻼﻋﺍ ﺩﺍﺪﺒﺘﺳﺍ ﻪﯿﻠﻋ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "character",
+          "id": 16923652
+        }
+      ],
+      "battles": [
+        {
+          "province": 5903,
+          "war_score": 17.547,
+          "attacker_won": false
+        }
+      ],
+      "war_score_sum": 17.547
+    },
+    {
+      "war_id": "1845493781",
+      "attacker": {
+        "participants": [
+          {
+            "character": 33701158,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 146295,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "nomadic_conquest_cb",
+      "cb_attacker": 33701158,
+      "cb_defender": 146295,
+      "cb_claimant": null,
+      "start_date": "1075.8.27",
+      "name_raw": "\u0015ONCLICK:TITLE,4161 \u0015TOOLTIP:LANDED_TITLE,4161 \u0015L; ﻥﻼﺳﺭﻮﮔﻮﺑ ﺯﺍ ﻦﯿﺸﻧ ﮓﯿﺑ\u0015!\u0015!\u0015! ﺢﺘﻓ \u0015ONCLICK:TITLE,4025 \u0015TOOLTIP:LANDED_TITLE,4025 \u0015L; ﮓﻨﭽﭘ\u0015!\u0015!\u0015!",
+      "name": "ﻥﻼﺳﺭﻮﮔﻮﺑ ﺯﺍ ﻦﯿﺸﻧ ﮓﯿﺑ ﺢﺘﻓ ﮓﻨﭽﭘ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 4161
+        },
+        {
+          "kind": "title",
+          "id": 4025
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1526726678",
+      "attacker": {
+        "participants": [
+          {
+            "character": 33701113,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 50409371,
+            "contribution": [
+              1520,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "refused_liege_demand_war",
+      "cb_attacker": 33701113,
+      "cb_defender": 50409371,
+      "cb_claimant": null,
+      "start_date": "1075.3.24",
+      "name_raw": "\u0015ONCLICK:CHARACTER,50409371 \u0015TOOLTIP:CHARACTER,50409371 \u0015L \u0015high ﺲﺷﻭﺩ\u0015! \u0015high ﻮﻔﯿﮕﻠﺗﺍ\u0015!\u0015!\u0015!\u0015! ﺩﺍﺪﺒﺘﺳﺍ ﻪﯿﻠﻋ ﮓﻨﺟ",
+      "name": "ﺲﺷﻭﺩ ﻮﻔﯿﮕﻠﺗﺍ ﺩﺍﺪﺒﺘﺳﺍ ﻪﯿﻠﻋ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "character",
+          "id": 50409371
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1409286167",
+      "attacker": {
+        "participants": [
+          {
+            "character": 100735005,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 16917189,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 67233568,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "major_religious_war",
+      "cb_attacker": 100735005,
+      "cb_defender": 67233568,
+      "cb_claimant": null,
+      "start_date": "1075.5.7",
+      "name_raw": "\u0015ONCLICK:TITLE,11174 \u0015TOOLTIP:LANDED_TITLE,11174 \u0015L; ﺍﺮﺘﺷﺍﺭﺎﻫﺎﻣ ﺯﺍ ﯽﻫﺎﺷﺩﺎﭘ\u0015!\u0015!\u0015! ﯼﺍﺮﺑ \u0015E; \u0015TOOLTIP:GAME_CONCEPT,holy_war ﺱﺪﻘﻣ ﮓﻨﺟ\u0015!\u0015!",
+      "name": "ﺍﺮﺘﺷﺍﺭﺎﻫﺎﻣ ﺯﺍ ﯽﻫﺎﺷﺩﺎﭘ ﯼﺍﺮﺑ ﺱﺪﻘﻣ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 11174
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1694498841",
+      "attacker": {
+        "participants": [
+          {
+            "character": 67153552,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 16932450,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": 6.93
+      },
+      "casus_belli": "migration_cb",
+      "cb_attacker": 67153552,
+      "cb_defender": 16932450,
+      "cb_claimant": null,
+      "start_date": "1074.5.21",
+      "name_raw": "\u0015ONCLICK:TITLE,4595 \u0015TOOLTIP:LANDED_TITLE,4595 \u0015L; ﺍﺪﻧﻮﮐ ﺯﺍ ﻦﯿﺸﻧ ﮓﯿﺑ\u0015!\u0015!\u0015! ﻪﺑ ﺕﺮﺟﺎﻬﻣ \u0015ONCLICK:TITLE,15087 \u0015TOOLTIP:LANDED_TITLE,15087 \u0015L; ﻢﯾﺭﺎﻧﻪﺳﺎﻨﺷ ﯼﺮﯾﺎﺸﻋ ﻩﺎﮔﻭﺩﺭﺍ\u0015!\u0015!\u0015!",
+      "name": "ﺍﺪﻧﻮﮐ ﺯﺍ ﻦﯿﺸﻧ ﮓﯿﺑ ﻪﺑ ﺕﺮﺟﺎﻬﻣ ﻢﯾﺭﺎﻧﻪﺳﺎﻨﺷ ﯼﺮﯾﺎﺸﻋ ﻩﺎﮔﻭﺩﺭﺍ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 4595
+        },
+        {
+          "kind": "title",
+          "id": 15087
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1577058330",
+      "attacker": {
+        "participants": [
+          {
+            "character": 155691,
+            "contribution": [
+              1572,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 16913317,
+            "contribution": [
+              3511,
+              0,
+              390
+            ]
+          },
+          {
+            "character": 138481,
+            "contribution": [
+              427,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 50450932,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 33680473,
+            "contribution": [
+              260,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 16887431,
+            "contribution": [
+              400,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": 2.255
+      },
+      "casus_belli": "claim_cb",
+      "cb_attacker": 155691,
+      "cb_defender": 33680473,
+      "cb_claimant": 155691,
+      "start_date": "1072.8.2",
+      "name_raw": "\u0015ONCLICK:TITLE,2622 \u0015TOOLTIP:LANDED_TITLE,2622 \u0015L; ﮎﺭﺎﻤﻧﺍﺩ ﺯﺍ ﯽﻫﺎﺷﺩﺎﭘ\u0015!\u0015!\u0015! ﺮﺑ \u0015ONCLICK:TITLE,2966 \u0015TOOLTIP:LANDED_TITLE,2966 \u0015L; ﯽﮐﺭﺎﻣﺩﺭﻮﻧ\u0015!\u0015!\u0015! ﯼﺎﻋﺩﺍ",
+      "name": "ﮎﺭﺎﻤﻧﺍﺩ ﺯﺍ ﯽﻫﺎﺷﺩﺎﭘ ﺮﺑ ﯽﮐﺭﺎﻣﺩﺭﻮﻧ ﯼﺎﻋﺩﺍ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 2622
+        },
+        {
+          "kind": "title",
+          "id": 2966
+        }
+      ],
+      "battles": [
+        {
+          "province": 65,
+          "war_score": 8.837,
+          "attacker_won": false
+        }
+      ],
+      "war_score_sum": 8.837
+    },
+    {
+      "war_id": "1879048219",
+      "attacker": {
+        "participants": [
+          {
+            "character": 161525,
+            "contribution": [
+              2370,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 16908782,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 184593542,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "peasant_war",
+      "cb_attacker": 161525,
+      "cb_defender": 16908782,
+      "cb_claimant": 161525,
+      "start_date": "1075.1.29",
+      "name_raw": "ﯽﻧﺎﻘﻫﺩ ﻡﺎﯿﻗ",
+      "name": "ﯽﻧﺎﻘﻫﺩ ﻡﺎﯿﻗ",
+      "name_refs": [],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1610612764",
+      "attacker": {
+        "participants": [
+          {
+            "character": 16859746,
+            "contribution": [
+              4760,
+              558,
+              36
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 83899560,
+            "contribution": [
+              1826,
+              558,
+              0
+            ]
+          },
+          {
+            "character": 50438094,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 83951787,
+            "contribution": [
+              294,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": 11.22
+      },
+      "casus_belli": "duchy_conquest_cb",
+      "cb_attacker": 16859746,
+      "cb_defender": 83899560,
+      "cb_claimant": null,
+      "start_date": "1073.9.6",
+      "name_raw": "\u0015ONCLICK:TITLE,9840 \u0015TOOLTIP:LANDED_TITLE,9840 \u0015L; ﻭﺭﻮﺗ ﺯﺍ ﺕﺭﺎﻣﺍ\u0015!\u0015!\u0015! ﺢﺘﻓ \u0015ONCLICK:TITLE,9947 \u0015TOOLTIP:LANDED_TITLE,9947 \u0015L; ﻥﺎﮐﺁ\u0015!\u0015!\u0015!",
+      "name": "ﻭﺭﻮﺗ ﺯﺍ ﺕﺭﺎﻣﺍ ﺢﺘﻓ ﻥﺎﮐﺁ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 9840
+        },
+        {
+          "kind": "title",
+          "id": 9947
+        }
+      ],
+      "battles": [
+        {
+          "province": 8150,
+          "war_score": 39.5835,
+          "attacker_won": true
+        }
+      ],
+      "war_score_sum": 39.584
+    },
+    {
+      "war_id": "2097152029",
+      "attacker": {
+        "participants": [
+          {
+            "character": 16922564,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 16894192,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 67191493,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": 19.745
+      },
+      "casus_belli": "naval_expansion_cb",
+      "cb_attacker": 16922564,
+      "cb_defender": 67191493,
+      "cb_claimant": null,
+      "start_date": "1073.9.30",
+      "name_raw": "\u0015ONCLICK:TITLE,11134 \u0015TOOLTIP:LANDED_TITLE,11134 \u0015L; ﯽﻟﺎﺸﯾﺍﻭ ﺯﺍ ﺎﻧﺎﮑﯿﺗ\u0015!\u0015!\u0015! ﺯﺍ \u0015ONCLICK:TITLE,10848 \u0015TOOLTIP:LANDED_TITLE,10848 \u0015L; ﺎﻤﻫﻮﺳ\u0015!\u0015!\u0015! ﺵﺮﺘﺴﮔ",
+      "name": "ﯽﻟﺎﺸﯾﺍﻭ ﺯﺍ ﺎﻧﺎﮑﯿﺗ ﺯﺍ ﺎﻤﻫﻮﺳ ﺵﺮﺘﺴﮔ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 11134
+        },
+        {
+          "kind": "title",
+          "id": 10848
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1610612766",
+      "attacker": {
+        "participants": [
+          {
+            "character": 83984633,
+            "contribution": [
+              0,
+              86,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 130049,
+            "contribution": [
+              0,
+              86,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "make_tributary_cb",
+      "cb_attacker": 83984633,
+      "cb_defender": 130049,
+      "cb_claimant": null,
+      "start_date": "1075.1.7",
+      "name_raw": "ﯼﺭﺍﺬﮔ ﺝﺎﺑ ﮓﻨﺟ \u0015ONCLICK:TITLE,3908 \u0015TOOLTIP:LANDED_TITLE,3908 \u0015L; ﯽﮑﺴﻧﻭﺩ\u0015!\u0015!\u0015!-\u0015ONCLICK:TITLE,3989 \u0015TOOLTIP:LANDED_TITLE,3989 \u0015L; ﯼﺯﺎﻘﻔﻗ ﺶﯿﭘ\u0015!\u0015!\u0015!",
+      "name": "ﯼﺭﺍﺬﮔ ﺝﺎﺑ ﮓﻨﺟ ﯽﮑﺴﻧﻭﺩ - ﯼﺯﺎﻘﻔﻗ ﺶﯿﭘ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 3908
+        },
+        {
+          "kind": "title",
+          "id": 3989
+        }
+      ],
+      "battles": [
+        {
+          "province": 595,
+          "war_score": 44.0025,
+          "attacker_won": false
+        },
+        {
+          "province": 595,
+          "war_score": 50,
+          "attacker_won": false
+        }
+      ],
+      "war_score_sum": 94.002
+    },
+    {
+      "war_id": "1912602655",
+      "attacker": {
+        "participants": [
+          {
+            "character": 16921894,
+            "contribution": [
+              830,
+              168,
+              0
+            ]
+          },
+          {
+            "character": 83968540,
+            "contribution": [
+              0,
+              116,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 122855,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 33649507,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "liberty_faction_war",
+      "cb_attacker": 16921894,
+      "cb_defender": 122855,
+      "cb_claimant": null,
+      "start_date": "1075.3.9",
+      "name_raw": "ﯼﺩﺍﺯﺁ ﮓﻨﺟ",
+      "name": "ﯼﺩﺍﺯﺁ ﮓﻨﺟ",
+      "name_refs": [],
+      "battles": [
+        {
+          "province": 5134,
+          "war_score": 7.9115,
+          "attacker_won": false
+        },
+        {
+          "province": 5135,
+          "war_score": 17.96,
+          "attacker_won": false
+        }
+      ],
+      "war_score_sum": 25.872
+    },
+    {
+      "war_id": "1845493792",
+      "attacker": {
+        "participants": [
+          {
+            "character": 33656932,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 125092,
+            "contribution": [
+              550,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "religious_war",
+      "cb_attacker": 33656932,
+      "cb_defender": 125092,
+      "cb_claimant": null,
+      "start_date": "1075.7.2",
+      "name_raw": "\u0015ONCLICK:TITLE,11501 \u0015TOOLTIP:LANDED_TITLE,11501 \u0015L; ﮓﻧﻮﻟﺭﺎﯾ ﺯﺍ ﮏﭼﻮﮐ ﯽﻫﺎﺷﺩﺎﭘ\u0015!\u0015!\u0015! ﯼﺍﺮﺑ \u0015E; \u0015TOOLTIP:GAME_CONCEPT,holy_war ﺱﺪﻘﻣ ﮓﻨﺟ\u0015!\u0015!",
+      "name": "ﮓﻧﻮﻟﺭﺎﯾ ﺯﺍ ﮏﭼﻮﮐ ﯽﻫﺎﺷﺩﺎﭘ ﯼﺍﺮﺑ ﺱﺪﻘﻣ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 11501
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1711276065",
+      "attacker": {
+        "participants": [
+          {
+            "character": 33664339,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 33655867,
+            "contribution": [
+              539,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 134281340,
+            "contribution": [
+              80,
+              111,
+              0
+            ]
+          },
+          {
+            "character": 33683349,
+            "contribution": [
+              181,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 16891878,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 154425,
+            "contribution": [
+              0,
+              111,
+              0
+            ]
+          },
+          {
+            "character": 134300003,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "liberty_faction_war",
+      "cb_attacker": 33664339,
+      "cb_defender": 154425,
+      "cb_claimant": null,
+      "start_date": "1075.3.22",
+      "name_raw": "ﯼﺩﺍﺯﺁ ﮓﻨﺟ",
+      "name": "ﯼﺩﺍﺯﺁ ﮓﻨﺟ",
+      "name_refs": [],
+      "battles": [
+        {
+          "province": 1949,
+          "war_score": 10.446,
+          "attacker_won": false
+        },
+        {
+          "province": 1973,
+          "war_score": 7.1555,
+          "attacker_won": false
+        }
+      ],
+      "war_score_sum": 17.602
+    },
+    {
+      "war_id": "1560281122",
+      "attacker": {
+        "participants": [
+          {
+            "character": 16919635,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 16922850,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 134610,
+            "contribution": [
+              1190,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "refused_liege_demand_war",
+      "cb_attacker": 16919635,
+      "cb_defender": 134610,
+      "cb_claimant": null,
+      "start_date": "1075.4.9",
+      "name_raw": "\u0015ONCLICK:CHARACTER,134610 \u0015TOOLTIP:CHARACTER,134610 \u0015L \u0015high ﮎﻭﺩ\u0015! \u0015high ﻒﻟﻭﺭ\u0015!\u0015!\u0015!\u0015! ﺩﺍﺪﺒﺘﺳﺍ ﻪﯿﻠﻋ ﮓﻨﺟ",
+      "name": "ﮎﻭﺩ ﻒﻟﻭﺭ ﺩﺍﺪﺒﺘﺳﺍ ﻪﯿﻠﻋ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "character",
+          "id": 134610
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1761607715",
+      "attacker": {
+        "participants": [
+          {
+            "character": 33657292,
+            "contribution": [
+              4680,
+              333,
+              170
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 83899560,
+            "contribution": [
+              224,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 50438094,
+            "contribution": [
+              1036,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "religious_war",
+      "cb_attacker": 33657292,
+      "cb_defender": 83899560,
+      "cb_claimant": null,
+      "start_date": "1073.10.16",
+      "name_raw": "\u0015ONCLICK:TITLE,9813 \u0015TOOLTIP:LANDED_TITLE,9813 \u0015L; ﻮﻧﻮﮐ ﺯﺍ ﺕﺭﺎﻣﺍ\u0015!\u0015!\u0015! ﯼﺍﺮﺑ \u0015E; \u0015TOOLTIP:GAME_CONCEPT,holy_war ﺱﺪﻘﻣ ﮓﻨﺟ\u0015!\u0015!",
+      "name": "ﻮﻧﻮﮐ ﺯﺍ ﺕﺭﺎﻣﺍ ﯼﺍﺮﺑ ﺱﺪﻘﻣ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 9813
+        }
+      ],
+      "battles": [
+        {
+          "province": 8177,
+          "war_score": 41.049,
+          "attacker_won": true
+        }
+      ],
+      "war_score_sum": 41.049
+    },
+    {
+      "war_id": "1560281124",
+      "attacker": {
+        "participants": [
+          {
+            "character": 16920566,
+            "contribution": [
+              2913,
+              0,
+              108
+            ]
+          },
+          {
+            "character": 16901810,
+            "contribution": [
+              427,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": 17.93
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 67233568,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "expansion_cb",
+      "cb_attacker": 16920566,
+      "cb_defender": 67233568,
+      "cb_claimant": null,
+      "start_date": "1074.2.21",
+      "name_raw": "\u0015ONCLICK:TITLE,10454 \u0015TOOLTIP:LANDED_TITLE,10454 \u0015L; ﺎﮑﻠﯿﻣﻮﻬﺑ ﺯﺍ ﺎﻧﺎﮑﯿﺗ\u0015!\u0015!\u0015! ﺯﺍ \u0015ONCLICK:TITLE,10439 \u0015TOOLTIP:LANDED_TITLE,10439 \u0015L; ﺎﺗﺭﺎﻧﺍ\u0015!\u0015!\u0015! ﺵﺮﺘﺴﮔ3rd ",
+      "name": "ﺎﮑﻠﯿﻣﻮﻬﺑ ﺯﺍ ﺎﻧﺎﮑﯿﺗ ﺯﺍ ﺎﺗﺭﺎﻧﺍ ﺵﺮﺘﺴﮔ3rd",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 10454
+        },
+        {
+          "kind": "title",
+          "id": 10439
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1845493797",
+      "attacker": {
+        "participants": [
+          {
+            "character": 16876138,
+            "contribution": [
+              10,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 50444821,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 154158,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 136688,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "nomadic_conquest_cb",
+      "cb_attacker": 16876138,
+      "cb_defender": 136688,
+      "cb_claimant": null,
+      "start_date": "1075.8.19",
+      "name_raw": "\u0015ONCLICK:TITLE,4914 \u0015TOOLTIP:LANDED_TITLE,4914 \u0015L; ﺍﺮﺗﻮﮐ ﺯﺍ ﯼﺭﻻﺎﺳ ﻪﻠﯿﺒﻗ\u0015!\u0015!\u0015! ﺢﺘﻓ \u0015ONCLICK:TITLE,4923 \u0015TOOLTIP:LANDED_TITLE,4923 \u0015L; ﻥﺎﯿﻟﺎﮕﯾﺎﺑﺍﺭﺎﮐ\u0015!\u0015!\u0015!",
+      "name": "ﺍﺮﺗﻮﮐ ﺯﺍ ﯼﺭﻻﺎﺳ ﻪﻠﯿﺒﻗ ﺢﺘﻓ ﻥﺎﯿﻟﺎﮕﯾﺎﺑﺍﺭﺎﮐ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 4914
+        },
+        {
+          "kind": "title",
+          "id": 4923
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1627389990",
+      "attacker": {
+        "participants": [
+          {
+            "character": 161473,
+            "contribution": [
+              60,
+              371,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 16915184,
+            "contribution": [
+              0,
+              371,
+              0
+            ]
+          },
+          {
+            "character": 83961861,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "nomadic_war",
+      "cb_attacker": 161473,
+      "cb_defender": 16915184,
+      "cb_claimant": 161473,
+      "start_date": "1074.12.30",
+      "name_raw": "ﯽﮔ ﻥﮊ ﮏﻤﯿﮐ ﻥﺎﻨﯿﺸﻧ ﭺﻮﮐ ﻡﺎﯿﻗ",
+      "name": "ﯽﮔ ﻥﮊ ﮏﻤﯿﮐ ﻥﺎﻨﯿﺸﻧ ﭺﻮﮐ ﻡﺎﯿﻗ",
+      "name_refs": [],
+      "battles": [
+        {
+          "province": 7614,
+          "war_score": 50,
+          "attacker_won": false
+        }
+      ],
+      "war_score_sum": 50
+    },
+    {
+      "war_id": "1543503911",
+      "attacker": {
+        "participants": [
+          {
+            "character": 117496274,
+            "contribution": [
+              5687,
+              0,
+              60
+            ]
+          },
+          {
+            "character": 117501124,
+            "contribution": [
+              3730,
+              0,
+              256
+            ]
+          },
+          {
+            "character": 135753,
+            "contribution": [
+              983,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 83960488,
+            "contribution": [
+              890,
+              105,
+              0
+            ]
+          },
+          {
+            "character": 33643999,
+            "contribution": [
+              4304,
+              0,
+              174
+            ]
+          },
+          {
+            "character": 50399563,
+            "contribution": [
+              1036,
+              80,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "claimant_faction_war",
+      "cb_attacker": 117496274,
+      "cb_defender": 83960488,
+      "cb_claimant": 16905266,
+      "start_date": "1071.11.18",
+      "name_raw": "\u0015ONCLICK:TITLE,8980 \u0015TOOLTIP:LANDED_TITLE,8980 \u0015L; ﺕﻮﻣﺍﺩ ﺯﺍ ﮒﺭﺰﺑ ﺕﺭﺎﻣﺍ\u0015!\u0015!\u0015! ﺮﺑ \u0015ONCLICK:CHARACTER,16905266 \u0015TOOLTIP:CHARACTER,16905266 \u0015L ﺦﯿﺷ ﺮﻤﻋ's\u0015!\u0015!\u0015! ﯼﺎﻋﺩﺍ ﯼﺍﺮﺑ ﮓﻨﺟ",
+      "name": "ﺕﻮﻣﺍﺩ ﺯﺍ ﮒﺭﺰﺑ ﺕﺭﺎﻣﺍ ﺮﺑ ﺦﯿﺷ ﺮﻤﻋ's ﯼﺎﻋﺩﺍ ﯼﺍﺮﺑ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 8980
+        },
+        {
+          "kind": "character",
+          "id": 16905266
+        }
+      ],
+      "battles": [
+        {
+          "province": 8450,
+          "war_score": 8.711,
+          "attacker_won": true
+        },
+        {
+          "province": 8366,
+          "war_score": 13.5405,
+          "attacker_won": true
+        }
+      ],
+      "war_score_sum": 22.252
+    },
+    {
+      "war_id": "1610612776",
+      "attacker": {
+        "participants": [
+          {
+            "character": 16897421,
+            "contribution": [
+              8556,
+              30,
+              264
+            ]
+          },
+          {
+            "character": 131098,
+            "contribution": [
+              5304,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 33610429,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": 42.185
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 83986079,
+            "contribution": [
+              260,
+              438,
+              0
+            ]
+          },
+          {
+            "character": 67199610,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "claimant_faction_war",
+      "cb_attacker": 16897421,
+      "cb_defender": 83986079,
+      "cb_claimant": 16897421,
+      "start_date": "1066.2.24",
+      "name_raw": "\u0015ONCLICK:TITLE,12039 \u0015TOOLTIP:LANDED_TITLE,12039 \u0015L; ﻥﻮﻣﻮﻟ ﺯﺍ ﯽﻫﺎﺷﺩﺎﭘ\u0015!\u0015!\u0015! ﺮﺑ \u0015ONCLICK:CHARACTER,16897421 \u0015TOOLTIP:CHARACTER,16897421 \u0015L ﻮﭘﺎﮕﻧ ﻝﺎﯿﮕﻣﺎﻧ's\u0015!\u0015!\u0015! ﯼﺎﻋﺩﺍ ﯼﺍﺮﺑ ﮓﻨﺟ",
+      "name": "ﻥﻮﻣﻮﻟ ﺯﺍ ﯽﻫﺎﺷﺩﺎﭘ ﺮﺑ ﻮﭘﺎﮕﻧ ﻝﺎﯿﮕﻣﺎﻧ's ﯼﺎﻋﺩﺍ ﯼﺍﺮﺑ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 12039
+        },
+        {
+          "kind": "character",
+          "id": 16897421
+        }
+      ],
+      "battles": [
+        {
+          "province": 9179,
+          "war_score": 5.8015,
+          "attacker_won": true
+        },
+        {
+          "province": 9190,
+          "war_score": 13.4895,
+          "attacker_won": false
+        },
+        {
+          "province": 9233,
+          "war_score": 3.995,
+          "attacker_won": true
+        },
+        {
+          "province": 9140,
+          "war_score": 10.3485,
+          "attacker_won": true
+        },
+        {
+          "province": 9189,
+          "war_score": 3.8935,
+          "attacker_won": true
+        },
+        {
+          "province": 9247,
+          "war_score": 4.4885,
+          "attacker_won": true
+        },
+        {
+          "province": 9233,
+          "war_score": 2.5895,
+          "attacker_won": true
+        }
+      ],
+      "war_score_sum": 44.606
+    },
+    {
+      "war_id": "1577058345",
+      "attacker": {
+        "participants": [
+          {
+            "character": 132238,
+            "contribution": [
+              294,
+              183,
+              0
+            ]
+          },
+          {
+            "character": 83952236,
+            "contribution": [
+              0,
+              167,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 33675540,
+            "contribution": [
+              0,
+              25,
+              0
+            ]
+          },
+          {
+            "character": 122887,
+            "contribution": [
+              290,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "claimant_faction_war",
+      "cb_attacker": 132238,
+      "cb_defender": 33675540,
+      "cb_claimant": 33680299,
+      "start_date": "1074.12.3",
+      "name_raw": "\u0015ONCLICK:TITLE,7221 \u0015TOOLTIP:LANDED_TITLE,7221 \u0015L; ﻪﯿﺗﺍﻮﭘ ﺯﺍ ﻦﯿﺸﻧ ﮎﻭﺩ\u0015!\u0015!\u0015! ﺮﺑ \u0015ONCLICK:CHARACTER,33680299 \u0015TOOLTIP:CHARACTER,33680299 \u0015L ﺰﺳﺍ ﻪﻠﺑ's\u0015!\u0015!\u0015! ﯼﺎﻋﺩﺍ ﯼﺍﺮﺑ ﮓﻨﺟ",
+      "name": "ﻪﯿﺗﺍﻮﭘ ﺯﺍ ﻦﯿﺸﻧ ﮎﻭﺩ ﺮﺑ ﺰﺳﺍ ﻪﻠﺑ's ﯼﺎﻋﺩﺍ ﯼﺍﺮﺑ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 7221
+        },
+        {
+          "kind": "character",
+          "id": 33680299
+        }
+      ],
+      "battles": [
+        {
+          "province": 2254,
+          "war_score": 3.9745,
+          "attacker_won": true
+        },
+        {
+          "province": 2252,
+          "war_score": 28.6355,
+          "attacker_won": false
+        },
+        {
+          "province": 2245,
+          "war_score": 49.3755,
+          "attacker_won": false
+        }
+      ],
+      "war_score_sum": 81.986
+    },
+    {
+      "war_id": "1610612778",
+      "attacker": {
+        "participants": [
+          {
+            "character": 33644576,
+            "contribution": [
+              515,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 151042925,
+            "contribution": [
+              392,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 135201,
+            "contribution": [
+              1892,
+              0,
+              42
+            ]
+          },
+          {
+            "character": 142781,
+            "contribution": [
+              1007,
+              0,
+              6
+            ]
+          },
+          {
+            "character": 132640,
+            "contribution": [
+              475,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 67224775,
+            "contribution": [
+              215,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 33691200,
+            "contribution": [
+              61,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 67227923,
+            "contribution": [
+              572,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 143779,
+            "contribution": [
+              202,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 33645367,
+            "contribution": [
+              9,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 16866225,
+            "contribution": [
+              8,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 33667858,
+            "contribution": [
+              24,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 184593542,
+            "contribution": [
+              468,
+              80,
+              0
+            ]
+          },
+          {
+            "character": 135478,
+            "contribution": [
+              72,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 50451051,
+            "contribution": [
+              1,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 130449,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 83944734,
+            "contribution": [
+              10,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 136068,
+            "contribution": [
+              23,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 50452877,
+            "contribution": [
+              3267,
+              7351,
+              34
+            ]
+          },
+          {
+            "character": 136393,
+            "contribution": [
+              13,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "claimant_faction_war",
+      "cb_attacker": 33644576,
+      "cb_defender": 50452877,
+      "cb_claimant": 33644576,
+      "start_date": "1073.5.31",
+      "name_raw": "\u0015ONCLICK:TITLE,1188 \u0015TOOLTIP:LANDED_TITLE,1188 \u0015L; ﺲﻧﺍﺰﯿﺑ ﯼﺭﻮﺗﺍﺮﭙﻣﺍ\u0015!\u0015!\u0015! ﺮﺑ \u0015ONCLICK:CHARACTER,33644576 \u0015TOOLTIP:CHARACTER,33644576 \u0015L ﺱﻮﮕﺗﺍﺮﺘﺳﺍ ﺱﻮﺗﻭﺩﻮﺌﺗ's\u0015!\u0015!\u0015! ﯼﺎﻋﺩﺍ ﯼﺍﺮﺑ ﮓﻨﺟ",
+      "name": "ﺲﻧﺍﺰﯿﺑ ﯼﺭﻮﺗﺍﺮﭙﻣﺍ ﺮﺑ ﺱﻮﮕﺗﺍﺮﺘﺳﺍ ﺱﻮﺗﻭﺩﻮﺌﺗ's ﯼﺎﻋﺩﺍ ﯼﺍﺮﺑ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 1188
+        },
+        {
+          "kind": "character",
+          "id": 33644576
+        }
+      ],
+      "battles": [
+        {
+          "province": 496,
+          "war_score": 1.648,
+          "attacker_won": false
+        },
+        {
+          "province": 5543,
+          "war_score": 0.718,
+          "attacker_won": false
+        },
+        {
+          "province": 495,
+          "war_score": 14.407,
+          "attacker_won": false
+        },
+        {
+          "province": 495,
+          "war_score": 0.0015,
+          "attacker_won": false
+        },
+        {
+          "province": 3787,
+          "war_score": 11.9525,
+          "attacker_won": false
+        },
+        {
+          "province": 3767,
+          "war_score": 10.315,
+          "attacker_won": false
+        },
+        {
+          "province": 3689,
+          "war_score": 10.827,
+          "attacker_won": false
+        },
+        {
+          "province": 3689,
+          "war_score": 23.4325,
+          "attacker_won": false
+        }
+      ],
+      "war_score_sum": 73.302
+    },
+    {
+      "war_id": "1728053291",
+      "attacker": {
+        "participants": [
+          {
+            "character": 50397592,
+            "contribution": [
+              0,
+              183,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 16890327,
+            "contribution": [
+              0,
+              183,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": 29.975
+      },
+      "casus_belli": "ep3_laamp_adventurer_county_invasion",
+      "cb_attacker": 50397592,
+      "cb_defender": 16890327,
+      "cb_claimant": null,
+      "start_date": "1073.3.28",
+      "name_raw": "\u0015ONCLICK:TITLE,4721 \u0015TOOLTIP:LANDED_TITLE,4721 \u0015L; ﺎﮕﯾﺎﺗ ﻥﻻﻭﺍ\u0015!\u0015!\u0015! ﯼﺍﺮﺑ ﻮﺟﺍﺮﺟﺎﻣ ﻢﺟﺎﻬﺗ \u0015ONCLICK:CHARACTER,50397592 \u0015TOOLTIP:CHARACTER,50397592 \u0015L ﮎﻮﻟﺯﻭﺍ's\u0015!\u0015!\u0015!",
+      "name": "ﺎﮕﯾﺎﺗ ﻥﻻﻭﺍ ﯼﺍﺮﺑ ﻮﺟﺍﺮﺟﺎﻣ ﻢﺟﺎﻬﺗ ﮎﻮﻟﺯﻭﺍ's",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 4721
+        },
+        {
+          "kind": "character",
+          "id": 50397592
+        }
+      ],
+      "battles": [
+        {
+          "province": 7619,
+          "war_score": 16.7875,
+          "attacker_won": false
+        }
+      ],
+      "war_score_sum": 16.788
+    },
+    {
+      "war_id": "1845493804",
+      "attacker": {
+        "participants": [
+          {
+            "character": 100747315,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 122899,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 16892454,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "naval_expansion_cb",
+      "cb_attacker": 100747315,
+      "cb_defender": 16892454,
+      "cb_claimant": null,
+      "start_date": "1075.8.19",
+      "name_raw": "\u0015ONCLICK:TITLE,2350 \u0015TOOLTIP:LANDED_TITLE,2350 \u0015L; ﺎﻧﻮﮑﻧﺁ ﺯﺍ ﻦﯿﺸﻧ ﺖﻨﮐ\u0015!\u0015!\u0015! ﺯﺍ \u0015ONCLICK:TITLE,1753 \u0015TOOLTIP:LANDED_TITLE,1753 \u0015L; ﯽﺗﺎﻤﯿﺘﭘﻭﺍ\u0015!\u0015!\u0015! ﺵﺮﺘﺴﮔ",
+      "name": "ﺎﻧﻮﮑﻧﺁ ﺯﺍ ﻦﯿﺸﻧ ﺖﻨﮐ ﺯﺍ ﯽﺗﺎﻤﯿﺘﭘﻭﺍ ﺵﺮﺘﺴﮔ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 2350
+        },
+        {
+          "kind": "title",
+          "id": 1753
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1644167213",
+      "attacker": {
+        "participants": [
+          {
+            "character": 16900452,
+            "contribution": [
+              0,
+              1439,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 67191493,
+            "contribution": [
+              0,
+              1439,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": 13.585
+      },
+      "casus_belli": "individual_county_de_jure_cb",
+      "cb_attacker": 16900452,
+      "cb_defender": 67191493,
+      "cb_claimant": null,
+      "start_date": "1074.1.20",
+      "name_raw": "\u0015ONCLICK:TITLE,11134 \u0015TOOLTIP:LANDED_TITLE,11134 \u0015L; ﯽﻟﺎﺸﯾﺍﻭ ﺯﺍ ﺎﻧﺎﮑﯿﺗ\u0015!\u0015!\u0015! ﯼﺍﺮﺑ \u0015ONCLICK:TITLE,11068 \u0015TOOLTIP:LANDED_TITLE,11068 \u0015L; ﯽﻧﺎﮔﺎﭘ\u0015!\u0015!\u0015! ﯽﻧﻮﻧﺎﻗ ﮓﻨﺟ",
+      "name": "ﯽﻟﺎﺸﯾﺍﻭ ﺯﺍ ﺎﻧﺎﮑﯿﺗ ﯼﺍﺮﺑ ﯽﻧﺎﮔﺎﭘ ﯽﻧﻮﻧﺎﻗ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 11134
+        },
+        {
+          "kind": "title",
+          "id": 11068
+        }
+      ],
+      "battles": [
+        {
+          "province": 9576,
+          "war_score": 18.193,
+          "attacker_won": false
+        },
+        {
+          "province": 9576,
+          "war_score": 17.0395,
+          "attacker_won": false
+        }
+      ],
+      "war_score_sum": 35.233
+    },
+    {
+      "war_id": "1828716590",
+      "attacker": {
+        "participants": [
+          {
+            "character": 127225,
+            "contribution": [
+              1011,
+              184,
+              120
+            ]
+          },
+          {
+            "character": 133638,
+            "contribution": [
+              876,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 16905183,
+            "contribution": [
+              790,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 100704934,
+            "contribution": [
+              443,
+              0,
+              36
+            ]
+          }
+        ],
+        "ticking_war_score": 25.74
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 33653733,
+            "contribution": [
+              1688,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 50386306,
+            "contribution": [
+              241,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 100678610,
+            "contribution": [
+              361,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": 7.205
+      },
+      "casus_belli": "claim_cb",
+      "cb_attacker": 127225,
+      "cb_defender": 33653733,
+      "cb_claimant": 127225,
+      "start_date": "1073.2.2",
+      "name_raw": "\u0015ONCLICK:TITLE,3959 \u0015TOOLTIP:LANDED_TITLE,3959 \u0015L; ﺎﭼﺭﺎﺗﺎﻣﺎﺗ ﺯﺍ ﺎﻣﺭﻮﺗ\u0015!\u0015!\u0015! ﺮﺑ \u0015ONCLICK:TITLE,3933 \u0015TOOLTIP:LANDED_TITLE,3933 \u0015L; ﻥﺎﯿﭼﺮﮐ\u0015!\u0015!\u0015! ﯼﺎﻋﺩﺍ",
+      "name": "ﺎﭼﺭﺎﺗﺎﻣﺎﺗ ﺯﺍ ﺎﻣﺭﻮﺗ ﺮﺑ ﻥﺎﯿﭼﺮﮐ ﯼﺎﻋﺩﺍ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 3959
+        },
+        {
+          "kind": "title",
+          "id": 3933
+        }
+      ],
+      "battles": [
+        {
+          "province": 598,
+          "war_score": 6.387,
+          "attacker_won": false
+        },
+        {
+          "province": 562,
+          "war_score": 15.1325,
+          "attacker_won": true
+        },
+        {
+          "province": 5588,
+          "war_score": 14.164,
+          "attacker_won": true
+        },
+        {
+          "province": 598,
+          "war_score": 15.9215,
+          "attacker_won": true
+        }
+      ],
+      "war_score_sum": 51.605
+    },
+    {
+      "war_id": "1660944431",
+      "attacker": {
+        "participants": [
+          {
+            "character": 16881325,
+            "contribution": [
+              929,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 140384,
+            "contribution": [
+              824,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 50450210,
+            "contribution": [
+              0,
+              146,
+              0
+            ]
+          },
+          {
+            "character": 16896031,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 16894778,
+            "contribution": [
+              37,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": 0.165
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 50437145,
+            "contribution": [
+              2490,
+              146,
+              0
+            ]
+          },
+          {
+            "character": 147803,
+            "contribution": [
+              0,
+              120,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "refused_liege_demand_war",
+      "cb_attacker": 16881325,
+      "cb_defender": 50437145,
+      "cb_claimant": null,
+      "start_date": "1074.11.11",
+      "name_raw": "\u0015ONCLICK:CHARACTER,50437145 \u0015TOOLTIP:CHARACTER,50437145 \u0015L \u0015high ﺮﯿﻣﺍ\u0015! \u0015high ﺎﭘﺍﮋﮐ\u0015!\u0015!\u0015!\u0015! ﺩﺍﺪﺒﺘﺳﺍ ﻪﯿﻠﻋ ﮓﻨﺟ",
+      "name": "ﺮﯿﻣﺍ ﺎﭘﺍﮋﮐ ﺩﺍﺪﺒﺘﺳﺍ ﻪﯿﻠﻋ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "character",
+          "id": 50437145
+        }
+      ],
+      "battles": [
+        {
+          "province": 825,
+          "war_score": 17.5775,
+          "attacker_won": false
+        },
+        {
+          "province": 1319,
+          "war_score": 12.695,
+          "attacker_won": true
+        }
+      ],
+      "war_score_sum": 30.273
+    },
+    {
+      "war_id": "1845493808",
+      "attacker": {
+        "participants": [
+          {
+            "character": 152784,
+            "contribution": [
+              99,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 129998,
+            "contribution": [
+              201,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 16893198,
+            "contribution": [
+              800,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 100697789,
+            "contribution": [
+              1220,
+              411,
+              0
+            ]
+          },
+          {
+            "character": 83930894,
+            "contribution": [
+              120,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "refused_liege_demand_war",
+      "cb_attacker": 152784,
+      "cb_defender": 100697789,
+      "cb_claimant": null,
+      "start_date": "1075.1.29",
+      "name_raw": "\u0015ONCLICK:CHARACTER,100697789 \u0015TOOLTIP:CHARACTER,100697789 \u0015L \u0015high ﺮﯿﻣﺍ\u0015! \u0015high ﺩﺭﺎﯾ\u0015!\u0015!\u0015!\u0015! ﺩﺍﺪﺒﺘﺳﺍ ﻪﯿﻠﻋ ﮓﻨﺟ",
+      "name": "ﺮﯿﻣﺍ ﺩﺭﺎﯾ ﺩﺍﺪﺒﺘﺳﺍ ﻪﯿﻠﻋ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "character",
+          "id": 100697789
+        }
+      ],
+      "battles": [
+        {
+          "province": 6079,
+          "war_score": 24.2635,
+          "attacker_won": false
+        }
+      ],
+      "war_score_sum": 24.264
+    },
+    {
+      "war_id": "1560281140",
+      "attacker": {
+        "participants": [
+          {
+            "character": 117550846,
+            "contribution": [
+              3410,
+              259,
+              88
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 33683931,
+            "contribution": [
+              213,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 153527,
+            "contribution": [
+              1327,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 16893883,
+            "contribution": [
+              1120,
+              0,
+              44
+            ]
+          }
+        ],
+        "ticking_war_score": 4.62
+      },
+      "casus_belli": "nomadic_conquest_cb",
+      "cb_attacker": 117550846,
+      "cb_defender": 33683931,
+      "cb_claimant": null,
+      "start_date": "1074.1.20",
+      "name_raw": "\u0015ONCLICK:TITLE,4225 \u0015TOOLTIP:LANDED_TITLE,4225 \u0015L; ﺍﺰﻨﭘ ﺯﺍ ﻦﯿﺸﻧ ﮓﯿﺑ\u0015!\u0015!\u0015! ﺢﺘﻓ \u0015ONCLICK:TITLE,4252 \u0015TOOLTIP:LANDED_TITLE,4252 \u0015L; ﯽﻓﻮﺒﻣﺎﺗ\u0015!\u0015!\u0015!",
+      "name": "ﺍﺰﻨﭘ ﺯﺍ ﻦﯿﺸﻧ ﮓﯿﺑ ﺢﺘﻓ ﯽﻓﻮﺒﻣﺎﺗ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 4225
+        },
+        {
+          "kind": "title",
+          "id": 4252
+        }
+      ],
+      "battles": [
+        {
+          "province": 5369,
+          "war_score": 44.151,
+          "attacker_won": false
+        }
+      ],
+      "war_score_sum": 44.151
+    },
+    {
+      "war_id": "1761607733",
+      "attacker": {
+        "participants": [
+          {
+            "character": 160994,
+            "contribution": [
+              1940,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 33687166,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": 9.9
+      },
+      "casus_belli": "peasant_war",
+      "cb_attacker": 160994,
+      "cb_defender": 33687166,
+      "cb_claimant": 160994,
+      "start_date": "1074.3.28",
+      "name_raw": "ﯽﻧﺎﻘﻫﺩ ﻡﺎﯿﻗ",
+      "name": "ﯽﻧﺎﻘﻫﺩ ﻡﺎﯿﻗ",
+      "name_refs": [],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1644167222",
+      "attacker": {
+        "participants": [
+          {
+            "character": 16918806,
+            "contribution": [
+              696,
+              60,
+              0
+            ]
+          },
+          {
+            "character": 100720416,
+            "contribution": [
+              92,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 67227987,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 140366,
+            "contribution": [
+              92,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 132937,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 16910486,
+            "contribution": [
+              1219,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 151059451,
+            "contribution": [
+              4168,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 16908328,
+            "contribution": [
+              133,
+              6,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "claimant_faction_war",
+      "cb_attacker": 16918806,
+      "cb_defender": 16910486,
+      "cb_claimant": 100709209,
+      "start_date": "1072.12.29",
+      "name_raw": "\u0015ONCLICK:TITLE,8724 \u0015TOOLTIP:LANDED_TITLE,8724 \u0015L; ﻪﺸﺒﺣ ﺯﺍ ﮒﺭﺰﺑ ﺕﺭﺎﻣﺍ\u0015!\u0015!\u0015! ﺮﺑ \u0015ONCLICK:CHARACTER,100709209 \u0015TOOLTIP:CHARACTER,100709209 \u0015L ﻩﺩﺍﺰﻫﺎﺷ ﺱﻭﺭﺪﻧﺁ's\u0015!\u0015!\u0015! ﯼﺎﻋﺩﺍ ﯼﺍﺮﺑ ﮓﻨﺟ",
+      "name": "ﻪﺸﺒﺣ ﺯﺍ ﮒﺭﺰﺑ ﺕﺭﺎﻣﺍ ﺮﺑ ﻩﺩﺍﺰﻫﺎﺷ ﺱﻭﺭﺪﻧﺁ's ﯼﺎﻋﺩﺍ ﯼﺍﺮﺑ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 8724
+        },
+        {
+          "kind": "character",
+          "id": 100709209
+        }
+      ],
+      "battles": [
+        {
+          "province": 8298,
+          "war_score": 25.1955,
+          "attacker_won": false
+        },
+        {
+          "province": 8326,
+          "war_score": 4.453,
+          "attacker_won": false
+        },
+        {
+          "province": 8299,
+          "war_score": 18.328,
+          "attacker_won": false
+        },
+        {
+          "province": 8326,
+          "war_score": 20.9075,
+          "attacker_won": false
+        },
+        {
+          "province": 8300,
+          "war_score": 17.7555,
+          "attacker_won": false
+        },
+        {
+          "province": 8300,
+          "war_score": 0.041,
+          "attacker_won": false
+        },
+        {
+          "province": 8336,
+          "war_score": 0.5305,
+          "attacker_won": false
+        }
+      ],
+      "war_score_sum": 87.211
+    },
+    {
+      "war_id": "2315255863",
+      "attacker": {
+        "participants": [
+          {
+            "character": 16880675,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 16877279,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 67212188,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 144002,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 16919795,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 83936142,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 122339,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 33678118,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "refused_liege_demand_war",
+      "cb_attacker": 16880675,
+      "cb_defender": 83936142,
+      "cb_claimant": null,
+      "start_date": "1075.8.19",
+      "name_raw": "\u0015ONCLICK:CHARACTER,83936142 \u0015TOOLTIP:CHARACTER,83936142 \u0015L \u0015high ﻥﺎﻄﻠﺳ\u0015! \u0015high ﻢﺳﺎﻘﻟﺍ III\u0015!\u0015!\u0015!\u0015! ﺩﺍﺪﺒﺘﺳﺍ ﻪﯿﻠﻋ ﮓﻨﺟ",
+      "name": "ﻥﺎﻄﻠﺳ ﻢﺳﺎﻘﻟﺍ III ﺩﺍﺪﺒﺘﺳﺍ ﻪﯿﻠﻋ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "character",
+          "id": 83936142
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1979711545",
+      "attacker": {
+        "participants": [
+          {
+            "character": 134312,
+            "contribution": [
+              2372,
+              233,
+              0
+            ]
+          },
+          {
+            "character": 136953,
+            "contribution": [
+              1566,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 50442182,
+            "contribution": [
+              271,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 50459911,
+            "contribution": [
+              761,
+              115,
+              6
+            ]
+          }
+        ],
+        "ticking_war_score": 1.43
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 16903430,
+            "contribution": [
+              766,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 33627604,
+            "contribution": [
+              494,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 33697009,
+            "contribution": [
+              0,
+              21,
+              0
+            ]
+          },
+          {
+            "character": 50446855,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": 28.6
+      },
+      "casus_belli": "liberty_faction_war",
+      "cb_attacker": 134312,
+      "cb_defender": 16903430,
+      "cb_claimant": null,
+      "start_date": "1073.3.27",
+      "name_raw": "ﯼﺩﺍﺯﺁ ﮓﻨﺟ",
+      "name": "ﯼﺩﺍﺯﺁ ﮓﻨﺟ",
+      "name_refs": [],
+      "battles": [
+        {
+          "province": 3154,
+          "war_score": 4.552,
+          "attacker_won": false
+        },
+        {
+          "province": 3149,
+          "war_score": 4.3195,
+          "attacker_won": false
+        },
+        {
+          "province": 3152,
+          "war_score": 17.09,
+          "attacker_won": true
+        },
+        {
+          "province": 3156,
+          "war_score": 2.8445,
+          "attacker_won": true
+        }
+      ],
+      "war_score_sum": 28.806
+    },
+    {
+      "war_id": "1660944442",
+      "attacker": {
+        "participants": [
+          {
+            "character": 125528,
+            "contribution": [
+              1150,
+              0,
+              6
+            ]
+          },
+          {
+            "character": 16899246,
+            "contribution": [
+              550,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": 2.145
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 100749986,
+            "contribution": [
+              740,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 122339,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "county_conquest_cb",
+      "cb_attacker": 125528,
+      "cb_defender": 100749986,
+      "cb_claimant": null,
+      "start_date": "1074.12.14",
+      "name_raw": "\u0015ONCLICK:TITLE,9915 \u0015TOOLTIP:LANDED_TITLE,9915 \u0015L; ﺎﺑﺍﺮﯿﻟ ﺯﺍ ﻦﯿﺸﻧ ﺦﯿﺷ\u0015!\u0015!\u0015! ﺢﺘﻓ \u0015ONCLICK:TITLE,9994 \u0015TOOLTIP:LANDED_TITLE,9994 \u0015L; ﯽﻘﻧﻭﺮﺑ\u0015!\u0015!\u0015!",
+      "name": "ﺎﺑﺍﺮﯿﻟ ﺯﺍ ﻦﯿﺸﻧ ﺦﯿﺷ ﺢﺘﻓ ﯽﻘﻧﻭﺮﺑ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 9915
+        },
+        {
+          "kind": "title",
+          "id": 9994
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1778384956",
+      "attacker": {
+        "participants": [
+          {
+            "character": 16902685,
+            "contribution": [
+              225,
+              70,
+              0
+            ]
+          },
+          {
+            "character": 16910255,
+            "contribution": [
+              695,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 67211503,
+            "contribution": [
+              0,
+              70,
+              0
+            ]
+          },
+          {
+            "character": 135098,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "nomadic_conquest_cb",
+      "cb_attacker": 16902685,
+      "cb_defender": 67211503,
+      "cb_claimant": null,
+      "start_date": "1075.3.4",
+      "name_raw": "\u0015ONCLICK:TITLE,3536 \u0015TOOLTIP:LANDED_TITLE,3536 \u0015L; ﻦﻣﻭﺭ\u0015!\u0015!\u0015! ﺢﺘﻓ \u0015ONCLICK:TITLE,3531 \u0015TOOLTIP:LANDED_TITLE,3531 \u0015L; ﻥﺎﯿﮐﺰﯾﺩﺍﺮﻫ\u0015!\u0015!\u0015!",
+      "name": "ﻦﻣﻭﺭ ﺢﺘﻓ ﻥﺎﯿﮐﺰﯾﺩﺍﺮﻫ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 3536
+        },
+        {
+          "kind": "title",
+          "id": 3531
+        }
+      ],
+      "battles": [
+        {
+          "province": 5185,
+          "war_score": 15.5625,
+          "attacker_won": false
+        }
+      ],
+      "war_score_sum": 15.562
+    },
+    {
+      "war_id": "1795162173",
+      "attacker": {
+        "participants": [
+          {
+            "character": 33656932,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 16900452,
+            "contribution": [
+              510,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "religious_war",
+      "cb_attacker": 33656932,
+      "cb_defender": 16900452,
+      "cb_claimant": null,
+      "start_date": "1075.7.2",
+      "name_raw": "\u0015ONCLICK:TITLE,11133 \u0015TOOLTIP:LANDED_TITLE,11133 \u0015L; ﻥﺎﮐﺍﺭﺁ ﺯﺍ ﻦﯿﺸﻧ ﮎﻭﺩ\u0015!\u0015!\u0015! ﯼﺍﺮﺑ \u0015E; \u0015TOOLTIP:GAME_CONCEPT,holy_war ﺱﺪﻘﻣ ﮓﻨﺟ\u0015!\u0015!",
+      "name": "ﻥﺎﮐﺍﺭﺁ ﺯﺍ ﻦﯿﺸﻧ ﮎﻭﺩ ﯼﺍﺮﺑ ﺱﺪﻘﻣ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 11133
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1744830527",
+      "attacker": {
+        "participants": [
+          {
+            "character": 138923,
+            "contribution": [
+              5100,
+              217,
+              72
+            ]
+          }
+        ],
+        "ticking_war_score": 20.24
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 83917707,
+            "contribution": [
+              4150,
+              217,
+              72
+            ]
+          }
+        ],
+        "ticking_war_score": 3.905
+      },
+      "casus_belli": "county_conquest_cb",
+      "cb_attacker": 138923,
+      "cb_defender": 83917707,
+      "cb_claimant": null,
+      "start_date": "1073.7.12",
+      "name_raw": "\u0015ONCLICK:TITLE,11657 \u0015TOOLTIP:LANDED_TITLE,11657 \u0015L; ﺭﺎﺒﻧﺎﺑ ﺯﺍ ﺎﻧﺎﮑﯿﺗ\u0015!\u0015!\u0015! ﺢﺘﻓ \u0015ONCLICK:TITLE,12095 \u0015TOOLTIP:LANDED_TITLE,12095 \u0015L; ﻝﻮﯾﺍﺯﺩ\u0015!\u0015!\u0015!",
+      "name": "ﺭﺎﺒﻧﺎﺑ ﺯﺍ ﺎﻧﺎﮑﯿﺗ ﺢﺘﻓ ﻝﻮﯾﺍﺯﺩ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 11657
+        },
+        {
+          "kind": "title",
+          "id": 12095
+        }
+      ],
+      "battles": [
+        {
+          "province": 9314,
+          "war_score": 50,
+          "attacker_won": true
+        }
+      ],
+      "war_score_sum": 50
+    },
+    {
+      "war_id": "1627390016",
+      "attacker": {
+        "participants": [
+          {
+            "character": 50391277,
+            "contribution": [
+              6224,
+              0,
+              172
+            ]
+          },
+          {
+            "character": 16897461,
+            "contribution": [
+              2986,
+              0,
+              92
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 126047,
+            "contribution": [
+              2301,
+              0,
+              8
+            ]
+          },
+          {
+            "character": 33644834,
+            "contribution": [
+              159,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 16901377,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 100685338,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": 39.765
+      },
+      "casus_belli": "liberty_faction_war",
+      "cb_attacker": 50391277,
+      "cb_defender": 126047,
+      "cb_claimant": null,
+      "start_date": "1072.10.1",
+      "name_raw": "ﯼﺩﺍﺯﺁ ﮓﻨﺟ",
+      "name": "ﯼﺩﺍﺯﺁ ﮓﻨﺟ",
+      "name_refs": [],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1912602691",
+      "attacker": {
+        "participants": [
+          {
+            "character": 134289747,
+            "contribution": [
+              1116,
+              220,
+              42
+            ]
+          },
+          {
+            "character": 67242320,
+            "contribution": [
+              0,
+              134,
+              0
+            ]
+          },
+          {
+            "character": 83991077,
+            "contribution": [
+              184,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 33660262,
+            "contribution": [
+              0,
+              160,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 33657292,
+            "contribution": [
+              0,
+              1077,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "religious_war",
+      "cb_attacker": 134289747,
+      "cb_defender": 33657292,
+      "cb_claimant": null,
+      "start_date": "1074.10.3",
+      "name_raw": "\u0015ONCLICK:TITLE,9598 \u0015TOOLTIP:LANDED_TITLE,9598 \u0015L; ﮓﻨﯾﺪﻧﺎﻣ ﺯﺍ ﺕﺭﺎﻣﺍ\u0015!\u0015!\u0015! ﯼﺍﺮﺑ \u0015E; \u0015TOOLTIP:GAME_CONCEPT,holy_war ﺱﺪﻘﻣ ﮓﻨﺟ\u0015!\u0015!",
+      "name": "ﮓﻨﯾﺪﻧﺎﻣ ﺯﺍ ﺕﺭﺎﻣﺍ ﯼﺍﺮﺑ ﺱﺪﻘﻣ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 9598
+        }
+      ],
+      "battles": [
+        {
+          "province": 6638,
+          "war_score": 29.4255,
+          "attacker_won": false
+        },
+        {
+          "province": 6753,
+          "war_score": 45.993,
+          "attacker_won": false
+        },
+        {
+          "province": 8173,
+          "war_score": 28.758,
+          "attacker_won": false
+        },
+        {
+          "province": 6729,
+          "war_score": 43.9215,
+          "attacker_won": false
+        }
+      ],
+      "war_score_sum": 148.098
+    },
+    {
+      "war_id": "1979711556",
+      "attacker": {
+        "participants": [
+          {
+            "character": 16894122,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 84012761,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 100746742,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "nomadic_conquest_cb",
+      "cb_attacker": 16894122,
+      "cb_defender": 100746742,
+      "cb_claimant": null,
+      "start_date": "1075.9.4",
+      "name_raw": "\u0015ONCLICK:TITLE,5300 \u0015TOOLTIP:LANDED_TITLE,5300 \u0015L; ﮎﺎﻨﯾﻭﺍ ﻥﻻﻮﮐ ﺯﺍ ﻦﯿﺸﻧ ﮓﯿﺑ\u0015!\u0015!\u0015! ﺢﺘﻓ \u0015ONCLICK:TITLE,5296 \u0015TOOLTIP:LANDED_TITLE,5296 \u0015L; ﯽﺗﺎﮐﺭ\u0015!\u0015!\u0015!",
+      "name": "ﮎﺎﻨﯾﻭﺍ ﻥﻻﻮﮐ ﺯﺍ ﻦﯿﺸﻧ ﮓﯿﺑ ﺢﺘﻓ ﯽﺗﺎﮐﺭ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 5300
+        },
+        {
+          "kind": "title",
+          "id": 5296
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1459617861",
+      "attacker": {
+        "participants": [
+          {
+            "character": 16887339,
+            "contribution": [
+              1738,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 33677179,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 16885159,
+            "contribution": [
+              442,
+              0,
+              8
+            ]
+          },
+          {
+            "character": 117534861,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 157244,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "nomadic_conquest_cb",
+      "cb_attacker": 16887339,
+      "cb_defender": 157244,
+      "cb_claimant": null,
+      "start_date": "1074.7.31",
+      "name_raw": "\u0015ONCLICK:TITLE,5104 \u0015TOOLTIP:LANDED_TITLE,5104 \u0015L; ﺎﯿﮐ ﺭﺎﮑﻣﻮﭼ\u0015!\u0015!\u0015! ﺢﺘﻓ \u0015ONCLICK:TITLE,5107 \u0015TOOLTIP:LANDED_TITLE,5107 \u0015L; ﯼﺭﺎﻣﻮﺗ\u0015!\u0015!\u0015!",
+      "name": "ﺎﯿﮐ ﺭﺎﮑﻣﻮﭼ ﺢﺘﻓ ﯼﺭﺎﻣﻮﺗ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 5104
+        },
+        {
+          "kind": "title",
+          "id": 5107
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "2147483718",
+      "attacker": {
+        "participants": [
+          {
+            "character": 123452,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 83917707,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "individual_county_de_jure_cb",
+      "cb_attacker": 123452,
+      "cb_defender": 83917707,
+      "cb_claimant": null,
+      "start_date": "1075.9.20",
+      "name_raw": "\u0015ONCLICK:TITLE,11879 \u0015TOOLTIP:LANDED_TITLE,11879 \u0015L; ﺭﺎﺗﺭێﺱ ﺯﺍ ﻦﯿﺸﻧ ﺖﻨﮐ\u0015!\u0015!\u0015! ﯼﺍﺮﺑ \u0015ONCLICK:TITLE,11866 \u0015TOOLTIP:LANDED_TITLE,11866 \u0015L; ﻼﮐﺎﭼ\u0015!\u0015!\u0015! ﯽﻧﻮﻧﺎﻗ ﮓﻨﺟ",
+      "name": "ﺭﺎﺗﺭێﺱ ﺯﺍ ﻦﯿﺸﻧ ﺖﻨﮐ ﯼﺍﺮﺑ ﻼﮐﺎﭼ ﯽﻧﻮﻧﺎﻗ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 11879
+        },
+        {
+          "kind": "title",
+          "id": 11866
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1711276104",
+      "attacker": {
+        "participants": [
+          {
+            "character": 131846,
+            "contribution": [
+              280,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 100703042,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 33615713,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "ep3_laamp_raid_contract_cb",
+      "cb_attacker": 131846,
+      "cb_defender": 100703042,
+      "cb_claimant": null,
+      "start_date": "1075.7.8",
+      "name_raw": "\u0015ONCLICK:TITLE,9438 \u0015TOOLTIP:LANDED_TITLE,9438 \u0015L; ﺮﯿﺑﻮﮔﻪﺳﺎﻨﺷ\u0015!\u0015!\u0015! ﻪﯿﻠﻋ ﻥﺍﺮﯿﺳﺍ ﯼﺍﺮﺑ ﺕﺭﺎﻏ \u0015ONCLICK:TITLE,14043 \u0015TOOLTIP:LANDED_TITLE,14043 \u0015L; ﻥﺎﺘﺴﻣﺯ ﻥﺎﯾﺪﯿﻌﺒﺗ\u0015!\u0015!\u0015!4th ",
+      "name": "ﺮﯿﺑﻮﮔﻪﺳﺎﻨﺷ ﻪﯿﻠﻋ ﻥﺍﺮﯿﺳﺍ ﯼﺍﺮﺑ ﺕﺭﺎﻏ ﻥﺎﺘﺴﻣﺯ ﻥﺎﯾﺪﯿﻌﺒﺗ 4th",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 9438
+        },
+        {
+          "kind": "title",
+          "id": 14043
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1660944458",
+      "attacker": {
+        "participants": [
+          {
+            "character": 156258,
+            "contribution": [
+              686,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 33651737,
+            "contribution": [
+              334,
+              0,
+              4
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 139944,
+            "contribution": [
+              2029,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 113110,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 127774,
+            "contribution": [
+              301,
+              44,
+              80
+            ]
+          }
+        ],
+        "ticking_war_score": 6.215
+      },
+      "casus_belli": "make_tributary_cb",
+      "cb_attacker": 156258,
+      "cb_defender": 139944,
+      "cb_claimant": null,
+      "start_date": "1074.4.26",
+      "name_raw": "ﯼﺭﺍﺬﮔ ﺝﺎﺑ ﮓﻨﺟ \u0015ONCLICK:TITLE,5560 \u0015TOOLTIP:LANDED_TITLE,5560 \u0015L; ﻥﺎﯿﯾﺎﮔﻮﻣ ﻩﺮﻗ\u0015!\u0015!\u0015!-\u0015ONCLICK:TITLE,5593 \u0015TOOLTIP:LANDED_TITLE,5593 \u0015L; ﯽﯾﺎﯾﺭﺩﺮﯿﺳ\u0015!\u0015!\u0015!",
+      "name": "ﯼﺭﺍﺬﮔ ﺝﺎﺑ ﮓﻨﺟ ﻥﺎﯿﯾﺎﮔﻮﻣ ﻩﺮﻗ - ﯽﯾﺎﯾﺭﺩﺮﯿﺳ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 5560
+        },
+        {
+          "kind": "title",
+          "id": 5593
+        }
+      ],
+      "battles": [
+        {
+          "province": 7108,
+          "war_score": 21.1005,
+          "attacker_won": true
+        }
+      ],
+      "war_score_sum": 21.101
+    },
+    {
+      "war_id": "1694498892",
+      "attacker": {
+        "participants": [
+          {
+            "character": 16912986,
+            "contribution": [
+              480,
+              656,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 117448079,
+            "contribution": [
+              0,
+              656,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "claim_cb",
+      "cb_attacker": 16912986,
+      "cb_defender": 117448079,
+      "cb_claimant": 134246561,
+      "start_date": "1075.4.29",
+      "name_raw": "\u0015ONCLICK:TITLE,6060 \u0015TOOLTIP:LANDED_TITLE,6060 \u0015L; ﺲﺧﺮﺳ ﺯﺍ ﯽﻧﺍﺮﻤﮑﺣ\u0015!\u0015!\u0015! ﺮﺑ \u0015ONCLICK:CHARACTER,134246561 \u0015TOOLTIP:CHARACTER,134246561 \u0015L \u0015high ﻢﮐﺎﺣ\u0015! \u0015high ﺐﺳﺎﺘﺷﻮﮔ\u0015!'s\u0015!\u0015!\u0015! ﯼﺎﻋﺩﺍ ﯼﺍﺮﺑ \u0015ONCLICK:TITLE,6024 \u0015TOOLTIP:LANDED_TITLE,6024 \u0015L; ﯼﺭﻮﺑﺎﺸﯿﻧ\u0015!\u0015!\u0015! ﮓﻨﺟ",
+      "name": "ﺲﺧﺮﺳ ﺯﺍ ﯽﻧﺍﺮﻤﮑﺣ ﺮﺑ ﻢﮐﺎﺣ ﺐﺳﺎﺘﺷﻮﮔ 's ﯼﺎﻋﺩﺍ ﯼﺍﺮﺑ ﯼﺭﻮﺑﺎﺸﯿﻧ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 6060
+        },
+        {
+          "kind": "character",
+          "id": 134246561
+        },
+        {
+          "kind": "title",
+          "id": 6024
+        }
+      ],
+      "battles": [
+        {
+          "province": 4211,
+          "war_score": 50,
+          "attacker_won": true
+        }
+      ],
+      "war_score_sum": 50
+    },
+    {
+      "war_id": "1627390030",
+      "attacker": {
+        "participants": [
+          {
+            "character": 16922633,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 100732639,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 83935018,
+            "contribution": [
+              0,
+              100,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 123580,
+            "contribution": [
+              330,
+              225,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "refused_liege_demand_war",
+      "cb_attacker": 16922633,
+      "cb_defender": 123580,
+      "cb_claimant": null,
+      "start_date": "1075.1.27",
+      "name_raw": "\u0015ONCLICK:CHARACTER,123580 \u0015TOOLTIP:CHARACTER,123580 \u0015L \u0015high ﻩﺩﺍﺰﻫﺎﺷ\u0015! \u0015high ﻞﺼﯿﻓ\u0015!\u0015!\u0015!\u0015! ﺩﺍﺪﺒﺘﺳﺍ ﻪﯿﻠﻋ ﮓﻨﺟ",
+      "name": "ﻩﺩﺍﺰﻫﺎﺷ ﻞﺼﯿﻓ ﺩﺍﺪﺒﺘﺳﺍ ﻪﯿﻠﻋ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "character",
+          "id": 123580
+        }
+      ],
+      "battles": [
+        {
+          "province": 6716,
+          "war_score": 50,
+          "attacker_won": false
+        },
+        {
+          "province": 6928,
+          "war_score": 29.048,
+          "attacker_won": false
+        }
+      ],
+      "war_score_sum": 79.048
+    },
+    {
+      "war_id": "1459617872",
+      "attacker": {
+        "participants": [
+          {
+            "character": 134273415,
+            "contribution": [
+              448,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 151056428,
+            "contribution": [
+              672,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 33651395,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 16894561,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "expansion_cb",
+      "cb_attacker": 134273415,
+      "cb_defender": 33651395,
+      "cb_claimant": null,
+      "start_date": "1075.2.16",
+      "name_raw": "\u0015ONCLICK:TITLE,1505 \u0015TOOLTIP:LANDED_TITLE,1505 \u0015L; ﺎﮑﺷﺍﺭ ﺯﺍ ﻦﯿﺸﻧ ﺖﻨﮐ\u0015!\u0015!\u0015! ﺯﺍ \u0015ONCLICK:TITLE,1542 \u0015TOOLTIP:LANDED_TITLE,1542 \u0015L; ukljaniﺩ\u0015!\u0015!\u0015! ﺵﺮﺘﺴﮔ",
+      "name": "ﺎﮑﺷﺍﺭ ﺯﺍ ﻦﯿﺸﻧ ﺖﻨﮐ ﺯﺍ ukljaniﺩ ﺵﺮﺘﺴﮔ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 1505
+        },
+        {
+          "kind": "title",
+          "id": 1542
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1879048274",
+      "attacker": {
+        "participants": [
+          {
+            "character": 50430245,
+            "contribution": [
+              0,
+              218,
+              0
+            ]
+          },
+          {
+            "character": 138017,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 33678118,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 130502,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 83936142,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": 15.345
+      },
+      "casus_belli": "claim_cb",
+      "cb_attacker": 50430245,
+      "cb_defender": 33678118,
+      "cb_claimant": 50430245,
+      "start_date": "1073.12.19",
+      "name_raw": "\u0015ONCLICK:TITLE,7514 \u0015TOOLTIP:LANDED_TITLE,7514 \u0015L; ﻥﻭﺭﺎﻫ ﻦﺑﺍ ﻪﯾﺭﺎﻣ ﺎﺘﻧﺎﺳ ﺯﺍ ﻦﯿﺸﻧ ﺦﯿﺷ\u0015!\u0015!\u0015! ﺮﺑ \u0015ONCLICK:TITLE,7436 \u0015TOOLTIP:LANDED_TITLE,7436 \u0015L; ﻪﻠﺒﻟ\u0015!\u0015!\u0015! ﯼﺎﻋﺩﺍ",
+      "name": "ﻥﻭﺭﺎﻫ ﻦﺑﺍ ﻪﯾﺭﺎﻣ ﺎﺘﻧﺎﺳ ﺯﺍ ﻦﯿﺸﻧ ﺦﯿﺷ ﺮﺑ ﻪﻠﺒﻟ ﯼﺎﻋﺩﺍ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 7514
+        },
+        {
+          "kind": "title",
+          "id": 7436
+        }
+      ],
+      "battles": [
+        {
+          "province": 1750,
+          "war_score": 2.6375,
+          "attacker_won": false
+        },
+        {
+          "province": 1845,
+          "war_score": 2.141,
+          "attacker_won": false
+        }
+      ],
+      "war_score_sum": 4.779
+    },
+    {
+      "war_id": "1761607764",
+      "attacker": {
+        "participants": [
+          {
+            "character": 33682995,
+            "contribution": [
+              920,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 16883731,
+            "contribution": [
+              170,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 67229028,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 84001556,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 142802,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 100762669,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "nomadic_conquest_cb",
+      "cb_attacker": 33682995,
+      "cb_defender": 67229028,
+      "cb_claimant": null,
+      "start_date": "1075.3.28",
+      "name_raw": "\u0015ONCLICK:TITLE,4991 \u0015TOOLTIP:LANDED_TITLE,4991 \u0015L; ﻪﮕﻟﻭﺍ ﺯﺍ ﻦﯿﺸﻧ ﮓﯿﺑ\u0015!\u0015!\u0015! ﺢﺘﻓ \u0015ONCLICK:TITLE,4990 \u0015TOOLTIP:LANDED_TITLE,4990 \u0015L; ﯼﺍ‌ﻪﮕﻟﻭﺍ\u0015!\u0015!\u0015!",
+      "name": "ﻪﮕﻟﻭﺍ ﺯﺍ ﻦﯿﺸﻧ ﮓﯿﺑ ﺢﺘﻓ ﯼﺍ‌ﻪﮕﻟﻭﺍ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 4991
+        },
+        {
+          "kind": "title",
+          "id": 4990
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1610612821",
+      "attacker": {
+        "participants": [
+          {
+            "character": 33683994,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 16861673,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 134293,
+            "contribution": [
+              0,
+              92,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 33669024,
+            "contribution": [
+              0,
+              92,
+              0
+            ]
+          },
+          {
+            "character": 122855,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "refused_liege_demand_war",
+      "cb_attacker": 33683994,
+      "cb_defender": 33669024,
+      "cb_claimant": null,
+      "start_date": "1075.5.28",
+      "name_raw": "\u0015ONCLICK:CHARACTER,33669024 \u0015TOOLTIP:CHARACTER,33669024 \u0015L \u0015high ﻩﺎﺷ\u0015! \u0015high ﺐﻤِﻠﺟﺭﺍﻭ\u0015!\u0015!\u0015!\u0015! ﺩﺍﺪﺒﺘﺳﺍ ﻪﯿﻠﻋ ﮓﻨﺟ",
+      "name": "ﻩﺎﺷ ﺐﻤِﻠﺟﺭﺍﻭ ﺩﺍﺪﺒﺘﺳﺍ ﻪﯿﻠﻋ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "character",
+          "id": 33669024
+        }
+      ],
+      "battles": [
+        {
+          "province": 5142,
+          "war_score": 10.753,
+          "attacker_won": true
+        }
+      ],
+      "war_score_sum": 10.753
+    },
+    {
+      "war_id": "1677721686",
+      "attacker": {
+        "participants": [
+          {
+            "character": 121222,
+            "contribution": [
+              1974,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 16922423,
+            "contribution": [
+              176,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 16897385,
+            "contribution": [
+              0,
+              245,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "claimant_faction_war",
+      "cb_attacker": 121222,
+      "cb_defender": 16897385,
+      "cb_claimant": 16922423,
+      "start_date": "1074.10.6",
+      "name_raw": "\u0015ONCLICK:TITLE,8094 \u0015TOOLTIP:LANDED_TITLE,8094 \u0015L; ﺭﺍﺭﺩﺍ ﺯﺍ ﺕﺭﺎﻣﺍ\u0015!\u0015!\u0015! ﺮﺑ \u0015ONCLICK:CHARACTER,16922423 \u0015TOOLTIP:CHARACTER,16922423 \u0015L ﻪﻣﻮﮕﺑﺩ ﯼﺭﺎﻣﺎﺑ's\u0015!\u0015!\u0015! ﯼﺎﻋﺩﺍ ﯼﺍﺮﺑ ﮓﻨﺟ",
+      "name": "ﺭﺍﺭﺩﺍ ﺯﺍ ﺕﺭﺎﻣﺍ ﺮﺑ ﻪﻣﻮﮕﺑﺩ ﯼﺭﺎﻣﺎﺑ's ﯼﺎﻋﺩﺍ ﯼﺍﺮﺑ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 8094
+        },
+        {
+          "kind": "character",
+          "id": 16922423
+        }
+      ],
+      "battles": [
+        {
+          "province": 6481,
+          "war_score": 15.2515,
+          "attacker_won": true
+        }
+      ],
+      "war_score_sum": 15.252
+    },
+    {
+      "war_id": "1862271063",
+      "attacker": {
+        "participants": [
+          {
+            "character": 150185,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 33652146,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": 43.835
+      },
+      "casus_belli": "retaliation_cb",
+      "cb_attacker": 150185,
+      "cb_defender": 33652146,
+      "cb_claimant": null,
+      "start_date": "1072.7.19",
+      "name_raw": "ﯽﯾﻮﺟ ﻡﺎﻘﺘﻧﺍ ﮓﻨﺟ",
+      "name": "ﯽﯾﻮﺟ ﻡﺎﻘﺘﻧﺍ ﮓﻨﺟ",
+      "name_refs": [],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1409286233",
+      "attacker": {
+        "participants": [
+          {
+            "character": 67196238,
+            "contribution": [
+              2929,
+              181,
+              0
+            ]
+          },
+          {
+            "character": 16899720,
+            "contribution": [
+              481,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 100752025,
+            "contribution": [
+              2030,
+              0,
+              18
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 83936142,
+            "contribution": [
+              0,
+              181,
+              0
+            ]
+          },
+          {
+            "character": 122339,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": 40.04
+      },
+      "casus_belli": "major_religious_war",
+      "cb_attacker": 67196238,
+      "cb_defender": 83936142,
+      "cb_claimant": null,
+      "start_date": "1072.6.7",
+      "name_raw": "\u0015ONCLICK:TITLE,7777 \u0015TOOLTIP:LANDED_TITLE,7777 \u0015L; ﺏﺮﻐﻣ ﺯﺍ ﺖﻨﻄﻠﺳ\u0015!\u0015!\u0015! ﯼﺍﺮﺑ \u0015E; \u0015TOOLTIP:GAME_CONCEPT,holy_war ﺱﺪﻘﻣ ﮓﻨﺟ\u0015!\u0015!",
+      "name": "ﺏﺮﻐﻣ ﺯﺍ ﺖﻨﻄﻠﺳ ﯼﺍﺮﺑ ﺱﺪﻘﻣ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 7777
+        }
+      ],
+      "battles": [
+        {
+          "province": 6740,
+          "war_score": 5.697,
+          "attacker_won": false
+        }
+      ],
+      "war_score_sum": 5.697
+    },
+    {
+      "war_id": "1358954587",
+      "attacker": {
+        "participants": [
+          {
+            "character": 67188969,
+            "contribution": [
+              1350,
+              0,
+              66
+            ]
+          }
+        ],
+        "ticking_war_score": 11.275
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 50452877,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 16895358,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "nomadic_war",
+      "cb_attacker": 67188969,
+      "cb_defender": 50452877,
+      "cb_claimant": 67188969,
+      "start_date": "1074.12.22",
+      "name_raw": "ﺲﮐﺪﺗﺭﺍ ﯽﻧﺎﻧﻮﯾ ﻥﺎﻨﯿﺸﻧ ﭺﻮﮐ ﻡﺎﯿﻗ",
+      "name": "ﺲﮐﺪﺗﺭﺍ ﯽﻧﺎﻧﻮﯾ ﻥﺎﻨﯿﺸﻧ ﭺﻮﮐ ﻡﺎﯿﻗ",
+      "name_refs": [],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1660944476",
+      "attacker": {
+        "participants": [
+          {
+            "character": 50421496,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 33669918,
+            "contribution": [
+              240,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "casus_belli": "make_tributary_cb",
+      "cb_attacker": 50421496,
+      "cb_defender": 33669918,
+      "cb_claimant": null,
+      "start_date": "1075.8.3",
+      "name_raw": "ﯼﺭﺍﺬﮔ ﺝﺎﺑ ﮓﻨﺟ \u0015ONCLICK:TITLE,4736 \u0015TOOLTIP:LANDED_TITLE,4736 \u0015L; ﯼﺭﻮﻧﻮﺴﭘﻭﺍ\u0015!\u0015!\u0015!-\u0015ONCLICK:TITLE,4701 \u0015TOOLTIP:LANDED_TITLE,4701 \u0015L; ﯽﯾﺎﮕﻨﺧﺭﺁ\u0015!\u0015!\u0015!",
+      "name": "ﯼﺭﺍﺬﮔ ﺝﺎﺑ ﮓﻨﺟ ﯼﺭﻮﻧﻮﺴﭘﻭﺍ - ﯽﯾﺎﮕﻨﺧﺭﺁ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 4736
+        },
+        {
+          "kind": "title",
+          "id": 4701
+        }
+      ],
+      "battles": [],
+      "war_score_sum": null
+    },
+    {
+      "war_id": "1409286249",
+      "attacker": {
+        "participants": [
+          {
+            "character": 33633419,
+            "contribution": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "character": 122281,
+            "contribution": [
+              1060,
+              0,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": null
+      },
+      "defender": {
+        "participants": [
+          {
+            "character": 83986079,
+            "contribution": [
+              0,
+              329,
+              0
+            ]
+          }
+        ],
+        "ticking_war_score": 3.025
+      },
+      "casus_belli": "religious_war",
+      "cb_attacker": 33633419,
+      "cb_defender": 83986079,
+      "cb_claimant": null,
+      "start_date": "1074.7.31",
+      "name_raw": "\u0015ONCLICK:TITLE,12052 \u0015TOOLTIP:LANDED_TITLE,12052 \u0015L; ﻭﺭﺎﭘ ﺯﺍ ﺝﺍﺭ\u0015!\u0015!\u0015! ﯼﺍﺮﺑ \u0015E; \u0015TOOLTIP:GAME_CONCEPT,holy_war ﺱﺪﻘﻣ ﮓﻨﺟ\u0015!\u0015!",
+      "name": "ﻭﺭﺎﭘ ﺯﺍ ﺝﺍﺭ ﯼﺍﺮﺑ ﺱﺪﻘﻣ ﮓﻨﺟ",
+      "name_refs": [
+        {
+          "kind": "title",
+          "id": 12052
+        }
+      ],
+      "battles": [
+        {
+          "province": 9140,
+          "war_score": 42.6525,
+          "attacker_won": true
+        },
+        {
+          "province": 9140,
+          "war_score": 37.4655,
+          "attacker_won": true
+        }
+      ],
+      "war_score_sum": 80.118
+    }
+  ],
+  "knights": [
+    16913815,
+    157300,
+    16917066,
+    50406336,
+    142044,
+    143106,
+    50405157,
+    100759333,
+    138641,
+    16900623,
+    156449,
+    149305,
+    33683146,
+    134250426,
+    16919021
+  ],
+  "regiments": [
+    {
+      "regiment_id": "16788341",
+      "type": "mangonel",
+      "size": 70,
+      "max": null,
+      "origin": null,
+      "source": null
+    },
+    {
+      "regiment_id": "67122196",
+      "type": "mangonel",
+      "size": 70,
+      "max": null,
+      "origin": 4032,
+      "source": null
+    },
+    {
+      "regiment_id": "201340710",
+      "type": "armored_horsemen",
+      "size": 350,
+      "max": null,
+      "origin": 4319,
+      "source": null
+    },
+    {
+      "regiment_id": "50346060",
+      "type": "asawira",
+      "size": 350,
+      "max": null,
+      "origin": 4341,
+      "source": null
+    },
+    {
+      "regiment_id": "67123668",
+      "type": "armored_horsemen",
+      "size": 350,
+      "max": null,
+      "origin": 4109,
+      "source": null
+    },
+    {
+      "regiment_id": "134234781",
+      "type": "armored_horsemen",
+      "size": 350,
+      "max": null,
+      "origin": 1440,
+      "source": null
+    }
+  ]
+}

@@ -1,0 +1,704 @@
+{
+  "date": "1075.9.23",
+  "ruler": {
+    "id": "16888178",
+    "name": "Mehrzad",
+    "age": 72,
+    "health": 1.5221,
+    "stress": null,
+    "gold": 3192.45609,
+    "income": 291.0847,
+    "piety": 48908.32771,
+    "prestige": 4790.35392,
+    "legitimacy": 1013.187,
+    "culture": 91,
+    "faith": 50
+  },
+  "domain_limit": 12,
+  "domain_held_count": 12,
+  "titles_held": [
+    {
+      "key": "e_arabia",
+      "name": "ﺏﺮﻋ ﯼﺭﻮﺗﺍﺮﭙﻣﺍ",
+      "tier": "e"
+    },
+    {
+      "key": "e_persia",
+      "name": "ﺱﺭﺎﭘ ﯼﺭﻮﺗﺍﺮﭙﻣﺍ",
+      "tier": "e"
+    },
+    {
+      "key": "k_transoxiana",
+      "name": "ﺩﻭﺭﺍﺮﻓ",
+      "tier": "k"
+    },
+    {
+      "key": "k_syr_darya",
+      "name": "ﺎﯾﺭﺩ ﺮﯿﺳ",
+      "tier": "k"
+    },
+    {
+      "key": "k_khorasan",
+      "name": "ﻥﺎﺳﺍﺮﺧ",
+      "tier": "k"
+    },
+    {
+      "key": "k_kabulistan",
+      "name": "ﻥﺎﺘﺴﻠﺑﺎﮐ",
+      "tier": "k"
+    },
+    {
+      "key": "k_khotan",
+      "name": "ﻥﺎﺗﻮﺧ",
+      "tier": "k"
+    },
+    {
+      "key": "k_egypt",
+      "name": "ﺮﺼﻣ",
+      "tier": "k"
+    },
+    {
+      "key": "k_arabia",
+      "name": "ﻥﺎﺘﺴﺑﺮﻋ",
+      "tier": "k"
+    },
+    {
+      "key": "k_jazira",
+      "name": "ﻩﺮﯾﺰﺟ",
+      "tier": "k"
+    },
+    {
+      "key": "k_blemmyia",
+      "name": "ﯽﯿﻤﻠﺑ",
+      "tier": "k"
+    },
+    {
+      "key": "k_yemen",
+      "name": "ﻦﻤﯾ",
+      "tier": "k"
+    },
+    {
+      "key": "d_balkh",
+      "name": "ﺦﻠﺑ",
+      "tier": "d"
+    },
+    {
+      "key": "d_soghd",
+      "name": "ﺪﻐﺳ",
+      "tier": "d"
+    },
+    {
+      "key": "d_sunni",
+      "name": "ﯽﻨﺳ ﺖﻓﻼﺧ",
+      "tier": "d"
+    },
+    {
+      "key": "d_isfahan",
+      "name": "ﻥﺎﻬﻔﺻﺍ",
+      "tier": "d"
+    }
+  ],
+  "total_vassals": 102,
+  "vassals": [
+    {
+      "vassal_id": 50426972,
+      "name": "Faraz",
+      "age": 72,
+      "contract_group": "admin_vassal",
+      "skills": [
+        8,
+        7,
+        10,
+        9,
+        12,
+        6
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 67188752,
+      "name": "Morad",
+      "age": 56,
+      "contract_group": "admin_vassal",
+      "skills": [
+        9,
+        9,
+        8,
+        7,
+        10,
+        7
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 50439525,
+      "name": "Bahram",
+      "age": 58,
+      "contract_group": "admin_vassal",
+      "skills": [
+        9,
+        7,
+        8,
+        8,
+        5,
+        7
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 50441101,
+      "name": "Paghahan",
+      "age": 64,
+      "contract_group": "admin_vassal",
+      "skills": [
+        9,
+        11,
+        7,
+        7,
+        7,
+        9
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 16890861,
+      "name": "Suhrab",
+      "age": 69,
+      "contract_group": "clan_vassal",
+      "skills": [
+        5,
+        4,
+        6,
+        11,
+        5,
+        9
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 116969,
+      "name": "Jawid",
+      "age": 67,
+      "contract_group": "clan_vassal",
+      "skills": [
+        6,
+        2,
+        4,
+        5,
+        3,
+        3
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 131962,
+      "name": "Peroz",
+      "age": 43,
+      "contract_group": "admin_vassal",
+      "skills": [
+        6,
+        3,
+        11,
+        7,
+        10,
+        5
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 143206,
+      "name": "Khashayar",
+      "age": 47,
+      "contract_group": "admin_vassal",
+      "skills": [
+        9,
+        4,
+        9,
+        10,
+        9,
+        2
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 128744,
+      "name": "Khashayar",
+      "age": 49,
+      "contract_group": "admin_vassal",
+      "skills": [
+        4,
+        6,
+        3,
+        5,
+        5,
+        4
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 129930,
+      "name": "Ghazal",
+      "age": 46,
+      "contract_group": "admin_vassal",
+      "skills": [
+        6,
+        8,
+        7,
+        10,
+        6,
+        9
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 33655892,
+      "name": "Kanakk",
+      "age": 45,
+      "contract_group": "admin_vassal",
+      "skills": [
+        6,
+        3,
+        4,
+        5,
+        4,
+        6
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 16856564,
+      "name": "Kaiyan",
+      "age": 67,
+      "contract_group": "republic_vassal",
+      "skills": [
+        7,
+        3,
+        11,
+        4,
+        7,
+        9
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 135903,
+      "name": "Hedayat",
+      "age": 39,
+      "contract_group": "admin_vassal",
+      "skills": [
+        9,
+        9,
+        8,
+        8,
+        20,
+        4
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 16911386,
+      "name": "Manuchihr",
+      "age": 56,
+      "contract_group": "admin_vassal",
+      "skills": [
+        0,
+        13,
+        13,
+        6,
+        11,
+        1
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 131441,
+      "name": "Ardeshir",
+      "age": 44,
+      "contract_group": "admin_vassal",
+      "skills": [
+        8,
+        7,
+        6,
+        8,
+        9,
+        4
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 138019,
+      "name": "Aram",
+      "age": 34,
+      "contract_group": "admin_vassal",
+      "skills": [
+        9,
+        6,
+        6,
+        6,
+        7,
+        5
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 146741,
+      "name": "Khashayar",
+      "age": 47,
+      "contract_group": "admin_vassal",
+      "skills": [
+        3,
+        9,
+        7,
+        13,
+        4,
+        3
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 135495,
+      "name": "Mehrab",
+      "age": 40,
+      "contract_group": "admin_vassal",
+      "skills": [
+        3,
+        3,
+        7,
+        6,
+        8,
+        9
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 50450527,
+      "name": "Afsaneh",
+      "age": 38,
+      "contract_group": "admin_vassal",
+      "skills": [
+        7,
+        8,
+        7,
+        6,
+        8,
+        8
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 33683146,
+      "name": "Mehrab",
+      "age": 38,
+      "contract_group": "admin_vassal",
+      "skills": [
+        8,
+        5,
+        8,
+        4,
+        3,
+        7
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 125558,
+      "name": "Bahar",
+      "age": 53,
+      "contract_group": "admin_vassal",
+      "skills": [
+        6,
+        5,
+        8,
+        6,
+        7,
+        5
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 83997257,
+      "name": "Abdallah",
+      "age": 27,
+      "contract_group": "admin_vassal",
+      "skills": [
+        7,
+        6,
+        4,
+        8,
+        8,
+        5
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 129009,
+      "name": "Naraiman",
+      "age": 47,
+      "contract_group": "admin_vassal",
+      "skills": [
+        6,
+        7,
+        7,
+        7,
+        6,
+        10
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 117510106,
+      "name": "Sahba",
+      "age": 47,
+      "contract_group": "feudal_vassal",
+      "skills": [
+        4,
+        6,
+        10,
+        6,
+        6,
+        4
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 147115,
+      "name": "Zand",
+      "age": 61,
+      "contract_group": "admin_vassal",
+      "skills": [
+        8,
+        10,
+        9,
+        10,
+        6,
+        2
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 16912739,
+      "name": "Azarkhsh",
+      "age": 35,
+      "contract_group": "admin_vassal",
+      "skills": [
+        10,
+        7,
+        9,
+        7,
+        6,
+        5
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 50415825,
+      "name": "Chenpa",
+      "age": 58,
+      "contract_group": "feudal_vassal",
+      "skills": [
+        6,
+        3,
+        2,
+        7,
+        6,
+        9
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 67210577,
+      "name": "SelC_uk",
+      "age": 29,
+      "contract_group": "nomad_vassal",
+      "skills": [
+        6,
+        6,
+        5,
+        7,
+        4,
+        10
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 67200699,
+      "name": "Takhsichvandak",
+      "age": 39,
+      "contract_group": "republic_vassal",
+      "skills": [
+        4,
+        3,
+        4,
+        5,
+        6,
+        1
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 16863162,
+      "name": "Neda",
+      "age": 47,
+      "contract_group": "clan_vassal",
+      "skills": [
+        7,
+        7,
+        5,
+        7,
+        4,
+        7
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 134723,
+      "name": "Hoshang",
+      "age": 40,
+      "contract_group": "clan_vassal",
+      "skills": [
+        6,
+        7,
+        6,
+        3,
+        5,
+        4
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 137991,
+      "name": "Donya",
+      "age": 34,
+      "contract_group": "admin_vassal",
+      "skills": [
+        8,
+        6,
+        6,
+        10,
+        3,
+        7
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 136419,
+      "name": "Salman",
+      "age": 38,
+      "contract_group": "admin_vassal",
+      "skills": [
+        7,
+        8,
+        9,
+        7,
+        6,
+        6
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 16895618,
+      "name": "Mas_ud",
+      "age": 28,
+      "contract_group": "clan_vassal",
+      "skills": [
+        6,
+        5,
+        6,
+        6,
+        8,
+        5
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 33686956,
+      "name": "Pashang",
+      "age": 32,
+      "contract_group": "admin_vassal",
+      "skills": [
+        5,
+        5,
+        8,
+        7,
+        8,
+        6
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 136511,
+      "name": "Jahanshah",
+      "age": 37,
+      "contract_group": "admin_vassal",
+      "skills": [
+        12,
+        8,
+        10,
+        6,
+        8,
+        5
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 50409706,
+      "name": "Ahmad",
+      "age": 34,
+      "contract_group": "admin_vassal",
+      "skills": [
+        9,
+        7,
+        7,
+        4,
+        7,
+        8
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 16891321,
+      "name": "Aram",
+      "age": 33,
+      "contract_group": "admin_vassal",
+      "skills": [
+        11,
+        9,
+        5,
+        9,
+        6,
+        5
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 33650285,
+      "name": "Hossein",
+      "age": 33,
+      "contract_group": "admin_vassal",
+      "skills": [
+        10,
+        8,
+        9,
+        10,
+        9,
+        6
+      ],
+      "war_with_liege": null
+    },
+    {
+      "vassal_id": 33671337,
+      "name": "GE_khO_",
+      "age": 55,
+      "contract_group": "feudal_vassal",
+      "skills": [
+        6,
+        5,
+        7,
+        10,
+        6,
+        6
+      ],
+      "war_with_liege": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+			holder=16800144
+		}
+ }
+	capital=5659
+	coat_of_arms_id=876
+	nomad_name_type=default
+}
+5659={
+	key=c_bukhara
+	de_facto_liege=5658
+	de_jure_liege=5658
+	de_jure_vassals={ 5660 5661 5662 5663 5664 }
+	holder=8975
+	name="ﺍﺭﺎﺨﺑ"
+	adj="ﯽﯾﺍﺭﺎﺨﺑ"
+	date=864.1.1
+	heir={ 7714 31282 7834 16813586 9469 9495 9542 7486 31640 31787 6898 16792276 33566397 39482 8500 }
+	claim={ 7484 }
+	history={ 660.1.1=2137 681.1.1=2283 700.1.1=2530 739.1.1=3185 750.1.1=3266 757.1.1=3449 783.1.1=4605 810.1.1=5388 823.1.1=6074 853.1.1=7484 864.1.1=8975 }
+	capital=5659
+	coat_of_arms_id=877
+	nomad_name_type=default
+}
+5660={
+	key=

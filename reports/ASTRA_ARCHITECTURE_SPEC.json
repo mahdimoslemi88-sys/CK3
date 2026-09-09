@@ -1,0 +1,137 @@
+{
+  "schema_version": "2.0.0",
+  "title": "Astra Imperial Council Architecture Specification",
+  "scenario": "Samanid Administrative Mega-Empire (1075 CE)",
+  "controller": {
+    "name": "astra_imperial_controller",
+    "role": "Chief Imperial Coordinator",
+    "mission": "Synthesize subagent outputs, resolve conflicting priorities, and produce the consolidated Player Action Queue."
+  },
+  "subagents": [
+    {
+      "id": "vizier_succession_crisis",
+      "order": 1,
+      "title": "دیوان جانشینی و مشروعیت",
+      "focus": "Acclamation voting, claimant neutralization, day-zero succession simulation"
+    },
+    {
+      "id": "vizier_administration_governors",
+      "order": 2,
+      "title": "دیوان ولایات و استانداران",
+      "focus": "102 Theme governors, 10 kingdoms allocation, influence management"
+    },
+    {
+      "id": "vizier_dynasty_genetics",
+      "order": 3,
+      "title": "دیوان انساب و مهندسی خاندان",
+      "focus": "Eugenics, Genius/Beautiful/Herculean traits, Prince Hedayat spouse, matrilineal lines"
+    },
+    {
+      "id": "vizier_military_intelligence",
+      "order": 4,
+      "title": "دیوان اطلاعات نظامی",
+      "focus": "Enemy target bank, MaA counters, commander prowess, supply lines"
+    },
+    {
+      "id": "vizier_economy_infrastructure",
+      "order": 5,
+      "title": "دیوان خزانه و زیرساخت",
+      "focus": "Resource conversion, monthly profit allocation, long-term development"
+    },
+    {
+      "id": "vizier_cultural_assimilation",
+      "order": 6,
+      "title": "دیوان فرهنگ‌پذیری",
+      "focus": "Vassal-swarm county conversion, hybrid culture engineering, Persian expansion"
+    },
+    {
+      "id": "vizier_shadow_network",
+      "order": 7,
+      "title": "شبکه اطلاعات و دسیسه",
+      "focus": "Active schemes monitoring, heir physical protection, secret hooks leverage"
+    },
+    {
+      "id": "vizier_grand_campaigns",
+      "order": 8,
+      "title": "ستاد فتوحات قاره‌ای",
+      "focus": "Continental multi-front wars, Byzantine downfall, 49k piety claim bombing"
+    }
+  ],
+  "io_protocol": {
+    "input_format": {
+      "required_fields": [
+        "MISSION",
+        "DATE",
+        "RULER",
+        "THREAT_LEVEL",
+        "AVAILABLE_RESOURCES",
+        "DATA_SLICE"
+      ]
+    },
+    "output_schema": {
+      "type": "object",
+      "required": [
+        "priority",
+        "issue",
+        "analysis",
+        "actions",
+        "confidence"
+      ],
+      "properties": {
+        "priority": {
+          "type": "string",
+          "enum": [
+            "CRITICAL",
+            "HIGH",
+            "MEDIUM",
+            "LOW"
+          ]
+        },
+        "issue": {
+          "type": "string"
+        },
+        "analysis": {
+          "type": "string"
+        },
+        "actions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "action",
+              "target",
+              "deadline",
+              "risk"
+            ],
+            "properties": {
+              "action": {
+                "type": "string"
+              },
+              "target": {
+                "type": "string"
+              },
+              "deadline": {
+                "type": "string"
+              },
+              "risk": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "confidence": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100
+        }
+      }
+    }
+  },
+  "execution_pipeline": [
+    "extract_save",
+    "run_specialized_viziers_in_sequence",
+    "collect_json_outputs",
+    "astra_controller_synthesis",
+    "generate_player_action_queue"
+  ]
+}

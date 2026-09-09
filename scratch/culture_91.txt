@@ -1,0 +1,425 @@
+		91={
+			culture_template="persian"
+			culture_era_data={ {
+					type=culture_era_tribal
+					progress=100
+					left=914
+				}
+ {
+					type=culture_era_early_medieval
+					progress=100
+					join=914
+				}
+ {
+					type=culture_era_high_medieval
+				}
+ {
+					type=culture_era_late_medieval
+				}
+ }
+			culture_innovation={ {
+					type=innovation_zweihanders
+				}
+ {
+					type=innovation_adaptive_militia
+				}
+ {
+					type=innovation_valets
+				}
+ {
+					type=innovation_pike_columns
+				}
+ {
+					type=innovation_legionnaires
+				}
+ {
+					type=innovation_desert_tactics
+				}
+ {
+					type=innovation_caballeros
+				}
+ {
+					type=innovation_hobbies
+				}
+ {
+					type=innovation_rectilinear_schiltron
+				}
+ {
+					type=innovation_bamboo_bows
+				}
+ {
+					type=innovation_sahel_horsemen
+				}
+ {
+					type=innovation_sarawit
+				}
+ {
+					type=innovation_repeating_crossbow
+				}
+ {
+					type=innovation_pole_vault
+				}
+ {
+					type=innovation_battlements
+					progress=55.56
+				}
+ {
+					type=innovation_mangonel
+					progress=100
+				}
+ {
+					type=innovation_burhs
+					progress=27.98
+				}
+ {
+					type=innovation_house_soldiers
+					progress=33.7
+				}
+ {
+					type=innovation_horseshoes
+					progress=35.14
+				}
+ {
+					type=innovation_arched_saddle
+					progress=45.4
+				}
+ {
+					type=innovation_hereditary_rule
+					progress=94.38
+				}
+ {
+					type=innovation_manorialism
+					progress=35.46
+				}
+ {
+					type=innovation_development_02
+					progress=34.9
+				}
+ {
+					type=innovation_currency_02
+					progress=28.14
+				}
+ {
+					type=innovation_royal_prerogative
+					progress=100
+				}
+ {
+					type=innovation_chronicle_writing
+					progress=100
+				}
+ {
+					type=innovation_armilary_sphere
+					progress=100
+				}
+ {
+					type=innovation_baliffs
+					progress=35.02
+				}
+ {
+					type=innovation_reconquista
+				}
+ {
+					type=innovation_stem_duchies
+				}
+ {
+					type=innovation_ghilman
+				}
+ {
+					type=fp3_innovation_mural_sextant
+				}
+ {
+					type=fp3_innovation_fritware
+				}
+ {
+					type=innovation_hoardings
+				}
+ {
+					type=innovation_trebuchet
+				}
+ {
+					type=innovation_castle_baileys
+				}
+ {
+					type=innovation_men_at_arms
+				}
+ {
+					type=innovation_knighthood
+				}
+ {
+					type=innovation_advanced_bowmaking
+				}
+ {
+					type=innovation_heraldry
+				}
+ {
+					type=innovation_windmills
+				}
+ {
+					type=innovation_divine_right
+				}
+ {
+					type=innovation_land_grants
+				}
+ {
+					type=innovation_scutage
+				}
+ {
+					type=innovation_guilds
+				}
+ {
+					type=innovation_development_03
+				}
+ {
+					type=innovation_currency_03
+				}
+ {
+					type=innovation_east_settling
+				}
+ {
+					type=innovation_seigneurialism
+				}
+ {
+					type=innovation_muladi
+				}
+ {
+					type=innovation_french_peerage
+				}
+ {
+					type=innovation_machicolations
+				}
+ {
+					type=innovation_bombard
+				}
+ {
+					type=innovation_royal_armory
+				}
+ {
+					type=innovation_standing_armies
+				}
+ {
+					type=innovation_sappers
+				}
+ {
+					type=innovation_plate_armor
+				}
+ {
+					type=innovation_primogeniture
+				}
+ {
+					type=innovation_cranes
+				}
+ {
+					type=innovation_noblesse_oblige
+				}
+ {
+					type=innovation_rightful_ownership
+				}
+ {
+					type=innovation_ermine_cloaks
+				}
+ {
+					type=innovation_court_officials
+				}
+ {
+					type=innovation_development_04
+				}
+ {
+					type=innovation_currency_04
+				}
+ {
+					type=innovation_wierdijks
+				}
+ {
+					type=innovation_condottieri
+				}
+ {
+					type=innovation_deccan_unity
+				}
+ {
+					type=innovation_motte
+					progress=100
+				}
+ {
+					type=innovation_catapult
+					progress=100
+				}
+ {
+					type=innovation_barracks
+					progress=100
+				}
+ {
+					type=innovation_mustering_grounds
+					progress=100
+				}
+ {
+					type=innovation_bannus
+					progress=100
+				}
+ {
+					type=innovation_quilted_armor
+					progress=100
+				}
+ {
+					type=innovation_development_01
+					progress=100
+				}
+ {
+					type=innovation_currency_01
+					progress=100
+				}
+ {
+					type=innovation_gavelkind
+					progress=100
+				}
+ {
+					type=innovation_crop_rotation
+					progress=100
+				}
+ {
+					type=innovation_city_planning
+					progress=100
+				}
+ {
+					type=innovation_casus_belli
+					progress=100
+				}
+ {
+					type=innovation_plenary_assemblies
+					progress=100
+				}
+ {
+					type=innovation_ledger
+					progress=100
+				}
+ {
+					type=innovation_table_of_princes
+				}
+ {
+					type=innovation_longboats
+				}
+ {
+					type=innovation_elephantry
+				}
+ {
+					type=innovation_war_camels
+					progress=100
+				}
+ {
+					type=innovation_wootz_steel
+				}
+ {
+					type=innovation_african_canoes
+				}
+ {
+					type=innovation_varangian_adventurers
+				}
+ {
+					type=innovation_all_things
+				}
+ {
+					type=innovation_sanitation
+				}
+ }
+			culture_reformation={
+				start_time=1.1.1
+				progress=0
+			}
+			exposure_marker=innovation_hereditary_rule
+			fascination_marker=innovation_battlements
+			culture_marker=7
+			exposure_type=religion
+			head=96352
+			acceptance={
+				92=100
+				93=65.29611
+				94=71.61134
+				95=82.21121
+				96=34.34362
+				97=27.45015
+				98=38.96439
+				99=35.90465
+				100=0.01846
+				101=20
+				116=3.42821
+				154=13.09289
+				155=7
+				157=10.86821
+				202=38.64243
+				205=0.00344
+				212=5
+				215=1.03223
+				216=0.00355
+				227=0.08383
+				228=80.08928
+				230=1.9428
+				234=1.7378
+				235=5.0168
+				238=9.86182
+				239=100
+			}
+			acceptance_changes={
+				95={
+					1002.3.29="29 Mar 1002ERA_BCE: ﺪﺷ ﺎﻄﻋﺍ ONCLICK:CULTURE,95 TOOLTIP:CULTURE,95 L; ﮏﯿﺟﺎﺗ!!! E; TOOLTIP:GAME_CONCEPT,culture ﮓﻨﻫﺮﻓ!! ﺯﺍ E; TOOLTIP:GAME_CONCEPT,ruler ﻢﮐﺎﺣ!! ﮏﯾ ﻪﺑ ONCLICK:TITLE,6025 TOOLTIP:LANDED_TITLE,6025 L; ﺭﻮﺑﺎﺸﯿﻧ ﺯﺍ ﺖﯾﻻﻭ!!!: positive_value +3.7!" 					1009.12.26="26 Dec 1009ERA_BCE: ﯽﮕﻨﻫﺮﻓ ﺵﺮﯾﺬﭘ ، ﺭﺎﺑﺭﺩ ﺭﺩ ﯽﻤﯿﻤﺼﺗ
+.ﺩﺍﺩ ﺮﯿﯿﻐﺗ ﺍﺭ: negative_value -5.0!" 				}
+
+				117={
+					973.8.17="17 Aug 973ERA_BCE: ﺎﻫ ﺖﯿﻠﻗﺍ ﺯﺍ ﯽﺧﺮﺑ ﻪﺑ ﻮﺟﺍﺮﺟﺎﻣ ﮏﯾ
+ﺭﺍﺮﻓ ﺖﯾﺫﺍ ﻭ ﺭﺍﺯﺁ ﺯﺍ ﺎﺗ ﺩﺮﮐ ﮏﻤﮐ
+ﺪﻨﻨﮐ: positive_value +2.5!" 				}
+
+				149={
+					1000.1.13="13 Jan 1000ERA_BCE: ONCLICK:CULTURE,149 TOOLTIP:CULTURE,149 L; ﮓﻧﻭﮋﮕﻧﺍﮊ!!! ﻪﯿﻠﻋ ONCLICK:CULTURE,91 TOOLTIP:CULTURE,91 L; ﯽﺳﺭﺎﻓ!!! ﮓﻨﺟ: negative_value -3.0!" 				}
+
+				150={
+					989.5.2="2 May 989ERA_BCE: ﮏﯾ ﻂﺳﻮﺗ ﻩﺪﺷ ﻪﺘﻓﺮﮔ ﺵﻮﻏﺁ ﺭﺩ
+ﮒﺭﺰﺑ ﻥﺎﻣﺮﻬﻗ: positive_value +5.0!" 				}
+
+				154={
+					1002.11.12="12 Nov 1002ERA_BCE: ONCLICK:CULTURE,154 TOOLTIP:CULTURE,154 L; ﺯﻮﻏﻭﺍ!!! ﻪﯿﻠﻋ ONCLICK:CULTURE,91 TOOLTIP:CULTURE,91 L; ﯽﺳﺭﺎﻓ!!! ﮓﻨﺟ: negative_value -2.0!" 					1006.3.5="5 Mar 1006ERA_BCE: ONCLICK:CULTURE,154 TOOLTIP:CULTURE,154 L; ﺯﻮﻏﻭﺍ!!! ﻪﯿﻠﻋ ONCLICK:CULTURE,91 TOOLTIP:CULTURE,91 L; ﯽﺳﺭﺎﻓ!!! ﮓﻨﺟ: negative_value -1.0!" 					1006.9.27="27 Sep 1006ERA_BCE: ONCLICK:CULTURE,154 TOOLTIP:CULTURE,154 L; ﺯﻮﻏﻭﺍ!!! ﻪﯿﻠﻋ ONCLICK:CULTURE,91 TOOLTIP:CULTURE,91 L; ﯽﺳﺭﺎﻓ!!! ﮓﻨﺟ: negative_value -1.0!" 					1008.6.23="23 Jun 1008ERA_BCE: ONCLICK:CULTURE,154 TOOLTIP:CULTURE,154 L; ﺯﻮﻏﻭﺍ!!! ﻪﯿﻠﻋ ONCLICK:CULTURE,91 TOOLTIP:CULTURE,91 L; ﯽﺳﺭﺎﻓ!!! ﮓﻨﺟ: negative_value -1.0!" 					1010.10.31="31 Oct 1010ERA_BCE: ﻝﻮﻃ ﺭﺩ ﻡﺍﺮﺘﺣﺍ ﺯﺍ ﻞﺑﺎﻘﺘﻣ ﯽﺸﯾﺎﻤﻧ
+ﯼﺭﺍﺬﮔ ﺝﺎﺗ ﯼﺎﻫﺪﻨﮔﻮﺳ: positive_value +2.5!" 					1011.1.1="1 Jan 1011ERA_BCE: ONCLICK:CULTURE,154 TOOLTIP:CULTURE,154 L; ﺯﻮﻏﻭﺍ!!! ﻪﯿﻠﻋ ONCLICK:CULTURE,91 TOOLTIP:CULTURE,91 L; ﯽﺳﺭﺎﻓ!!! ﮓﻨﺟ: negative_value -1.0!" 				}
+
+				155={
+					936.3.25="25 Mar 936ERA_BCE: ONCLICK:CULTURE,155 TOOLTIP:CULTURE,155 L; ﻖﻨﭽﭘ!!! ﻪﯿﻠﻋ ONCLICK:CULTURE,91 TOOLTIP:CULTURE,91 L; ﯽﺳﺭﺎﻓ!!! ﮓﻨﺟ: negative_value -2.0!" 					958.7.1="1 Jul 958ERA_BCE: ﮏﯾ ﻂﺳﻮﺗ ﻩﺪﺷ ﻪﺘﻓﺮﮔ ﺵﻮﻏﺁ ﺭﺩ
+ﮒﺭﺰﺑ ﻥﺎﻣﺮﻬﻗ: positive_value +5.0!" 					984.5.7="7 May 984ERA_BCE: ﺎﺑ ﺍﺭ ﯼﺰﭙﺷﺁ ﯼﺎﻫ ﮏﯿﻨﮑﺗ ﮓﻨﻫﺮﻓ ﻭﺩ
+.ﺪﻧﺩﺮﮐ ﻪﻟﺩﺎﺒﻣ ﺮﮕﯾﺪﮑﯾ: positive_value +2.0!" 				}
+
+				159={
+					1001.3.3="3 Mar 1001ERA_BCE: ﯽﮕﻨﻫﺮﻓ ﺵﺮﯾﺬﭘ ، ﺭﺎﺑﺭﺩ ﺭﺩ ﯽﻤﯿﻤﺼﺗ
+.ﺩﺍﺩ ﺮﯿﯿﻐﺗ ﺍﺭ: positive_value +2.0!" 				}
+
+				161={
+					905.7.13="13 Jul 905ERA_BCE: ONCLICK:CULTURE,91 TOOLTIP:CULTURE,91 L; ﯽﺳﺭﺎﻓ!!! ﻪﯿﻠﻋ ONCLICK:CULTURE,161 TOOLTIP:CULTURE,161 L; ﻕﻮﻟﺭﺎﻗ!!! ﮓﻨﺟ: negative_value -3.0!" 					924.2.4="4 Feb 924ERA_BCE: ONCLICK:CULTURE,91 TOOLTIP:CULTURE,91 L; ﯽﺳﺭﺎﻓ!!! ﻪﯿﻠﻋ ONCLICK:CULTURE,161 TOOLTIP:CULTURE,161 L; ﻕﻮﻟﺭﺎﻗ!!! ﮓﻨﺟ: negative_value -1.0!" 					926.8.29="29 Aug 926ERA_BCE: ONCLICK:CULTURE,91 TOOLTIP:CULTURE,91 L; ﯽﺳﺭﺎﻓ!!! ﻪﯿﻠﻋ ONCLICK:CULTURE,161 TOOLTIP:CULTURE,161 L; ﻕﻮﻟﺭﺎﻗ!!! ﮓﻨﺟ: negative_value -1.0!" 					927.5.9="9 May 927ERA_BCE: ONCLICK:CULTURE,161 TOOLTIP:CULTURE,161 L; ﻕﻮﻟﺭﺎﻗ!!! ﻪﯿﻠﻋ ONCLICK:CULTURE,91 TOOLTIP:CULTURE,91 L; ﯽﺳﺭﺎﻓ!!! ﮓﻨﺟ: negative_value -1.0!" 				}
+
+				165={
+					994.6.11="11 Jun 994ERA_BCE: ONCLICK:CULTURE,165 TOOLTIP:CULTURE,165 L; ﺰﯿﻗﺮﻗ!!! ﻪﯿﻠﻋ ONCLICK:CULTURE,91 TOOLTIP:CULTURE,91 L; ﯽﺳﺭﺎﻓ!!! ﮓﻨﺟ: negative_value -2.0!" 					996.12.6="6 Dec 996ERA_BCE: ﻖﯿﺒﻄﺗ ﺍﺭ E; TOOLTIP:GAME_CONCEPT,culture ﮓﻨﻫﺮﻓ!! ﻦﯾﺍ ﺯﺍ ﻭﺍ ﻥﺍﺭﺍﺬﮔ ﺝﺍﺮﺧ ONCLICK:CHARACTER,67143938 TOOLTIP:CHARACTER,67143938 L ﺎﻫﺰﯿﻗﺮﻗ ﺯﺍ ﻥﺎﻤﭼﺎﺑ ﺮﺒﺘﻠﯾﺍ!!!
+ﺩﺍﺩ: positive_value +4.0!" 				}
+
+				166={
+					1007.3.12="12 Mar 1007ERA_BCE:  ﻭ ONCLICK:CULTURE,91 TOOLTIP:CULTURE,91 L; ﺎﻫ ﺱﺭﺎﻓ!!! ﻦﯿﺑ E; TOOLTIP:GAME_CONCEPT,cultural_acceptance ﯽﮕﻨﻫﺮﻓ ﺵﺮﯾﺬﭘ!!
+. ﺪﺑﺎﯾ: positive_value +2.5!" 				}
+
+				168={
+					993.6.2="2 Jun 993ERA_BCE: ONCLICK:CULTURE,168 TOOLTIP:CULTURE,168 L; ﯼﺎﻫ ﮏﻧﺎﯾﺭﻭﺍ!!! ﻪﯿﻠﻋ ONCLICK:CULTURE,91 TOOLTIP:CULTURE,91 L; ﯽﺳﺭﺎﻓ!!! ﮓﻨﺟ: negative_value -1.0!" 					1009.5.18="18 May 1009ERA_BCE: ONCLICK:CULTURE,168 TOOLTIP:CULTURE,168 L; ﯼﺎﻫ ﮏﻧﺎﯾﺭﻭﺍ!!! ﻪﯿﻠﻋ ONCLICK:CULTURE,91 TOOLTIP:CULTURE,91 L; ﯽﺳﺭﺎﻓ!!! ﮓﻨﺟ: negative_value -1.0!" 					1011.9.28="28 Sep 1011ERA_BCE: ONCLICK:CULTURE,91 TOOLTIP:CULTURE,91 L; ﯽﺳﺭﺎﻓ!!! ﻪﯿﻠﻋ ONCLICK:CULTURE,168 TOOLTIP:CULTURE,168 L; ﯼﺎﻫ ﮏﻧﺎﯾﺭﻭﺍ!!! ﮓﻨﺟ: negative_value -1.0!" 				}
+
+				216={
+					1005.11.5="5 Nov 1005ERA_BCE: ONCLICK:CULTURE,216 TOOLTIP:CULTURE,216 L; ﺎﮔﻮﺑﺭﻮﮐﻪﺳﺎﻨﺷ!!! ﻪﯿﻠﻋ ONCLICK:CULTURE,91 TOOLTIP:CULTURE,91 L; ﯽﺳﺭﺎﻓ!!! ﮓﻨﺟ: negative_value -1.0!" 				}
+
+				220={
+					967.10.19="19 Oct 967ERA_BCE: ﺎﻫﺩﺍﺪﯾﻭﺭ ﺯﺍ: positive_value +1.0!" 				}
+
+				221={
+					990.3.4="4 Mar 990ERA_BCE: ONCLICK:CULTURE,221 TOOLTIP:CULTURE,221 L; ﯼﺮﯿﻤﺸﮐ-ﺎﭘﺩﻮﺑ!!! ﻪﯿﻠﻋ ONCLICK:CULTURE,91 TOOLTIP:CULTURE,91 L; ﯽﺳﺭﺎﻓ!!! ﮓﻨﺟ: negative_value -3.0!" 				}
+
+			}
+			name="persian"
+			color=rgb { 25 153 204 }
+			collective_noun="persian_collective_noun"
+			prefix="persian_prefix"
+			name_list=name_list_persian			created=1.1.1
+			ethnicities={ 8=arab 5=mediterranean 5=turkic_west }
+			building_gfx={ "iranian_building_gfx" }
+			clothing_gfx={ "iranian_clothing_gfx" "mena_clothing_gfx" }
+			unit_gfx={ "iranian_unit_gfx" }
+			coa_gfx={ "iranian_group_coa_gfx" }
+			traditions={ tradition_gardening tradition_futuwaa tradition_ce1_ritual_washing tradition_fp3_irrigation_experts tradition_fp3_beacon_of_learning tradition_fp3_enlightened_magnates }
+			ethos=ethos_courtly			heritage=heritage_iranian			language=language_iranian			martial_custom=martial_custom_male_only			head_determination=head_determination_domain		}

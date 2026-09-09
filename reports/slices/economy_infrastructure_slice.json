@@ -1,0 +1,551 @@
+{
+  "date": "1075.9.23",
+  "ruler": {
+    "id": "16888178",
+    "name": "Mehrzad",
+    "age": 72,
+    "health": 1.5221,
+    "stress": null,
+    "gold": 3192.45609,
+    "income": 291.0847,
+    "piety": 48908.32771,
+    "prestige": 4790.35392,
+    "legitimacy": 1013.187,
+    "culture": 91,
+    "faith": 50
+  },
+  "treasury": 3192.45609,
+  "income": 291.0847,
+  "counties": [
+    {
+      "county_key": "c_khotan",
+      "development": 22,
+      "development_progress": 30.5879,
+      "county_control": 100,
+      "culture": 97,
+      "faith": 50,
+      "title_id": "5413",
+      "holder": 16888178,
+      "capital": 5413,
+      "de_jure_liege": 5412,
+      "mapped": true
+    },
+    {
+      "county_key": "c_bukhara",
+      "development": 42,
+      "development_progress": 79.84021,
+      "county_control": 100,
+      "culture": 91,
+      "faith": 50,
+      "title_id": "5659",
+      "holder": 16888178,
+      "capital": 5659,
+      "de_jure_liege": 5658,
+      "mapped": true
+    },
+    {
+      "county_key": "c_nakhshab",
+      "development": 30,
+      "development_progress": 73.88602,
+      "county_control": 100,
+      "culture": 98,
+      "faith": 50,
+      "title_id": "5673",
+      "holder": 16888178,
+      "capital": 5673,
+      "de_jure_liege": 5658,
+      "mapped": true
+    },
+    {
+      "county_key": "c_dabusiya",
+      "development": 30,
+      "development_progress": 95.32541,
+      "county_control": 100,
+      "culture": 98,
+      "faith": 50,
+      "title_id": "5683",
+      "holder": 16888178,
+      "capital": 5683,
+      "de_jure_liege": 5658,
+      "mapped": true
+    },
+    {
+      "county_key": "c_samarkand",
+      "development": 23,
+      "development_progress": 9.37027,
+      "county_control": 100,
+      "culture": 98,
+      "faith": 50,
+      "title_id": "5688",
+      "holder": 16888178,
+      "capital": 5688,
+      "de_jure_liege": 5658,
+      "mapped": true
+    },
+    {
+      "county_key": "c_isfahan",
+      "development": 34,
+      "development_progress": 41.47987,
+      "county_control": 100,
+      "culture": 91,
+      "faith": 9,
+      "title_id": "5836",
+      "holder": 16888178,
+      "capital": 5836,
+      "de_jure_liege": 5835,
+      "mapped": true
+    },
+    {
+      "county_key": "c_luristan",
+      "development": 23,
+      "development_progress": 6.75712,
+      "county_control": 100,
+      "culture": 164,
+      "faith": 50,
+      "title_id": "5852",
+      "holder": 16888178,
+      "capital": 5852,
+      "de_jure_liege": 5835,
+      "mapped": true
+    },
+    {
+      "county_key": "c_rayy",
+      "development": 24,
+      "development_progress": 11.0587,
+      "county_control": 100,
+      "culture": 91,
+      "faith": 50,
+      "title_id": "5901",
+      "holder": 16888178,
+      "capital": 5901,
+      "de_jure_liege": 5900,
+      "mapped": true
+    },
+    {
+      "county_key": "c_qom",
+      "development": 30,
+      "development_progress": 25.3534,
+      "county_control": 100,
+      "culture": 91,
+      "faith": 50,
+      "title_id": "5910",
+      "holder": 16888178,
+      "capital": 5910,
+      "de_jure_liege": 5900,
+      "mapped": true
+    },
+    {
+      "county_key": "c_balkh",
+      "development": 24,
+      "development_progress": 10.17615,
+      "county_control": 100,
+      "culture": 98,
+      "faith": 50,
+      "title_id": "6125",
+      "holder": 16888178,
+      "capital": 6125,
+      "de_jure_liege": 6124,
+      "mapped": true
+    },
+    {
+      "county_key": "c_west-tokharestan",
+      "development": 21,
+      "development_progress": 74.823,
+      "county_control": 100,
+      "culture": 98,
+      "faith": 50,
+      "title_id": "6131",
+      "holder": 16888178,
+      "capital": 6131,
+      "de_jure_liege": 6124,
+      "mapped": true
+    },
+    {
+      "county_key": "c_dihistan",
+      "development": 16,
+      "development_progress": 86.14955,
+      "county_control": 100,
+      "culture": 94,
+      "faith": 50,
+      "title_id": "6197",
+      "holder": 16888178,
+      "capital": 6197,
+      "de_jure_liege": 6191,
+      "mapped": true
+    }
+  ],
+  "holdings": [
+    {
+      "province_id": "5413",
+      "county_key": "c_khotan",
+      "winter_severity": null,
+      "next_winter_target_date": null,
+      "holding_type": null,
+      "holding_owner": null,
+      "income": 0,
+      "levy": null,
+      "garrison": null,
+      "fort_level": null,
+      "buildings": [
+        {
+          "type": null,
+          "level": null
+        },
+        {
+          "type": null,
+          "level": null
+        },
+        {
+          "type": null,
+          "level": null
+        }
+      ],
+      "constructions": []
+    },
+    {
+      "province_id": "5659",
+      "county_key": "c_bukhara",
+      "winter_severity": null,
+      "next_winter_target_date": null,
+      "holding_type": null,
+      "holding_owner": null,
+      "income": 0,
+      "levy": null,
+      "garrison": null,
+      "fort_level": null,
+      "buildings": [
+        {
+          "type": null,
+          "level": null
+        },
+        {
+          "type": null,
+          "level": null
+        },
+        {
+          "type": null,
+          "level": null
+        },
+        {
+          "type": null,
+          "level": null
+        }
+      ],
+      "constructions": []
+    },
+    {
+      "province_id": "5673",
+      "county_key": "c_nakhshab",
+      "winter_severity": null,
+      "next_winter_target_date": null,
+      "holding_type": "city_holding",
+      "holding_owner": null,
+      "income": 2.5155,
+      "levy": 1140,
+      "garrison": 1141,
+      "fort_level": null,
+      "buildings": [
+        {
+          "type": "city_01",
+          "level": 1
+        },
+        {
+          "type": "guild_halls_02",
+          "level": 2
+        },
+        {
+          "type": "quarries_02",
+          "level": 2
+        },
+        {
+          "type": "hospices_02",
+          "level": 2
+        }
+      ],
+      "constructions": []
+    },
+    {
+      "province_id": "5683",
+      "county_key": "c_dabusiya",
+      "winter_severity": null,
+      "next_winter_target_date": null,
+      "holding_type": "church_holding",
+      "holding_owner": null,
+      "income": 0.63472,
+      "levy": 1222,
+      "garrison": 1223,
+      "fort_level": null,
+      "buildings": [
+        {
+          "type": "temple_01",
+          "level": 1
+        },
+        {
+          "type": "hunting_grounds_02",
+          "level": 2
+        },
+        {
+          "type": "monastic_schools_02",
+          "level": 2
+        },
+        {
+          "type": "scriptorium_02",
+          "level": 2
+        }
+      ],
+      "constructions": []
+    },
+    {
+      "province_id": "5688",
+      "county_key": "c_samarkand",
+      "winter_severity": null,
+      "next_winter_target_date": null,
+      "holding_type": null,
+      "holding_owner": null,
+      "income": 0,
+      "levy": null,
+      "garrison": null,
+      "fort_level": null,
+      "buildings": [
+        {
+          "type": null,
+          "level": null
+        },
+        {
+          "type": null,
+          "level": null
+        }
+      ],
+      "constructions": []
+    },
+    {
+      "province_id": "5836",
+      "county_key": "c_isfahan",
+      "winter_severity": null,
+      "next_winter_target_date": null,
+      "holding_type": "city_holding",
+      "holding_owner": null,
+      "income": 1.24602,
+      "levy": 33572165,
+      "garrison": 167786690,
+      "fort_level": null,
+      "buildings": [
+        {
+          "type": "city_01",
+          "level": 1
+        },
+        {
+          "type": "guild_halls_01",
+          "level": 1
+        },
+        {
+          "type": null,
+          "level": null
+        }
+      ],
+      "constructions": []
+    },
+    {
+      "province_id": "5852",
+      "county_key": "c_luristan",
+      "winter_severity": null,
+      "next_winter_target_date": null,
+      "holding_type": null,
+      "holding_owner": null,
+      "income": 0,
+      "levy": null,
+      "garrison": null,
+      "fort_level": null,
+      "buildings": [
+        {
+          "type": null,
+          "level": null
+        },
+        {
+          "type": null,
+          "level": null
+        }
+      ],
+      "constructions": []
+    },
+    {
+      "province_id": "5901",
+      "county_key": "c_rayy",
+      "winter_severity": null,
+      "next_winter_target_date": null,
+      "holding_type": "church_holding",
+      "holding_owner": null,
+      "income": 1.76086,
+      "levy": 8746,
+      "garrison": 8747,
+      "fort_level": null,
+      "buildings": [
+        {
+          "type": "temple_02",
+          "level": 2
+        },
+        {
+          "type": "monastic_schools_02",
+          "level": 2
+        },
+        {
+          "type": "pastures_02",
+          "level": 2
+        },
+        {
+          "type": "cereal_fields_03",
+          "level": 3
+        }
+      ],
+      "constructions": [
+        {
+          "building": "pastures_03",
+          "index": 2,
+          "start_time": "1074.10.27",
+          "days": 362.22259,
+          "cost_gold": 255,
+          "cost_prestige": null,
+          "character": 33671268
+        }
+      ]
+    },
+    {
+      "province_id": "5910",
+      "county_key": "c_qom",
+      "winter_severity": null,
+      "next_winter_target_date": null,
+      "holding_type": "castle_holding",
+      "holding_owner": null,
+      "income": 3.3015,
+      "levy": 3402,
+      "garrison": 3403,
+      "fort_level": 4,
+      "buildings": [
+        {
+          "type": "castle_01",
+          "level": 1
+        },
+        {
+          "type": "watchtowers_02",
+          "level": 2
+        },
+        {
+          "type": "murex_farm_02",
+          "level": 2
+        },
+        {
+          "type": "cereal_fields_02",
+          "level": 2
+        },
+        {
+          "type": "common_tradeport_01",
+          "level": 1
+        }
+      ],
+      "constructions": []
+    },
+    {
+      "province_id": "6125",
+      "county_key": "c_balkh",
+      "winter_severity": null,
+      "next_winter_target_date": null,
+      "holding_type": null,
+      "holding_owner": null,
+      "income": 0,
+      "levy": null,
+      "garrison": null,
+      "fort_level": null,
+      "buildings": [
+        {
+          "type": null,
+          "level": null
+        },
+        {
+          "type": null,
+          "level": null
+        }
+      ],
+      "constructions": []
+    },
+    {
+      "province_id": "6131",
+      "county_key": "c_west-tokharestan",
+      "winter_severity": null,
+      "next_winter_target_date": null,
+      "holding_type": "castle_holding",
+      "holding_owner": null,
+      "income": 2.475,
+      "levy": 3566,
+      "garrison": 3567,
+      "fort_level": 4,
+      "buildings": [
+        {
+          "type": "castle_01",
+          "level": 1
+        },
+        {
+          "type": "watchtowers_02",
+          "level": 2
+        },
+        {
+          "type": "cereal_fields_02",
+          "level": 2
+        },
+        {
+          "type": "pastures_02",
+          "level": 2
+        },
+        {
+          "type": "plantations_01",
+          "level": 1
+        }
+      ],
+      "constructions": []
+    },
+    {
+      "province_id": "6197",
+      "county_key": "c_dihistan",
+      "winter_severity": null,
+      "next_winter_target_date": null,
+      "holding_type": "castle_holding",
+      "holding_owner": null,
+      "income": 2.95275,
+      "levy": 3644,
+      "garrison": 3645,
+      "fort_level": 7,
+      "buildings": [
+        {
+          "type": "castle_02",
+          "level": 2
+        },
+        {
+          "type": "watchtowers_02",
+          "level": 2
+        },
+        {
+          "type": "common_tradeport_02",
+          "level": 2
+        },
+        {
+          "type": "camel_farms_03",
+          "level": 3
+        },
+        {
+          "type": "cereal_fields_02",
+          "level": 2
+        }
+      ],
+      "constructions": [
+        {
+          "building": "common_tradeport_03",
+          "index": 2,
+          "start_time": "1075.1.7",
+          "days": 471,
+          "cost_gold": 306,
+          "cost_prestige": null,
+          "character": 123729
+        }
+      ]
+    }
+  ]
+}

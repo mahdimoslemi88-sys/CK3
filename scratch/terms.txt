@@ -1,0 +1,28 @@
+=== ترجمه‌های استخراج شده ===
+Diplomacy: ﯽﺳﺎﻤﻠﭙﯾﺩ
+Martial: ﯽﻣﺎﻈﻧ
+Stewardship: ﺕﺮﺷﺎﺒﻣ
+Intrigue: ﻪﺌﻃﻮﺗ
+Learning: ﺶﻧﺍﺩ
+Prowess: ﯼﺭﻭﻻﺩ
+Men-at-Arms: ﯼﺍ ﻪﻓﺮﺣ ﻥﺍﺯﺎﺑﺮﺳ
+Holy War: [ROOT.GreatHolyWar.GetName]:
+Struggle: ﯼﺮﯿﮔﺭﺩ
+House Unity: [ROOT.HouseUnity.GetName]
+Vizier: ﺪﯾﺭﺍﺪﻧ [spouse|E] ﺎﯾ [vizier|E] ﭻﯿﻫ ﺎﻤﺷ
+Manage Domain: ﻭﺮﻤﻠﻗ ﺖﯾﺮﯾﺪﻣ
+Manage Domain: ﻭﺮﻤﻠﻗ ﺖﯾﺮﯾﺪﻣ
+Tax Collector: ﻥﺎﺘﺳ ﺕﺎﯿﻟﺎﻣ
+Heavy Infantry: [heavy_infantry|E]
+Pressed Claim: ﺭﺎﺸﻓ ﺖﺤﺗ ﯼﺎﻋﺩﺍ
+Unpressed Claim: ﺭﺎﺸﻓ ﻥﻭﺪﺑ ﯼﺎﻋﺩﺍ
+Claim Throne: ﺖﺨﺗ ﻭ ﺝﺎﺗ ﯼﺎﻋﺩﺍ
+Wealth Focus: $stewardship_wealth_focus_short$ ﺰﮐﺮﻤﺗ
+Domain Limit: ﻭﺮﻤﻠﻗ ﺪﺣ
+Tax Decree: ﯽﺗﺎﯿﻟﺎﻣ ﻥﺎﻣﺮﻓ
+Iqta: ﻉﺎﻄﻗﺍ ﯼﺎﻄﻋﺍ
+Muqata: ﻪﻌﻃﺎﻘﻣ ﺖﯿﻌﺿﻭ
+Sway: ﺐﯿﻏﺮﺗ
+Concession: $persian_struggle$ ﺭﺎﮔﺪﻧﺎﻣ ﺮﯿﺛﺎﺗ
+Golden Obligations: ﯽﯾﻼﻃ ﺕﺍﺪﻬﻌﺗ
+Sway Scheme: [GetScheme('sway').GetTypeName] [scheme_speed_single|E]

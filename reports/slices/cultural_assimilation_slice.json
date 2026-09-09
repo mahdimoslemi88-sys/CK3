@@ -1,0 +1,92 @@
+{
+  "date": "1075.9.23",
+  "ruler": {
+    "id": "16888178",
+    "name": "Mehrzad",
+    "age": 72,
+    "health": 1.5221,
+    "stress": null,
+    "gold": 3192.45609,
+    "income": 291.0847,
+    "piety": 48908.32771,
+    "prestige": 4790.35392,
+    "legitimacy": 1013.187,
+    "culture": 91,
+    "faith": 50
+  },
+  "culture": 91,
+  "counties_culture": [
+    {
+      "county": "c_khotan",
+      "culture": 97,
+      "dev": 22,
+      "ctrl": 100
+    },
+    {
+      "county": "c_bukhara",
+      "culture": 91,
+      "dev": 42,
+      "ctrl": 100
+    },
+    {
+      "county": "c_nakhshab",
+      "culture": 98,
+      "dev": 30,
+      "ctrl": 100
+    },
+    {
+      "county": "c_dabusiya",
+      "culture": 98,
+      "dev": 30,
+      "ctrl": 100
+    },
+    {
+      "county": "c_samarkand",
+      "culture": 98,
+      "dev": 23,
+      "ctrl": 100
+    },
+    {
+      "county": "c_isfahan",
+      "culture": 91,
+      "dev": 34,
+      "ctrl": 100
+    },
+    {
+      "county": "c_luristan",
+      "culture": 164,
+      "dev": 23,
+      "ctrl": 100
+    },
+    {
+      "county": "c_rayy",
+      "culture": 91,
+      "dev": 24,
+      "ctrl": 100
+    },
+    {
+      "county": "c_qom",
+      "culture": 91,
+      "dev": 30,
+      "ctrl": 100
+    },
+    {
+      "county": "c_balkh",
+      "culture": 98,
+      "dev": 24,
+      "ctrl": 100
+    },
+    {
+      "county": "c_west-tokharestan",
+      "culture": 98,
+      "dev": 21,
+      "ctrl": 100
+    },
+    {
+      "county": "c_dihistan",
+      "culture": 94,
+      "dev": 16,
+      "ctrl": 100
+    }
+  ]
+}

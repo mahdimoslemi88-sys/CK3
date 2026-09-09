@@ -1,0 +1,1112 @@
+{
+  "date": "1075.9.23",
+  "ruler": {
+    "id": "16888178",
+    "name": "Mehrzad",
+    "age": 72,
+    "health": 1.5221,
+    "stress": null,
+    "gold": 3192.45609,
+    "income": 291.0847,
+    "piety": 48908.32771,
+    "prestige": 4790.35392,
+    "legitimacy": 1013.187,
+    "culture": 91,
+    "faith": 50
+  },
+  "dynasty": {
+    "id": 5269,
+    "prestige": 487.065,
+    "dynasty_head": null,
+    "perks": [
+      "mpo_nomad_legacy_1"
+    ]
+  },
+  "heir": {
+    "id": 135903,
+    "mapped": true,
+    "alive": true,
+    "name": "Hedayat",
+    "birth": "1036.3.29",
+    "age": 39,
+    "female": null,
+    "culture": null,
+    "faith": null,
+    "dynasty_house": 5269,
+    "skills": [
+      9,
+      9,
+      8,
+      8,
+      20,
+      4
+    ],
+    "traits": [
+      50,
+      54,
+      47,
+      2,
+      29,
+      38,
+      242,
+      281,
+      90,
+      178,
+      147,
+      141,
+      113,
+      259,
+      274
+    ],
+    "landed": true,
+    "stress": 98,
+    "health": 4.30781,
+    "fertility": 0.54831,
+    "lifestyle_xp": null
+  },
+  "children": [
+    {
+      "id": 134300294,
+      "name": "Golbahar",
+      "age": 49,
+      "female": true,
+      "spouses": [],
+      "skills": [
+        7,
+        8,
+        5,
+        8,
+        5,
+        4
+      ],
+      "traits": [
+        "brave",
+        "just",
+        "lustful",
+        "education_intrigue_4",
+        "lifestyle_reveler",
+        "lifestyle_traveler",
+        "diplomatic_court_2"
+      ]
+    },
+    {
+      "id": 128744,
+      "name": "Khashayar",
+      "age": 49,
+      "female": null,
+      "spouses": [],
+      "skills": [
+        4,
+        6,
+        3,
+        5,
+        5,
+        4
+      ],
+      "traits": [
+        "shy",
+        "ambitious",
+        "brave",
+        "education_martial_4",
+        "lifestyle_gardener",
+        "gallant",
+        "reckless",
+        "forder",
+        "aggressive_attacker",
+        "governor",
+        "reclusive",
+        "hajjaj",
+        "leper",
+        "lifestyle_traveler"
+      ]
+    },
+    {
+      "id": 16896103,
+      "name": "Soraya",
+      "age": 47,
+      "female": true,
+      "spouses": [],
+      "skills": [
+        6,
+        4,
+        4,
+        6,
+        6,
+        4
+      ],
+      "traits": [
+        "calm",
+        "diligent",
+        "fickle",
+        "education_diplomacy_4",
+        "hunchbacked",
+        "lovers_pox",
+        "diplomatic_court_2"
+      ]
+    },
+    {
+      "id": 129930,
+      "name": "Ghazal",
+      "age": 46,
+      "female": true,
+      "spouses": [],
+      "skills": [
+        6,
+        8,
+        7,
+        10,
+        6,
+        9
+      ],
+      "traits": [
+        "diligent",
+        "generous",
+        "zealous",
+        "education_learning_4",
+        "whole_of_body",
+        "logistician",
+        "twin",
+        "governor",
+        "improvident",
+        "witch",
+        "diplomatic_court_1",
+        "lifestyle_traveler"
+      ]
+    },
+    {
+      "id": 129931,
+      "name": "Naveed",
+      "age": 46,
+      "female": null,
+      "spouses": [],
+      "skills": [
+        6,
+        8,
+        8,
+        6,
+        4,
+        7
+      ],
+      "traits": [
+        "diligent",
+        "gluttonous",
+        "chaste",
+        "education_learning_4",
+        "lifestyle_mystic",
+        "lifestyle_gardener",
+        "theologian",
+        "holy_warrior",
+        "twin",
+        "governor",
+        "comfort_eater",
+        "bleeder",
+        "lovers_pox"
+      ]
+    },
+    {
+      "id": 131962,
+      "name": "Peroz",
+      "age": 43,
+      "female": null,
+      "spouses": [],
+      "skills": [
+        6,
+        3,
+        11,
+        7,
+        10,
+        5
+      ],
+      "traits": [
+        "arbitrary",
+        "humble",
+        "lustful",
+        "education_diplomacy_4",
+        "diplomat",
+        "lifestyle_reveler",
+        "governor",
+        "adulterer",
+        "sodomite",
+        "lovers_pox"
+      ]
+    },
+    {
+      "id": 135903,
+      "name": "Hedayat",
+      "age": 39,
+      "female": null,
+      "spouses": [],
+      "skills": [
+        9,
+        9,
+        8,
+        8,
+        20,
+        4
+      ],
+      "traits": [
+        "temperate",
+        "diligent",
+        "lustful",
+        "education_intrigue_3",
+        "lifestyle_blademaster",
+        "seducer",
+        "holy_warrior",
+        "governor",
+        "rakish",
+        "hajjaj",
+        "intellect_good_1",
+        "beauty_good_1",
+        "lovers_pox",
+        "diplomatic_court_1",
+        "lifestyle_traveler"
+      ]
+    },
+    {
+      "id": 136511,
+      "name": "Jahanshah",
+      "age": 37,
+      "female": null,
+      "spouses": [],
+      "skills": [
+        12,
+        8,
+        10,
+        6,
+        8,
+        5
+      ],
+      "traits": [
+        "arbitrary",
+        "zealous",
+        "vengeful",
+        "education_stewardship_3",
+        "lifestyle_gardener",
+        "lifestyle_hunter",
+        "governor",
+        "hashishiyah",
+        "adulterer",
+        "diplomatic_court_1",
+        "lifestyle_traveler"
+      ]
+    },
+    {
+      "id": 50409706,
+      "name": "Ahmad",
+      "age": 34,
+      "female": null,
+      "spouses": [],
+      "skills": [
+        9,
+        7,
+        7,
+        4,
+        7,
+        8
+      ],
+      "traits": [
+        "fickle",
+        "cynical",
+        "humble",
+        "education_diplomacy_4",
+        "lifestyle_reveler",
+        "governor",
+        "hashishiyah",
+        "reclusive",
+        "diplomatic_court_2"
+      ]
+    },
+    {
+      "id": 33686956,
+      "name": "Pashang",
+      "age": 32,
+      "female": null,
+      "spouses": [],
+      "skills": [
+        5,
+        5,
+        8,
+        7,
+        8,
+        6
+      ],
+      "traits": [
+        "diligent",
+        "gluttonous",
+        "content",
+        "education_diplomacy_4",
+        "lifestyle_reveler",
+        "governor",
+        "hajjaj",
+        "intellect_good_1",
+        "ill",
+        "diplomatic_court_2",
+        "lifestyle_traveler"
+      ]
+    },
+    {
+      "id": 33651362,
+      "name": "Zarrindokht",
+      "age": 32,
+      "female": true,
+      "spouses": [],
+      "skills": [
+        10,
+        8,
+        7,
+        7,
+        5,
+        7
+      ],
+      "traits": [
+        "callous",
+        "stubborn",
+        "calm",
+        "education_diplomacy_4",
+        "fornicator",
+        "diplomatic_court_2"
+      ]
+    },
+    {
+      "id": 16898095,
+      "name": "Bakhtiar",
+      "age": 13,
+      "female": null,
+      "spouses": [],
+      "skills": [
+        4,
+        8,
+        5,
+        7,
+        4,
+        5
+      ],
+      "traits": [
+        "diligent",
+        "forgiving",
+        "generous",
+        "disputed_heritage",
+        "pensive",
+        "lifestyle_traveler"
+      ]
+    },
+    {
+      "id": 33682029,
+      "name": "Yekta",
+      "age": 13,
+      "female": true,
+      "spouses": [],
+      "skills": [
+        4,
+        8,
+        3,
+        10,
+        8,
+        6
+      ],
+      "traits": [
+        "diligent",
+        "forgiving",
+        "charming"
+      ]
+    },
+    {
+      "id": 100705609,
+      "name": "Farva",
+      "age": 7,
+      "female": true,
+      "spouses": [],
+      "skills": [
+        3,
+        4,
+        6,
+        3,
+        2,
+        1
+      ],
+      "traits": [
+        "disputed_heritage",
+        "athletic",
+        "hunchbacked",
+        "charming"
+      ]
+    },
+    {
+      "id": 16930453,
+      "name": "Farhad",
+      "age": 5,
+      "female": null,
+      "spouses": [],
+      "skills": [
+        2,
+        3,
+        2,
+        3,
+        1,
+        2
+      ],
+      "traits": [
+        "pensive"
+      ]
+    },
+    {
+      "id": 33705231,
+      "name": "Shahryar",
+      "age": 3,
+      "female": null,
+      "spouses": [],
+      "skills": [
+        1,
+        2,
+        0,
+        2,
+        3,
+        2
+      ],
+      "traits": [
+        "charming"
+      ]
+    }
+  ],
+  "unmarried_candidates": [
+    {
+      "id": 134300294,
+      "name": "Golbahar",
+      "age": 49,
+      "female": true,
+      "skills": [
+        7,
+        8,
+        5,
+        8,
+        5,
+        4
+      ],
+      "traits": [
+        "brave",
+        "just",
+        "lustful",
+        "education_intrigue_4",
+        "lifestyle_reveler",
+        "lifestyle_traveler",
+        "diplomatic_court_2"
+      ]
+    },
+    {
+      "id": 128744,
+      "name": "Khashayar",
+      "age": 49,
+      "female": null,
+      "skills": [
+        4,
+        6,
+        3,
+        5,
+        5,
+        4
+      ],
+      "traits": [
+        "shy",
+        "ambitious",
+        "brave",
+        "education_martial_4",
+        "lifestyle_gardener",
+        "gallant",
+        "reckless",
+        "forder",
+        "aggressive_attacker",
+        "governor",
+        "reclusive",
+        "hajjaj",
+        "leper",
+        "lifestyle_traveler"
+      ]
+    },
+    {
+      "id": 16896103,
+      "name": "Soraya",
+      "age": 47,
+      "female": true,
+      "skills": [
+        6,
+        4,
+        4,
+        6,
+        6,
+        4
+      ],
+      "traits": [
+        "calm",
+        "diligent",
+        "fickle",
+        "education_diplomacy_4",
+        "hunchbacked",
+        "lovers_pox",
+        "diplomatic_court_2"
+      ]
+    },
+    {
+      "id": 129930,
+      "name": "Ghazal",
+      "age": 46,
+      "female": true,
+      "skills": [
+        6,
+        8,
+        7,
+        10,
+        6,
+        9
+      ],
+      "traits": [
+        "diligent",
+        "generous",
+        "zealous",
+        "education_learning_4",
+        "whole_of_body",
+        "logistician",
+        "twin",
+        "governor",
+        "improvident",
+        "witch",
+        "diplomatic_court_1",
+        "lifestyle_traveler"
+      ]
+    },
+    {
+      "id": 129931,
+      "name": "Naveed",
+      "age": 46,
+      "female": null,
+      "skills": [
+        6,
+        8,
+        8,
+        6,
+        4,
+        7
+      ],
+      "traits": [
+        "diligent",
+        "gluttonous",
+        "chaste",
+        "education_learning_4",
+        "lifestyle_mystic",
+        "lifestyle_gardener",
+        "theologian",
+        "holy_warrior",
+        "twin",
+        "governor",
+        "comfort_eater",
+        "bleeder",
+        "lovers_pox"
+      ]
+    },
+    {
+      "id": 131962,
+      "name": "Peroz",
+      "age": 43,
+      "female": null,
+      "skills": [
+        6,
+        3,
+        11,
+        7,
+        10,
+        5
+      ],
+      "traits": [
+        "arbitrary",
+        "humble",
+        "lustful",
+        "education_diplomacy_4",
+        "diplomat",
+        "lifestyle_reveler",
+        "governor",
+        "adulterer",
+        "sodomite",
+        "lovers_pox"
+      ]
+    },
+    {
+      "id": 135903,
+      "name": "Hedayat",
+      "age": 39,
+      "female": null,
+      "skills": [
+        9,
+        9,
+        8,
+        8,
+        20,
+        4
+      ],
+      "traits": [
+        "temperate",
+        "diligent",
+        "lustful",
+        "education_intrigue_3",
+        "lifestyle_blademaster",
+        "seducer",
+        "holy_warrior",
+        "governor",
+        "rakish",
+        "hajjaj",
+        "intellect_good_1",
+        "beauty_good_1",
+        "lovers_pox",
+        "diplomatic_court_1",
+        "lifestyle_traveler"
+      ]
+    },
+    {
+      "id": 136511,
+      "name": "Jahanshah",
+      "age": 37,
+      "female": null,
+      "skills": [
+        12,
+        8,
+        10,
+        6,
+        8,
+        5
+      ],
+      "traits": [
+        "arbitrary",
+        "zealous",
+        "vengeful",
+        "education_stewardship_3",
+        "lifestyle_gardener",
+        "lifestyle_hunter",
+        "governor",
+        "hashishiyah",
+        "adulterer",
+        "diplomatic_court_1",
+        "lifestyle_traveler"
+      ]
+    },
+    {
+      "id": 50409706,
+      "name": "Ahmad",
+      "age": 34,
+      "female": null,
+      "skills": [
+        9,
+        7,
+        7,
+        4,
+        7,
+        8
+      ],
+      "traits": [
+        "fickle",
+        "cynical",
+        "humble",
+        "education_diplomacy_4",
+        "lifestyle_reveler",
+        "governor",
+        "hashishiyah",
+        "reclusive",
+        "diplomatic_court_2"
+      ]
+    },
+    {
+      "id": 33686956,
+      "name": "Pashang",
+      "age": 32,
+      "female": null,
+      "skills": [
+        5,
+        5,
+        8,
+        7,
+        8,
+        6
+      ],
+      "traits": [
+        "diligent",
+        "gluttonous",
+        "content",
+        "education_diplomacy_4",
+        "lifestyle_reveler",
+        "governor",
+        "hajjaj",
+        "intellect_good_1",
+        "ill",
+        "diplomatic_court_2",
+        "lifestyle_traveler"
+      ]
+    },
+    {
+      "id": 33651362,
+      "name": "Zarrindokht",
+      "age": 32,
+      "female": true,
+      "skills": [
+        10,
+        8,
+        7,
+        7,
+        5,
+        7
+      ],
+      "traits": [
+        "callous",
+        "stubborn",
+        "calm",
+        "education_diplomacy_4",
+        "fornicator",
+        "diplomatic_court_2"
+      ]
+    },
+    {
+      "id": 149003,
+      "name": "Mehri",
+      "age": 37,
+      "female": true,
+      "skills": [
+        6,
+        6,
+        6,
+        14,
+        7,
+        4
+      ],
+      "traits": [
+        "paranoid",
+        "patient",
+        "vengeful",
+        "education_intrigue_4",
+        "seducer",
+        "loyal",
+        "gallowsbait",
+        "diplomatic_court_2"
+      ]
+    },
+    {
+      "id": 100718427,
+      "name": "Asa",
+      "age": 35,
+      "female": true,
+      "skills": [
+        7,
+        9,
+        6,
+        9,
+        4,
+        3
+      ],
+      "traits": [
+        "diligent",
+        "arrogant",
+        "lustful",
+        "education_diplomacy_3",
+        "august",
+        "sayyid",
+        "gallowsbait",
+        "adulterer",
+        "lifestyle_traveler"
+      ]
+    },
+    {
+      "id": 16913190,
+      "name": "Sangiya",
+      "age": 40,
+      "female": true,
+      "skills": [
+        7,
+        4,
+        8,
+        14,
+        7,
+        3
+      ],
+      "traits": [
+        "deceitful",
+        "vengeful",
+        "callous",
+        "education_intrigue_4",
+        "schemer",
+        "loyal",
+        "gallowsbait",
+        "diplomatic_court_2"
+      ]
+    },
+    {
+      "id": 16913382,
+      "name": "Shararah",
+      "age": 34,
+      "female": true,
+      "skills": [
+        5,
+        9,
+        8,
+        10,
+        5,
+        4
+      ],
+      "traits": [
+        "compassionate",
+        "temperate",
+        "diligent",
+        "cynical",
+        "education_learning_2",
+        "lifestyle_physician",
+        "architect",
+        "avaricious",
+        "lifestyle_gardener",
+        "administrator"
+      ]
+    },
+    {
+      "id": 33662517,
+      "name": "Gunduz",
+      "age": 49,
+      "female": true,
+      "skills": [
+        5,
+        10,
+        4,
+        7,
+        5,
+        7
+      ],
+      "traits": [
+        "gluttonous",
+        "shy",
+        "humble",
+        "education_intrigue_3",
+        "nomadic_philosophy",
+        "seducer",
+        "military_engineer",
+        "contrite"
+      ]
+    },
+    {
+      "id": 134312,
+      "name": "KA_ri",
+      "age": 41,
+      "female": null,
+      "skills": [
+        3,
+        6,
+        5,
+        7,
+        8,
+        5
+      ],
+      "traits": [
+        "impatient",
+        "diligent",
+        "compassionate",
+        "education_learning_3",
+        "lifestyle_hunter",
+        "theologian",
+        "drunkard",
+        "irritable",
+        "pilgrim"
+      ]
+    },
+    {
+      "id": 100709113,
+      "name": "Daghfal",
+      "age": 40,
+      "female": null,
+      "skills": [
+        14,
+        17,
+        9,
+        14,
+        8,
+        14
+      ],
+      "traits": [
+        "vengeful",
+        "wrathful",
+        "impatient",
+        "education_martial_4",
+        "reaver",
+        "murderer",
+        "irritable",
+        "intellect_bad_1"
+      ]
+    },
+    {
+      "id": 132238,
+      "name": "IldE_garde",
+      "age": 43,
+      "female": true,
+      "skills": [
+        9,
+        5,
+        7,
+        7,
+        9,
+        8
+      ],
+      "traits": [
+        "diligent",
+        "just",
+        "chaste",
+        "education_learning_2",
+        "lifestyle_gardener",
+        "lifestyle_herbalist",
+        "whole_of_body",
+        "holy_warrior",
+        "flexible_leader",
+        "reclusive",
+        "poet",
+        "pilgrim",
+        "beauty_bad_1",
+        "lifestyle_traveler"
+      ]
+    },
+    {
+      "id": 33680299,
+      "name": "Belleassez",
+      "age": 41,
+      "female": true,
+      "skills": [
+        7,
+        10,
+        7,
+        8,
+        3,
+        8
+      ],
+      "traits": [
+        "compassionate",
+        "trusting",
+        "just",
+        "education_intrigue_2",
+        "profligate",
+        "drunkard",
+        "intellect_bad_1",
+        "scarred"
+      ]
+    },
+    {
+      "id": 16886331,
+      "name": "Ogbai",
+      "age": 44,
+      "female": null,
+      "skills": [
+        7,
+        7,
+        4,
+        4,
+        6,
+        8
+      ],
+      "traits": [
+        "humble",
+        "ambitious",
+        "shy",
+        "education_martial_2",
+        "lifestyle_hunter",
+        "gallant",
+        "rough_terrain_expert",
+        "reclusive",
+        "flagellant",
+        "giant",
+        "scarred"
+      ]
+    },
+    {
+      "id": 67210577,
+      "name": "SelC_uk",
+      "age": 29,
+      "female": null,
+      "skills": [
+        6,
+        6,
+        5,
+        7,
+        4,
+        10
+      ],
+      "traits": [
+        "gregarious",
+        "wrathful",
+        "cynical",
+        "education_martial_1",
+        "nomadic_philosophy",
+        "reaver",
+        "aggressive_attacker",
+        "drunkard"
+      ]
+    },
+    {
+      "id": 100792632,
+      "name": "Ibrahim",
+      "age": 17,
+      "female": null,
+      "skills": [
+        10,
+        5,
+        3,
+        4,
+        5,
+        6
+      ],
+      "traits": [
+        "just",
+        "paranoid",
+        "diligent",
+        "education_learning_3",
+        "lifestyle_hunter",
+        "sayyid"
+      ]
+    },
+    {
+      "id": 33647387,
+      "name": "Ala_i",
+      "age": 32,
+      "female": null,
+      "skills": [
+        6,
+        5,
+        3,
+        5,
+        4,
+        7
+      ],
+      "traits": [
+        "callous",
+        "paranoid",
+        "fickle",
+        "education_intrigue_3",
+        "flexible_leader",
+        "sayyid",
+        "reclusive",
+        "hashishiyah"
+      ]
+    },
+    {
+      "id": 136338,
+      "name": "Niikko",
+      "age": 38,
+      "female": null,
+      "skills": [
+        5,
+        8,
+        5,
+        8,
+        8,
+        8
+      ],
+      "traits": [
+        "gregarious",
+        "arbitrary",
+        "stubborn",
+        "education_learning_4",
+        "lifestyle_herbalist",
+        "scholar",
+        "logistician",
+        "lovers_pox",
+        "lunatic_genetic"
+      ]
+    }
+  ]
+}

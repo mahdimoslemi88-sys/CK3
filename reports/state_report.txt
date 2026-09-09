@@ -1,0 +1,1463 @@
+📜 [دیوان عالی بخارا - گزارش جامع و دقیق وضعیت قلمرو]
+======================================================
+📅 تاریخ بازی: 1075.9.23
+👤 حاکم: ﻣﻬﺮﺯﺍﺩ ﺧﻠﯿﻔﻪ (شناسه: 16888178) — رتبه: امیر — عنوان: ﺍﻣﭙﺮﺍﺗﻮﺭﯼ ﺍﺯ IMELSOM — خانه: ﺳﺎﻣﺎﻧﯽ
+🎂 سن: 72 سال (متولد 1003.9.22)
+👑 مشروعیت: 1013.2
+
+💰 [۱. وضعیت مالی و خزانه‌داری]
+------------------------------------------------------
+🪙 موجودی خزانه: 3192.5 سکه طلا
+📈 درآمد ناخالص: +291.08  |  سود خالص ماهانه: +291.08
+🕋 تقوا (Piety): 48908.3  |  📯 آبرو (Prestige): 4790.4
+🎯 تمرکز سبک زندگی: martial authority focus
+✨ پرک‌های فعال (39): meritocracy_perk، anatomical_studies_perk، carefree_perk، mental_resilience_perk، restraint_perk، know_thyself_perk، wash_your_hands_perk، iron_constitution_perk، healthy_perk، whole_of_body_perk، scientific_perk، planned_cultivation_perk، scholarly_circles_perk، pedagogy_perk، open_minded_perk، apostate_perk، learn_on_the_job_perk، sanctioned_loopholes_perk، scholar_perk، faithful_perk، clerical_justifications_perk، church_and_state_perk، radiant_perk، zealous_proselytizer_perk، religious_icon_perk، large_levies_perk، soon_forgiven_perk، cutting_corners_perk، professional_workforce_perk، centralization_perk، tax_man_perk، defensive_measures_perk، organized_muster_rolls_perk، popular_figurehead_perk، divided_attention_perk، architect_perk، serve_the_crown_perk، strict_organization_perk، a_mans_home_perk
+
+🏰 [۲. مدیریت قلمرو و املاک مستقیم]
+------------------------------------------------------
+🏰 ولایات مستقیم: 12 از 12 (ظرفیت خالی: 0 ولایت 🎯)  [c_west-tokharestan، بلخ، بخارا، دابوسیه، نخشب، c_qom، c_isfahan، c_luristan، c_khotan، c_dihistan، c_rayy، سمرقند]
+🧑‍🤝‍🧑 تعداد رعایا: 102 نفر  |  قدرت رعایا: 4183.5
+
+🛡 [۳. نیروهای مسلح و جنگ]
+------------------------------------------------------
+🛡 نیروی نظامی آماده: 37290 نفر (سربازان وظیفه: 38543)
+⚔️ تعداد شوالیه‌ها: 15 نفر
+🚩 جنگ فعال: خیر (در حالت صلح)
+🎖 وضعیت‌های نظامی فعال: patronized_local_saint_modifier، ce1_immortal، dedicated_to_pilgrimage_modifier، bp1_superstition_modifier، diligent_development_focus، employer_booner_master_of_hunt_1_modifier، governance_1062_immaculate_gardens_modifier، legend_no_mocking_modifier، oath_of_conquest، ce1_accepted_mortality، scheme_promoted_modifier، ep3_good_estate_modifier، ep3_tunnel_servants_modifier، dog_story_scenthound_modifier، pilgrimage_disdainful_towards_faiths_modifier، legend_put_out_rumors_modifier، hajj_prophet_like_modifier
+🗡 ادعاهای فشرده قانونی (1 مورد): c_sewa (c_sewa)
+
+🩸 [۴. خانواده، همسران و خط جانشینی]
+------------------------------------------------------
+💍 تعداد همسران: 7 (سقف شرعی تکمیل)
+👶 فرزندان (16 نفر): 👑 10 فرزند پسر (وارث مستقیم)  |  👧 6 فرزند دختر
+   • اسامی فرزندان: Golbahar (دختر)، Khashayar (پسر (وارث))، Soraya (دختر)، Ghazal (دختر)، Naveed (پسر (وارث))، Peroz (پسر (وارث))، Hedayat (پسر (وارث))، Jahanshah (پسر (وارث))، Ahmad (پسر (وارث))، Pashang (پسر (وارث))، Zarrindokht (دختر)، Bakhtiar (پسر (وارث))، Yekta (دختر)، Farva (دختر)، Farhad (پسر (وارث))، Shahryar (پسر (وارث))
+📜 قوانین حکومت و ارث: imperial_bureaucracy_3، crowned_king، acclamation_succession_law، male_preference_law، same_faith_succession_law، province_war_law_1، province_border_law_1
+😖 استرس: 0  |  ❤️ سلامت: 1.52
+🏹 مهارت‌ها: دیپلماسی: 15  |  نظامی: 10  |  مباشرت: 10  |  توطئه: 8  |  دانش: 8  |  دلاوری: 7
+======================================================
+============================================================
+ECONOMY & DOMAIN (Stage 2)
+============================================================
+
+--- Domain Summary ---
+Domain title IDs: 45
+Mapped titles: 45
+County (c_) titles: 12
+domain_count (c_ only): 12
+
+  x_script_4496 [x] name=MOSLEMI direct_domain=yes
+  e_arabia [e] name=ﺏﺮﻋ ﯼﺭﻮﺗﺍﺮﭙﻣﺍ direct_domain=yes
+  e_persia [e] name=ﺱﺭﺎﭘ ﯼﺭﻮﺗﺍﺮﭙﻣﺍ direct_domain=yes
+  x_script_3400 [x] name=MOSLEMI direct_domain=yes
+  k_transoxiana [k] name=ﺩﻭﺭﺍﺮﻓ direct_domain=yes
+  k_syr_darya [k] name=ﺎﯾﺭﺩ ﺮﯿﺳ direct_domain=yes
+  k_khorasan [k] name=ﻥﺎﺳﺍﺮﺧ direct_domain=yes
+  k_kabulistan [k] name=ﻥﺎﺘﺴﻠﺑﺎﮐ direct_domain=yes
+  k_khotan [k] name=ﻥﺎﺗﻮﺧ direct_domain=yes
+  k_egypt [k] name=ﺮﺼﻣ direct_domain=yes
+  k_arabia [k] name=ﻥﺎﺘﺴﺑﺮﻋ direct_domain=yes
+  k_jazira [k] name=ﻩﺮﯾﺰﺟ direct_domain=yes
+  k_blemmyia [k] name=ﯽﯿﻤﻠﺑ direct_domain=yes
+  k_yemen [k] name=ﻦﻤﯾ direct_domain=yes
+  d_balkh [d] name=ﺦﻠﺑ direct_domain=yes
+  d_soghd [d] name=ﺪﻐﺳ direct_domain=yes
+  d_sunni [d] name=ﯽﻨﺳ ﺖﻓﻼﺧ direct_domain=yes
+  d_isfahan [d] name=ﻥﺎﻬﻔﺻﺍ direct_domain=yes
+  x_d_nf_4645 [x] name=ﯽﻧﺎﻣﺎﺳ ﻥﺍﺪﻧﺎﺧ direct_domain=yes
+  c_west-tokharestan [c] name=ﯽﺑﺮﻏ ﻥﺎﺘﺳﺭﺎﺧﻮﺗ direct_domain=yes
+  c_balkh [c] name=ﺦﻠﺑ direct_domain=yes
+  c_bukhara [c] name=ﺍﺭﺎﺨﺑ direct_domain=yes
+  c_dabusiya [c] name=ﻪﯿﺳﻮﺑﺩ direct_domain=yes
+  c_nakhshab [c] name=ﺐﺸﺨﻧ direct_domain=yes
+  c_qom [c] name=ﻢﻗ direct_domain=yes
+  c_isfahan [c] name=ﻥﺎﻬﻔﺻﺍ direct_domain=yes
+  c_luristan [c] name=ﻥﺎﺘﺳﺮﻟ direct_domain=yes
+  c_khotan [c] name=ﻦﺘﺧ direct_domain=yes
+  c_dihistan [c] name=ﻥﺎﺘﺴﻫﺩ direct_domain=yes
+  c_rayy [c] name=ﯼﺭ direct_domain=yes
+  c_samarkand [c] name=ﺪﻨﻗﺮﻤﺳ direct_domain=yes
+  b_samanjan [b] name=ﻥﺎﺠﻨﻤﺳ direct_domain=yes
+  b_balkh [b] name=ﺦﻠﺑ direct_domain=yes
+  b_bukhara [b] name=ﺍﺭﺎﺨﺑ direct_domain=yes
+  b_ramitan [b] name=ﻥﺎﻄﯿﻣﺍﺭ direct_domain=yes
+  b_dabusiya [b] name=ﻪﯿﺳﻮﺑﺍﺩ direct_domain=yes
+  b_kushaniya [b] name=ﻪﯿﻧﺎﺷﻮﮐ direct_domain=yes
+  b_nakhshab [b] name=ﺐﺸﺨﻧ direct_domain=yes
+  b_qom [b] name=ﻢﻗ direct_domain=yes
+  b_isfahan [b] name=ﻥﺎﻬﻔﺻﺍ direct_domain=yes
+  b_asbid-dasht [b] name=ﺖﺷﺩﺪﯿﭙﺳﺍ direct_domain=yes
+  b_khotan [b] name=ﻦﺗﺎﺧ direct_domain=yes
+  b_kerend [b] name=ﺪﻧﺮﮐ direct_domain=yes
+  b_rayy [b] name=ﯼﺭ direct_domain=yes
+  b_samarkand [b] name=ﺪﻨﻗﺮﻤﺳ direct_domain=yes
+
+--- Counties (player domain) ---
+Domain county rows: 12 (world entries: 2652)
+
+County                  Dev    Control  Culture  Faith     Holder
+c_khotan                 22      100.0       97     50   16888178
+c_bukhara                42      100.0       91     50   16888178
+c_nakhshab               30      100.0       98     50   16888178
+c_dabusiya               30      100.0       98     50   16888178
+c_samarkand              23      100.0       98     50   16888178
+c_isfahan                34      100.0       91      9   16888178
+c_luristan               23      100.0      164     50   16888178
+c_rayy                   24      100.0       91     50   16888178
+c_qom                    30      100.0       91     50   16888178
+c_balkh                  24      100.0       98     50   16888178
+c_west-tokharestan       21      100.0       98     50   16888178
+c_dihistan               16      100.0       94     50   16888178
+
+--- Holdings & Provinces ---
+Provinces with holding data: 12
+Total building instances: 43
+
+  province[5413] type=missing income=0 levy=missing garrison=missing buildings=[unknown, unknown, unknown]
+  province[5659] type=missing income=0 levy=missing garrison=missing buildings=[unknown, unknown, unknown, unknown]
+  province[5673] type=city_holding income=2.5155 levy=1140 garrison=1141 buildings=[city_01, guild_halls_02, quarries_02, hospices_02]
+  province[5683] type=church_holding income=0.63472 levy=1222 garrison=1223 buildings=[temple_01, hunting_grounds_02, monastic_schools_02, scriptorium_02]
+  province[5688] type=missing income=0 levy=missing garrison=missing buildings=[unknown, unknown]
+  province[5836] type=city_holding income=1.24602 levy=33572165 garrison=167786690 buildings=[city_01, guild_halls_01, unknown]
+  province[5852] type=missing income=0 levy=missing garrison=missing buildings=[unknown, unknown]
+  province[5901] type=church_holding income=1.76086 levy=8746 garrison=8747 buildings=[temple_02, monastic_schools_02, pastures_02, cereal_fields_03]
+  province[5910] type=castle_holding income=3.3015 levy=3402 garrison=3403 buildings=[castle_01, watchtowers_02, murex_farm_02, cereal_fields_02, common_tradeport_01]
+  province[6125] type=missing income=0 levy=missing garrison=missing buildings=[unknown, unknown]
+  province[6131] type=castle_holding income=2.475 levy=3566 garrison=3567 buildings=[castle_01, watchtowers_02, cereal_fields_02, pastures_02, plantations_01]
+  province[6197] type=castle_holding income=2.95275 levy=3644 garrison=3645 buildings=[castle_02, watchtowers_02, common_tradeport_02, camel_farms_03, cereal_fields_02]
+
+--- Missing / Unknown Data ---
+Unmapped domain IDs: 0
+Missing county fields: 5
+Building level: unknown (not determinable from save structure)
+
+============================================================
+INTERNAL POLITICS & SUCCESSION (Stage 3)
+============================================================
+
+--- Player & Family ---
+Player: Mehrzad (id=16888178) age=72 female=None culture=91 faith=50
+  stress=None health=1.5221 fertility=0.53506 income=291.0847
+  spouses=7 former_spouses=4 children=16
+    child 134300294: Golbahar alive=True
+    child 128744: Khashayar alive=True
+    child 16896103: Soraya alive=True
+    child 129930: Ghazal alive=True
+    child 129931: Naveed alive=False
+    child 131962: Peroz alive=True
+    child 135903: Hedayat alive=True
+    child 136511: Jahanshah alive=True
+    child 50409706: Ahmad alive=True
+    child 33686956: Pashang alive=True
+    child 33651362: Zarrindokht alive=True
+    child 16898095: Bakhtiar alive=True
+    child 33682029: Yekta alive=True
+    child 100705609: Farva alive=True
+    child 16930453: Farhad alive=True
+    child 33705231: Shahryar alive=True
+
+--- Characters (mapped 293/293) ---
+  134300294: Golbahar age=49 female=True culture=None faith=missing alive=True
+  128744: Khashayar age=49 female=None culture=None faith=missing alive=True
+  16896103: Soraya age=47 female=True culture=None faith=missing alive=True
+  129930: Ghazal age=46 female=True culture=None faith=missing alive=True
+  129931: Naveed age=46 female=None culture=None faith=missing alive=False
+  131962: Peroz age=43 female=None culture=None faith=missing alive=True
+  135903: Hedayat age=39 female=None culture=None faith=missing alive=True
+  136511: Jahanshah age=37 female=None culture=None faith=missing alive=True
+  50409706: Ahmad age=34 female=None culture=None faith=missing alive=True
+  33686956: Pashang age=32 female=None culture=None faith=missing alive=True
+  33651362: Zarrindokht age=32 female=True culture=None faith=missing alive=True
+  16898095: Bakhtiar age=13 female=None culture=None faith=missing alive=True
+  33682029: Yekta age=13 female=True culture=None faith=missing alive=True
+  100705609: Farva age=7 female=True culture=None faith=missing alive=True
+  16930453: Farhad age=5 female=None culture=None faith=missing alive=True
+  33705231: Shahryar age=3 female=None culture=None faith=missing alive=True
+  149003: Mehri age=37 female=True culture=4 faith=48 alive=True
+  16895695: Gulnaz age=77 female=True culture=95 faith=50 alive=False
+  129967: Arghavan age=70 female=True culture=91 faith=48 alive=False
+  100746454: Lala age=63 female=True culture=4 faith=50 alive=False
+  ... and 273 more
+
+--- Vassals (102/102 mapped) ---
+  contract 234881168: vassal=50426972 (Faraz) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 301993242: vassal=67188752 (Morad) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 134220615: vassal=50439525 (Bahram) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 16778624: vassal=50441101 (Paghahan) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 201327119: vassal=16890861 (Suhrab) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 218105817: vassal=116969 (Jawid) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 251658266: vassal=131962 (Peroz) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 234883326: vassal=143206 (Khashayar) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 251660406: vassal=128744 (Khashayar) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 167773143: vassal=129930 (Ghazal) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 268437459: vassal=33655892 (Kanakk) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 134218230: vassal=16856564 (Kaiyan) group=republic_vassal levels_raw=[1] war_with_liege=None
+  contract 150995515: vassal=135903 (Hedayat) group=admin_vassal levels_raw=None war_with_liege=None
+  contract 100664418: vassal=16911386 (Manuchihr) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 234883207: vassal=131441 (Ardeshir) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 117441448: vassal=138019 (Aram) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 50332946: vassal=146741 (Khashayar) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 50333766: vassal=135495 (Mehrab) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 218106612: vassal=50450527 (Afsaneh) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 67111208: vassal=33683146 (Mehrab) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 234883399: vassal=125558 (Bahar) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 150998265: vassal=83997257 (Abdallah) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 100664373: vassal=129009 (Naraiman) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 117441295: vassal=117510106 (Sahba) group=feudal_vassal levels_raw=None war_with_liege=None
+  contract 134218713: vassal=147115 (Zand) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 335546204: vassal=16912739 (Azarkhsh) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 234883595: vassal=50415825 (Chenpa) group=feudal_vassal levels_raw=None war_with_liege=None
+  contract 234883285: vassal=67210577 (SelC_uk) group=nomad_vassal levels_raw=None war_with_liege=None
+  contract 167773780: vassal=67200699 (Takhsichvandak) group=republic_vassal levels_raw=[1] war_with_liege=None
+  contract 268437829: vassal=16863162 (Neda) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 167775149: vassal=134723 (Hoshang) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 184550442: vassal=137991 (Donya) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 67111028: vassal=136419 (Salman) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 218107274: vassal=16895618 (Mas_ud) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 201329854: vassal=33686956 (Pashang) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 301992691: vassal=136511 (Jahanshah) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 251658538: vassal=50409706 (Ahmad) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 167773074: vassal=16891321 (Aram) group=admin_vassal levels_raw=None war_with_liege=None
+  contract 268437400: vassal=33650285 (Hossein) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 184549612: vassal=33671337 (GE_khO_) group=feudal_vassal levels_raw=None war_with_liege=None
+  contract 100664078: vassal=16912986 (Ridwan) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 268438202: vassal=16861480 (Khosrau) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 268436938: vassal=16910343 (Naveed) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 218104233: vassal=67213740 (Adnan) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 285215713: vassal=134250426 (Nanaithvar) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 251658276: vassal=67205076 (Shahab) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 134218841: vassal=16919839 (Ramch) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 150997714: vassal=16917066 (Chatfaratsaran) group=republic_vassal levels_raw=[1] war_with_liege=None
+  contract 285212977: vassal=50405157 (Taknye) group=feudal_vassal levels_raw=None war_with_liege=None
+  contract 218105896: vassal=83991862 (Siawash) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 234881483: vassal=50437484 (Nipak) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 218104415: vassal=50422624 (Yahya) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 301991613: vassal=67157596 (Nawid) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 218103965: vassal=33665892 (Nyendrak) group=feudal_vassal levels_raw=None war_with_liege=None
+  contract 167773158: vassal=84006158 (Danush) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 83887185: vassal=149244 (Shayan) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 301992256: vassal=149961 (Jahandar) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 218104039: vassal=134501 (Youkhanna) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 201328963: vassal=67203628 (Seyfullah) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 50332999: vassal=127168 (Yahya) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 16778634: vassal=67154825 (Ibrahim) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 167772800: vassal=67165912 (al-Abbas) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 184549988: vassal=123729 (Yusuf) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 251658629: vassal=16895358 (Ya_qub) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 201328528: vassal=167831427 (Shujah) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 167774600: vassal=83930894 (Mubarak) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 234883361: vassal=16899906 (Fayiz) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 150995993: vassal=33660606 (Khudayar) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 117441507: vassal=131200 (Fadil) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 234881917: vassal=16882836 (Rasul) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 268435539: vassal=33652291 (Latif) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 268437476: vassal=67207892 (Hisham) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 167774625: vassal=16907861 (Nasr) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 201327190: vassal=147741 (Ilyas) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 50332992: vassal=16924449 (Idris) group=theocracy_vassal levels_raw=[1] war_with_liege=None
+  contract 251658664: vassal=16887583 (Jabir) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 83887154: vassal=130646 (Ashraf) group=tribal_vassal levels_raw=[1] war_with_liege=None
+  contract 352324827: vassal=16913808 (Kamran) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 268436035: vassal=50403708 (Seyfullah) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 251661297: vassal=140058 (Milad) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 251661142: vassal=33652024 (Murad) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 285213129: vassal=33684854 (Tzemach) group=theocracy_vassal levels_raw=[1] war_with_liege=None
+  contract 335547001: vassal=134473 (Yusuf) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 268435650: vassal=129290 (Marti) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 67111774: vassal=146553 (Ehsan) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 218105745: vassal=128878 (Hazarasp) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 318769545: vassal=100759333 (Barak) group=republic_vassal levels_raw=[1] war_with_liege=None
+  contract 268437722: vassal=138641 (Faraz) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 285216137: vassal=33646730 (Adil) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 100664810: vassal=151059451 (Gholam) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 117441268: vassal=16910486 (Shahrokh) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 83887320: vassal=16919037 (Badr) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 201328589: vassal=16922127 (Ya_qub) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 285215228: vassal=50443742 (Khalil) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 234881515: vassal=16900623 (Niyoosha) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 301993154: vassal=156449 (Kuntuvdi) group=republic_vassal levels_raw=[1] war_with_liege=None
+  contract 218106950: vassal=117448079 (Noushzad) group=clan_vassal levels_raw=[7] war_with_liege=None
+  contract 184552404: vassal=16910760 (Leila) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 150995803: vassal=67206755 (Parvaneh) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 201328499: vassal=16922012 (Zartosht) group=admin_vassal levels_raw=[2] war_with_liege=None
+  contract 201329968: vassal=16814273 (Abdul-Qadir) group=tribal_vassal levels_raw=[1] war_with_liege=None
+  contract 218104112: vassal=16919021 (Tahmasb) group=admin_vassal levels_raw=[2] war_with_liege=None
+  note: tax/levy percentages are NOT derivable from raw contract levels (game-data mapping absent from save)
+
+--- Factions (160 active) ---
+  faction 788529152: type=independence_faction target=33674772 leader=33662517 power=42.328 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 838860801: type=liberty_faction target=16903430 leader=134312 power=158.236 threshold=80 discontent=100 members=1 title_members=0 war=1979711545  ** OVER THRESHOLD **
+  faction 805306370: type=liberty_faction target=122281 leader=100709113 power=7.982 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 822083587: type=populist_faction target=33615713 leader=None power=11.852 threshold=75 discontent=None members=0 title_members=2 war=None
+  faction 889192452: type=claimant_faction target=33675540 leader=132238 power=1000 threshold=80 discontent=100 members=1 title_members=0 war=1577058345  ** OVER THRESHOLD **
+  faction 620756997: type=peasant_faction target=33695479 leader=None power=1000 threshold=None discontent=14 members=0 title_members=1 war=None
+  faction 889192454: type=liberty_faction target=67146215 leader=16886331 power=46.852 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 1140850695: type=peasant_faction target=83958848 leader=None power=294.642 threshold=None discontent=50 members=0 title_members=1 war=None
+  faction 721420296: type=liberty_faction target=16915909 leader=50409371 power=71.73 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 838860809: type=independence_faction target=16888178 leader=67210577 power=0.604 threshold=75 discontent=None members=1 title_members=0 war=None
+  faction 905969674: type=claimant_faction target=50422624 leader=100792632 power=36.243 threshold=80 discontent=None members=2 title_members=0 war=None
+  faction 1056964619: type=peasant_faction target=132640 leader=None power=49.205 threshold=None discontent=16 members=0 title_members=1 war=None
+  faction 1157627916: type=liberty_faction target=116627 leader=33647582 power=37.099 threshold=80 discontent=79 members=1 title_members=0 war=1996488720
+  faction 956301325: type=claimant_faction target=16884437 leader=136338 power=94.049 threshold=80 discontent=100 members=4 title_members=0 war=None  ** OVER THRESHOLD **
+  faction 905969678: type=liberty_faction target=16900496 leader=139116 power=162.536 threshold=80 discontent=78 members=2 title_members=0 war=None  ** OVER THRESHOLD **
+  faction 855638031: type=peasant_faction target=67236619 leader=None power=61.913 threshold=None discontent=64 members=0 title_members=1 war=None
+  faction 922746896: type=peasant_faction target=33635847 leader=None power=1000 threshold=None discontent=22 members=0 title_members=1 war=None
+  faction 805306385: type=liberty_faction target=147643 leader=33653489 power=596.507 threshold=80 discontent=91 members=1 title_members=0 war=None  ** OVER THRESHOLD **
+  faction 822083602: type=independence_faction target=16893883 leader=67217542 power=89.182 threshold=80 discontent=25 members=1 title_members=0 war=None  ** OVER THRESHOLD **
+  faction 905969683: type=claimant_faction target=83960488 leader=16900496 power=630.136 threshold=80 discontent=52 members=1 title_members=0 war=None  ** OVER THRESHOLD **
+  faction 1023410196: type=peasant_faction target=50443167 leader=None power=1000 threshold=None discontent=88 members=0 title_members=2 war=None
+  faction 838860821: type=nomadic_faction target=33654821 leader=None power=543.128 threshold=None discontent=100 members=0 title_members=1 war=None
+  faction 855638038: type=liberty_faction target=50453926 leader=16923489 power=20.068 threshold=80 discontent=46 members=2 title_members=0 war=None
+  faction 721420311: type=liberty_faction target=117488472 leader=50413252 power=21.839 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 889192472: type=claimant_faction target=50347244 leader=123201 power=33.224 threshold=80 discontent=None members=2 title_members=0 war=None
+  faction 973078553: type=claimant_faction target=16897385 leader=121222 power=205.704 threshold=80 discontent=100 members=2 title_members=0 war=1677721686  ** OVER THRESHOLD **
+  faction 922746906: type=liberty_faction target=83929161 leader=146221 power=16.5 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 1023410203: type=peasant_faction target=151043550 leader=None power=1000 threshold=None discontent=30 members=0 title_members=1 war=None
+  faction 939524124: type=claimant_faction target=150162 leader=50450627 power=103.148 threshold=70 discontent=32 members=1 title_members=0 war=None  ** OVER THRESHOLD **
+  faction 788529181: type=peasant_faction target=136318 leader=None power=135.629 threshold=None discontent=42 members=0 title_members=1 war=None
+  faction 872415262: type=nomadic_faction target=50452877 leader=67188969 power=8.879 threshold=None discontent=100 members=1 title_members=1 war=1358954587
+  faction 939524127: type=populist_faction target=50448896 leader=None power=11.363 threshold=80 discontent=None members=0 title_members=1 war=None
+  faction 889192480: type=peasant_faction target=16888449 leader=None power=209.445 threshold=None discontent=24 members=0 title_members=1 war=None
+  faction 805306401: type=claimant_faction target=50422206 leader=33643486 power=33.323 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 905969698: type=peasant_faction target=33685149 leader=None power=95.569 threshold=None discontent=42 members=0 title_members=2 war=None
+  faction 905969699: type=peasant_faction target=126341 leader=None power=1000 threshold=None discontent=None members=0 title_members=1 war=None
+  faction 905969700: type=peasant_faction target=67215809 leader=16934068 power=1000 threshold=None discontent=100 members=1 title_members=1 war=1895825412
+  faction 822083621: type=nomadic_faction target=16915184 leader=161473 power=160.266 threshold=None discontent=100 members=1 title_members=1 war=1627389990
+  faction 939524134: type=independence_faction target=146295 leader=33695343 power=89.61 threshold=80 discontent=78 members=1 title_members=0 war=None  ** OVER THRESHOLD **
+  faction 905969703: type=liberty_faction target=147703 leader=154651 power=9.509 threshold=80 discontent=None members=2 title_members=0 war=None
+  faction 989855784: type=nation_fracturing_faction target=16915909 leader=137773 power=6.604 threshold=75 discontent=None members=1 title_members=0 war=None
+  faction 1023410217: type=peasant_faction target=134239949 leader=None power=52.969 threshold=None discontent=30 members=0 title_members=1 war=None
+  faction 855638058: type=peasant_faction target=142714 leader=None power=64.22 threshold=None discontent=16 members=0 title_members=1 war=None
+  faction 939524139: type=liberty_faction target=67233568 leader=33667920 power=65.204 threshold=80 discontent=None members=2 title_members=0 war=None
+  faction 1006633004: type=claimant_faction target=16892561 leader=100683064 power=29.868 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 738197549: type=peasant_faction target=100739162 leader=None power=1000 threshold=None discontent=2 members=0 title_members=1 war=None
+  faction 855638062: type=liberty_faction target=152969 leader=67209277 power=51.644 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 922746927: type=liberty_faction target=50452877 leader=16890224 power=26.023 threshold=60 discontent=None members=4 title_members=0 war=None
+  faction 788529200: type=peasant_faction target=33658667 leader=None power=83.575 threshold=None discontent=76 members=0 title_members=1 war=None
+  faction 973078577: type=independence_faction target=84000445 leader=146023 power=9.042 threshold=80 discontent=None members=2 title_members=0 war=None
+  faction 889192498: type=claimant_faction target=50468036 leader=145185 power=27.843 threshold=75 discontent=None members=1 title_members=0 war=None
+  faction 1006633011: type=populist_faction target=100703042 leader=None power=14.46 threshold=80 discontent=None members=0 title_members=1 war=None
+  faction 721420340: type=nation_fracturing_faction target=16899359 leader=16918808 power=18.587 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 1040187445: type=liberty_faction target=16900276 leader=140658 power=39.342 threshold=80 discontent=None members=3 title_members=0 war=None
+  faction 956301366: type=liberty_faction target=33615713 leader=16912942 power=15.692 threshold=75 discontent=None members=1 title_members=0 war=None
+  faction 956301367: type=claimant_faction target=16909900 leader=16922558 power=75.757 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 822083640: type=claimant_faction target=119413 leader=128289 power=11.267 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 838860858: type=peasant_faction target=100765053 leader=None power=281.588 threshold=None discontent=74 members=0 title_members=1 war=None
+  faction 687865915: type=populist_faction target=83899560 leader=None power=74.67 threshold=70 discontent=38 members=0 title_members=1 war=None  ** OVER THRESHOLD **
+  faction 973078588: type=peasant_faction target=16908782 leader=161525 power=280.878 threshold=None discontent=100 members=1 title_members=1 war=1879048219
+  faction 889192509: type=claimant_faction target=83960488 leader=117496274 power=632.07 threshold=80 discontent=100 members=3 title_members=0 war=1543503911  ** OVER THRESHOLD **
+  faction 1073741886: type=liberty_faction target=16873694 leader=16879399 power=63.457 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 671088703: type=populist_faction target=136393 leader=None power=12.177 threshold=75 discontent=None members=0 title_members=1 war=None
+  faction 620757056: type=nation_fracturing_faction target=50443735 leader=83972381 power=68.097 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 905969729: type=claimant_faction target=33651198 leader=100678301 power=42.254 threshold=80 discontent=None members=2 title_members=0 war=None
+  faction 939524162: type=peasant_faction target=33687166 leader=160994 power=154.491 threshold=None discontent=100 members=1 title_members=1 war=1761607733
+  faction 889192515: type=liberty_faction target=16912942 leader=117469036 power=137.955 threshold=100 discontent=91 members=1 title_members=0 war=None  ** OVER THRESHOLD **
+  faction 922746948: type=peasant_faction target=118064 leader=None power=111.842 threshold=None discontent=40 members=0 title_members=1 war=None
+  faction 956301382: type=populist_faction target=33656932 leader=None power=32.518 threshold=75 discontent=None members=0 title_members=6 war=None
+  faction 922746951: type=liberty_faction target=16882836 leader=16853987 power=31.289 threshold=80 discontent=None members=2 title_members=0 war=None
+  faction 754974793: type=independence_faction target=33656932 leader=50428333 power=8.107 threshold=75 discontent=None members=1 title_members=0 war=None
+  faction 855638090: type=liberty_faction target=33655996 leader=143885 power=51.753 threshold=80 discontent=None members=2 title_members=0 war=None
+  faction 805306443: type=peasant_faction target=50448047 leader=None power=1000 threshold=None discontent=76 members=0 title_members=1 war=None
+  faction 822083660: type=claimant_faction target=16888178 leader=33671337 power=3.194 threshold=75 discontent=None members=1 title_members=0 war=None
+  faction 687865933: type=liberty_faction target=33671322 leader=136234 power=43.18 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 889192526: type=independence_faction target=154343 leader=83932236 power=17.739 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 822083663: type=peasant_faction target=136068 leader=None power=246.056 threshold=None discontent=74 members=0 title_members=1 war=None
+  faction 805306448: type=claimant_faction target=50452877 leader=33644576 power=81.318 threshold=75 discontent=100 members=18 title_members=0 war=1610612778  ** OVER THRESHOLD **
+  faction 1056964689: type=claimant_faction target=16897913 leader=16919653 power=19.01 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 889192531: type=liberty_faction target=16793152 leader=33694856 power=87.468 threshold=80 discontent=None members=2 title_members=0 war=None  ** OVER THRESHOLD **
+  faction 788529237: type=claimant_faction target=50468036 leader=139141 power=21.917 threshold=75 discontent=None members=1 title_members=0 war=None
+  faction 905969750: type=claimant_faction target=156076 leader=118716 power=36.452 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 788529241: type=peasant_faction target=139655 leader=None power=67.684 threshold=None discontent=86 members=0 title_members=1 war=None
+  faction 754974810: type=liberty_faction target=33697075 leader=33685685 power=56.493 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 905969755: type=claimant_faction target=100697789 leader=33678657 power=60.516 threshold=80 discontent=None members=2 title_members=0 war=None
+  faction 805306461: type=liberty_faction target=117455565 leader=16900748 power=43.96 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 1006633054: type=peasant_faction target=50445042 leader=None power=234.146 threshold=None discontent=76 members=0 title_members=2 war=None
+  faction 805306463: type=peasant_faction target=16899321 leader=None power=303.797 threshold=None discontent=52 members=0 title_members=3 war=None
+  faction 671088740: type=claimant_faction target=50440596 leader=83979361 power=1.038 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 704643176: type=liberty_faction target=150162 leader=33677441 power=106.064 threshold=70 discontent=27 members=1 title_members=0 war=None  ** OVER THRESHOLD **
+  faction 989855849: type=peasant_faction target=16904319 leader=None power=51.98 threshold=None discontent=4 members=0 title_members=1 war=None
+  faction 805306475: type=liberty_faction target=122339 leader=33659243 power=78.438 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 1040187500: type=liberty_faction target=67236619 leader=16906350 power=16.506 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 1124073581: type=peasant_faction target=84003476 leader=None power=68.027 threshold=None discontent=86 members=0 title_members=1 war=None
+  faction 654311534: type=liberty_faction target=16908566 leader=132011 power=46.007 threshold=80 discontent=None members=3 title_members=0 war=None
+  faction 1056964719: type=liberty_faction target=33680473 leader=16882894 power=14.736 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 754974832: type=liberty_faction target=67197348 leader=50450937 power=11.185 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 721420401: type=claimant_faction target=83986079 leader=16897421 power=42.06 threshold=80 discontent=73 members=2 title_members=0 war=1610612776
+  faction 872415346: type=claimant_faction target=50468036 leader=16892575 power=43.098 threshold=75 discontent=None members=1 title_members=0 war=None
+  faction 956301429: type=claimant_faction target=16904918 leader=100711660 power=45.833 threshold=100 discontent=None members=1 title_members=0 war=None
+  faction 671088758: type=populist_faction target=33656932 leader=None power=5.071 threshold=75 discontent=None members=0 title_members=1 war=None
+  faction 738197623: type=claimant_faction target=67200830 leader=16909641 power=20 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 1073741946: type=claimant_faction target=33651198 leader=50457042 power=35.649 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 788529275: type=peasant_faction target=16861825 leader=None power=66.719 threshold=None discontent=26 members=0 title_members=1 war=None
+  faction 738197628: type=liberty_faction target=151059451 leader=100697789 power=74.146 threshold=75 discontent=22 members=1 title_members=0 war=None
+  faction 989855869: type=populist_faction target=33656932 leader=None power=9.944 threshold=75 discontent=None members=0 title_members=2 war=None
+  faction 637534334: type=peasant_faction target=117510106 leader=None power=84.398 threshold=None discontent=86 members=0 title_members=1 war=None
+  faction 671088769: type=claimant_faction target=16906154 leader=16894351 power=53.838 threshold=100 discontent=None members=1 title_members=0 war=None
+  faction 1073741955: type=liberty_faction target=154425 leader=33664339 power=105.038 threshold=80 discontent=100 members=5 title_members=0 war=1711276065  ** OVER THRESHOLD **
+  faction 771752069: type=claimant_faction target=151059451 leader=50452417 power=12.836 threshold=75 discontent=None members=1 title_members=0 war=None
+  faction 754974855: type=liberty_faction target=152853 leader=83981340 power=15.002 threshold=75 discontent=None members=1 title_members=0 war=None
+  faction 671088776: type=liberty_faction target=123580 leader=100732639 power=2.311 threshold=80 discontent=None members=2 title_members=0 war=None
+  faction 805306505: type=independence_faction target=83984697 leader=16927679 power=152.447 threshold=80 discontent=39 members=1 title_members=0 war=None  ** OVER THRESHOLD **
+  faction 855638154: type=peasant_faction target=16916496 leader=None power=42.369 threshold=None discontent=16 members=0 title_members=1 war=None
+  faction 788529291: type=claimant_faction target=125209 leader=16906928 power=145.956 threshold=80 discontent=39 members=1 title_members=0 war=None  ** OVER THRESHOLD **
+  faction 838860942: type=peasant_faction target=140881 leader=None power=66.937 threshold=None discontent=4 members=0 title_members=1 war=None
+  faction 989855887: type=liberty_faction target=50468036 leader=67214426 power=24.137 threshold=75 discontent=None members=1 title_members=0 war=None
+  faction 754974865: type=peasant_faction target=16875872 leader=None power=49.059 threshold=None discontent=18 members=0 title_members=1 war=None
+  faction 939524242: type=liberty_faction target=126047 leader=50391277 power=102.98 threshold=80 discontent=100 members=2 title_members=0 war=1627390016  ** OVER THRESHOLD **
+  faction 687866004: type=nomadic_faction target=157185 leader=83974778 power=209.228 threshold=None discontent=100 members=1 title_members=1 war=1728053263
+  faction 788529302: type=peasant_faction target=117497991 leader=None power=230.248 threshold=None discontent=92 members=0 title_members=1 war=None
+  faction 1090519191: type=liberty_faction target=16904584 leader=33675489 power=42.236 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 822083736: type=claimant_faction target=50351952 leader=33674710 power=32.716 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 1140850841: type=peasant_faction target=140058 leader=None power=49.475 threshold=None discontent=42 members=0 title_members=1 war=None
+  faction 704643228: type=peasant_faction target=16906928 leader=None power=47.091 threshold=None discontent=22 members=0 title_members=1 war=None
+  faction 939524255: type=peasant_faction target=33644576 leader=None power=38.476 threshold=None discontent=26 members=0 title_members=1 war=None
+  faction 754974880: type=liberty_faction target=83899560 leader=16927338 power=105.784 threshold=70 discontent=100 members=4 title_members=0 war=None  ** OVER THRESHOLD **
+  faction 1107296417: type=nomadic_faction target=127680 leader=None power=28.729 threshold=None discontent=10 members=0 title_members=1 war=None
+  faction 973078690: type=peasant_faction target=125620 leader=None power=26.837 threshold=None discontent=66 members=0 title_members=1 war=None
+  faction 738197668: type=liberty_faction target=125092 leader=16909900 power=3.462 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 654311589: type=peasant_faction target=100703042 leader=None power=64.417 threshold=None discontent=28 members=0 title_members=3 war=None
+  faction 687866022: type=peasant_faction target=33680473 leader=None power=30.398 threshold=None discontent=6 members=0 title_members=1 war=None
+  faction 704643239: type=claimant_faction target=134610 leader=16922850 power=10.153 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 721420456: type=liberty_faction target=123729 leader=16915816 power=7.416 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 469762217: type=populist_faction target=33657292 leader=None power=9.984 threshold=80 discontent=None members=0 title_members=1 war=None
+  faction 654311594: type=liberty_faction target=132849 leader=16905167 power=47.11 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 721420459: type=populist_faction target=100703042 leader=None power=23.663 threshold=80 discontent=None members=0 title_members=1 war=None
+  faction 1023410349: type=liberty_faction target=16900162 leader=16922252 power=46.451 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 687866030: type=peasant_faction target=50451869 leader=None power=43.923 threshold=None discontent=44 members=0 title_members=1 war=None
+  faction 721420463: type=liberty_faction target=16905546 leader=117456427 power=54.891 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 335544497: type=claimant_faction target=156076 leader=134304764 power=36.68 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 922747062: type=liberty_faction target=155691 leader=16897106 power=29.838 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 486539448: type=claimant_faction target=134610 leader=16919635 power=17.087 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 822083771: type=claimant_faction target=16913358 leader=33628760 power=48.939 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 889192639: type=independence_faction target=151261 leader=134231742 power=99.41 threshold=80 discontent=6 members=2 title_members=0 war=None  ** OVER THRESHOLD **
+  faction 637534404: type=claimant_faction target=117516830 leader=146583 power=28.316 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 704643269: type=claimant_faction target=142772 leader=144784 power=54.977 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 822083782: type=peasant_faction target=158222 leader=None power=151.75 threshold=None discontent=6 members=0 title_members=1 war=None
+  faction 738197707: type=liberty_faction target=122802 leader=33661084 power=11.255 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 788529362: type=liberty_faction target=149262 leader=133776 power=6.635 threshold=75 discontent=None members=1 title_members=0 war=None
+  faction 536871123: type=liberty_faction target=122855 leader=16921894 power=177.13 threshold=80 discontent=100 members=1 title_members=0 war=1912602655  ** OVER THRESHOLD **
+  faction 671088852: type=claimant_faction target=136393 leader=16917688 power=70.917 threshold=75 discontent=None members=1 title_members=0 war=None
+  faction 620757205: type=claimant_faction target=16910486 leader=16918806 power=424.558 threshold=80 discontent=100 members=3 title_members=0 war=1644167222  ** OVER THRESHOLD **
+  faction 352321750: type=populist_faction target=33656932 leader=None power=2.656 threshold=75 discontent=None members=0 title_members=1 war=None
+  faction 436207832: type=claimant_faction target=149262 leader=140156 power=59.219 threshold=75 discontent=None members=1 title_members=0 war=None
+  faction 687866074: type=liberty_faction target=109732 leader=146386 power=8.81 threshold=80 discontent=None members=1 title_members=0 war=None
+  faction 285212900: type=populist_faction target=33656932 leader=None power=9.394 threshold=75 discontent=None members=0 title_members=1 war=None
+  faction 335544550: type=claimant_faction target=152853 leader=16889088 power=42.087 threshold=75 discontent=52 members=1 title_members=0 war=None
+  faction 788529389: type=peasant_faction target=16889813 leader=None power=25.439 threshold=None discontent=14 members=0 title_members=1 war=None
+  faction 369098991: type=liberty_faction target=16895618 leader=33578121 power=55.681 threshold=80 discontent=None members=1 title_members=0 war=None
+  factions over power threshold (numeric criterion): 24
+
+--- Faith & Culture ---
+  player faith: 50 (maturidi)
+  player culture: 91 (persian)
+  mismatch: {'kind': 'player_county_faith', 'county': 'c_isfahan'}
+  mismatch: {'kind': 'player_character_faith', 'character': '149003'}
+  mismatch: {'kind': 'player_character_culture', 'character': '149003'}
+  mismatch: {'kind': 'player_character_culture', 'character': '16895695'}
+  mismatch: {'kind': 'player_character_faith', 'character': '129967'}
+  mismatch: {'kind': 'player_character_culture', 'character': '100746454'}
+  mismatch: {'kind': 'player_character_culture', 'character': '100718427'}
+  mismatch: {'kind': 'player_character_faith', 'character': '16913190'}
+  mismatch: {'kind': 'player_character_culture', 'character': '16913190'}
+  mismatch: {'kind': 'player_character_culture', 'character': '33638751'}
+
+--- Succession ---
+  laws: ['imperial_bureaucracy_3', 'crowned_king', 'acclamation_succession_law', 'male_preference_law', 'same_faith_succession_law', 'province_war_law_1', 'province_border_law_1']
+  gender law: male_preference_law
+  first in stored succession line: Hedayat (id=135903)
+  stored succession line (108 entries, as saved by the game — not recomputed):
+    135903: Hedayat alive=True
+    67188752: Morad alive=True
+    50426972: Faraz alive=True
+    16891321: Aram alive=True
+    33686956: Pashang alive=True
+    33644017: unmapped alive=None
+    16910343: Naveed alive=True
+    136419: Salman alive=True
+    128744: Khashayar alive=True
+    33650285: Hossein alive=True
+  note: heir claims beyond the stored line, partition shares and title creation are NOT computable from this save (algorithm not reconstructed)
+
+--- Missing / Unmapped (Stage 3) ---
+  unmapped character ids: 0
+  unmapped vassal contracts: 0
+  factions without mapped leader: 0
+  opinion values: NOT present in save's active_opinions structure (owner/target only) — not reported
+
+============================================================
+WARS, MILITARY & COURT (Stage 4)
+============================================================
+
+--- Active Wars (73) ---
+  note: from wars.active_wars only; character war history (alive_data.wars) is a counter, NOT war ids
+  war 1912602624: cb=naval_expansion_cb att=16905881 def=67191493 start=1075.8.11 score(att tick=None, def tick=None, battles sum=None)
+  war 1711276033: cb=invasion_war att=16892885 def=16899359 start=1072.5.6 score(att tick=None, def tick=24.035, battles sum=None)
+  war 1811939330: cb=county_struggle_cb att=138017 def=50399836 start=1073.12.19 score(att tick=11.625, def tick=23.25, battles sum=13.528)
+  war 1895825412: cb=peasant_war att=16934068 def=67215809 start=1075.8.3 score(att tick=None, def tick=None, battles sum=None)
+  war 1795162117: cb=claim_cb att=16897591 def=33667770 start=1075.1.31 score(att tick=None, def tick=None, battles sum=10.519)
+  war 1711276038: cb=make_tributary_cb att=152349 def=157244 start=1074.5.4 score(att tick=None, def tick=7.865, battles sum=None)
+  war 1795162119: cb=retaliation_cb att=16896289 def=100746742 start=1074.4.13 score(att tick=None, def tick=9.02, battles sum=None)
+  war 1828716552: cb=vassalization_cb att=33656932 def=134583 start=1075.7.2 score(att tick=None, def tick=None, battles sum=None)
+  war 1979711497: cb=nomadic_conquest_cb att=151043880 def=151501 start=1074.11.3 score(att tick=None, def tick=None, battles sum=33.724)
+  war 1778384906: cb=make_tributary_cb att=127362 def=83967884 start=1075.6.8 score(att tick=None, def tick=None, battles sum=None)
+  war 1744830476: cb=minor_religious_war att=50445042 def=67233568 start=1073.2.26 score(att tick=9.515, def tick=22.11, battles sum=None)
+  war 1895825421: cb=claim_cb att=143645 def=16888179 start=1073.8.29 score(att tick=22.22, def tick=None, battles sum=None)
+  war 1627389966: cb=refused_liege_demand_war att=50427408 def=50443735 start=1075.2.23 score(att tick=None, def tick=None, battles sum=40.939)
+  war 1728053263: cb=nomadic_war att=83974778 def=157185 start=1075.2.27 score(att tick=5.72, def tick=None, battles sum=None)
+  war 1996488720: cb=liberty_faction_war att=33647582 def=116627 start=1075.1.8 score(att tick=None, def tick=None, battles sum=13.526)
+  war 2013265938: cb=claim_cb att=129961 def=83936142 start=1073.10.4 score(att tick=2.75, def tick=5.115, battles sum=None)
+  war 1610612755: cb=refused_liege_demand_war att=16882891 def=100705677 start=1075.5.7 score(att tick=None, def tick=None, battles sum=None)
+  war 1795162132: cb=refused_liege_demand_war att=50460765 def=16923652 start=1074.12.14 score(att tick=None, def tick=None, battles sum=17.547)
+  war 1845493781: cb=nomadic_conquest_cb att=33701158 def=146295 start=1075.8.27 score(att tick=None, def tick=None, battles sum=None)
+  war 1526726678: cb=refused_liege_demand_war att=33701113 def=50409371 start=1075.3.24 score(att tick=None, def tick=None, battles sum=None)
+  war 1409286167: cb=major_religious_war att=100735005 def=67233568 start=1075.5.7 score(att tick=None, def tick=None, battles sum=None)
+  war 1694498841: cb=migration_cb att=67153552 def=16932450 start=1074.5.21 score(att tick=None, def tick=6.93, battles sum=None)
+  war 1577058330: cb=claim_cb att=155691 def=33680473 start=1072.8.2 score(att tick=None, def tick=2.255, battles sum=8.837)
+  war 1879048219: cb=peasant_war att=161525 def=16908782 start=1075.1.29 score(att tick=None, def tick=None, battles sum=None)
+  war 1610612764: cb=duchy_conquest_cb att=16859746 def=83899560 start=1073.9.6 score(att tick=None, def tick=11.22, battles sum=39.584)
+  war 2097152029: cb=naval_expansion_cb att=16922564 def=67191493 start=1073.9.30 score(att tick=None, def tick=19.745, battles sum=None)
+  war 1610612766: cb=make_tributary_cb att=83984633 def=130049 start=1075.1.7 score(att tick=None, def tick=None, battles sum=94.002)
+  war 1912602655: cb=liberty_faction_war att=16921894 def=122855 start=1075.3.9 score(att tick=None, def tick=None, battles sum=25.872)
+  war 1845493792: cb=religious_war att=33656932 def=125092 start=1075.7.2 score(att tick=None, def tick=None, battles sum=None)
+  war 1711276065: cb=liberty_faction_war att=33664339 def=154425 start=1075.3.22 score(att tick=None, def tick=None, battles sum=17.602)
+  war 1560281122: cb=refused_liege_demand_war att=16919635 def=134610 start=1075.4.9 score(att tick=None, def tick=None, battles sum=None)
+  war 1761607715: cb=religious_war att=33657292 def=83899560 start=1073.10.16 score(att tick=None, def tick=None, battles sum=41.049)
+  war 1560281124: cb=expansion_cb att=16920566 def=67233568 start=1074.2.21 score(att tick=17.93, def tick=None, battles sum=None)
+  war 1845493797: cb=nomadic_conquest_cb att=16876138 def=136688 start=1075.8.19 score(att tick=None, def tick=None, battles sum=None)
+  war 1627389990: cb=nomadic_war att=161473 def=16915184 start=1074.12.30 score(att tick=None, def tick=None, battles sum=50)
+  war 1543503911: cb=claimant_faction_war att=117496274 def=83960488 start=1071.11.18 score(att tick=None, def tick=None, battles sum=22.252)
+  war 1610612776: cb=claimant_faction_war att=16897421 def=83986079 start=1066.2.24 score(att tick=42.185, def tick=None, battles sum=44.606)
+  war 1577058345: cb=claimant_faction_war att=132238 def=33675540 start=1074.12.3 score(att tick=None, def tick=None, battles sum=81.986)
+  war 1610612778: cb=claimant_faction_war att=33644576 def=50452877 start=1073.5.31 score(att tick=None, def tick=None, battles sum=73.302)
+  war 1728053291: cb=ep3_laamp_adventurer_county_invasion att=50397592 def=16890327 start=1073.3.28 score(att tick=None, def tick=29.975, battles sum=16.788)
+  war 1845493804: cb=naval_expansion_cb att=100747315 def=16892454 start=1075.8.19 score(att tick=None, def tick=None, battles sum=None)
+  war 1644167213: cb=individual_county_de_jure_cb att=16900452 def=67191493 start=1074.1.20 score(att tick=None, def tick=13.585, battles sum=35.233)
+  war 1828716590: cb=claim_cb att=127225 def=33653733 start=1073.2.2 score(att tick=25.74, def tick=7.205, battles sum=51.605)
+  war 1660944431: cb=refused_liege_demand_war att=16881325 def=50437145 start=1074.11.11 score(att tick=0.165, def tick=None, battles sum=30.273)
+  war 1845493808: cb=refused_liege_demand_war att=152784 def=100697789 start=1075.1.29 score(att tick=None, def tick=None, battles sum=24.264)
+  war 1560281140: cb=nomadic_conquest_cb att=117550846 def=33683931 start=1074.1.20 score(att tick=None, def tick=4.62, battles sum=44.151)
+  war 1761607733: cb=peasant_war att=160994 def=33687166 start=1074.3.28 score(att tick=None, def tick=9.9, battles sum=None)
+  war 1644167222: cb=claimant_faction_war att=16918806 def=16910486 start=1072.12.29 score(att tick=None, def tick=None, battles sum=87.211)
+  war 2315255863: cb=refused_liege_demand_war att=16880675 def=83936142 start=1075.8.19 score(att tick=None, def tick=None, battles sum=None)
+  war 1979711545: cb=liberty_faction_war att=134312 def=16903430 start=1073.3.27 score(att tick=1.43, def tick=28.6, battles sum=28.806)
+  war 1660944442: cb=county_conquest_cb att=125528 def=100749986 start=1074.12.14 score(att tick=2.145, def tick=None, battles sum=None)
+  war 1778384956: cb=nomadic_conquest_cb att=16902685 def=67211503 start=1075.3.4 score(att tick=None, def tick=None, battles sum=15.562)
+  war 1795162173: cb=religious_war att=33656932 def=16900452 start=1075.7.2 score(att tick=None, def tick=None, battles sum=None)
+  war 1744830527: cb=county_conquest_cb att=138923 def=83917707 start=1073.7.12 score(att tick=20.24, def tick=3.905, battles sum=50)
+  war 1627390016: cb=liberty_faction_war att=50391277 def=126047 start=1072.10.1 score(att tick=None, def tick=39.765, battles sum=None)
+  war 1912602691: cb=religious_war att=134289747 def=33657292 start=1074.10.3 score(att tick=None, def tick=None, battles sum=148.098)
+  war 1979711556: cb=nomadic_conquest_cb att=16894122 def=100746742 start=1075.9.4 score(att tick=None, def tick=None, battles sum=None)
+  war 1459617861: cb=nomadic_conquest_cb att=16887339 def=157244 start=1074.7.31 score(att tick=None, def tick=None, battles sum=None)
+  war 2147483718: cb=individual_county_de_jure_cb att=123452 def=83917707 start=1075.9.20 score(att tick=None, def tick=None, battles sum=None)
+  war 1711276104: cb=ep3_laamp_raid_contract_cb att=131846 def=100703042 start=1075.7.8 score(att tick=None, def tick=None, battles sum=None)
+  war 1660944458: cb=make_tributary_cb att=156258 def=139944 start=1074.4.26 score(att tick=None, def tick=6.215, battles sum=21.101)
+  war 1694498892: cb=claim_cb att=16912986 def=117448079 start=1075.4.29 score(att tick=None, def tick=None, battles sum=50)
+  war 1627390030: cb=refused_liege_demand_war att=16922633 def=123580 start=1075.1.27 score(att tick=None, def tick=None, battles sum=79.048)
+  war 1459617872: cb=expansion_cb att=134273415 def=33651395 start=1075.2.16 score(att tick=None, def tick=None, battles sum=None)
+  war 1879048274: cb=claim_cb att=50430245 def=33678118 start=1073.12.19 score(att tick=None, def tick=15.345, battles sum=4.779)
+  war 1761607764: cb=nomadic_conquest_cb att=33682995 def=67229028 start=1075.3.28 score(att tick=None, def tick=None, battles sum=None)
+  war 1610612821: cb=refused_liege_demand_war att=33683994 def=33669024 start=1075.5.28 score(att tick=None, def tick=None, battles sum=10.753)
+  war 1677721686: cb=claimant_faction_war att=121222 def=16897385 start=1074.10.6 score(att tick=None, def tick=None, battles sum=15.252)
+  war 1862271063: cb=retaliation_cb att=150185 def=33652146 start=1072.7.19 score(att tick=None, def tick=43.835, battles sum=None)
+  war 1409286233: cb=major_religious_war att=67196238 def=83936142 start=1072.6.7 score(att tick=None, def tick=40.04, battles sum=5.697)
+  war 1358954587: cb=nomadic_war att=67188969 def=50452877 start=1074.12.22 score(att tick=11.275, def tick=None, battles sum=None)
+  war 1660944476: cb=make_tributary_cb att=50421496 def=33669918 start=1075.8.3 score(att tick=None, def tick=None, battles sum=None)
+  war 1409286249: cb=religious_war att=33633419 def=83986079 start=1074.7.31 score(att tick=None, def tick=3.025, battles sum=80.118)
+
+--- Military (player) ---
+  current_strength=37290 total_strength=42548 levy=38543
+  Men-at-Arms regiments: 6
+    mangonel: size=70 max=None source=maa
+    mangonel: size=70 max=None source=maa
+    armored_horsemen: size=350 max=None source=maa
+    asawira: size=350 max=None source=maa
+    armored_horsemen: size=350 max=None source=maa
+    armored_horsemen: size=350 max=None source=maa
+  knights (real id list): 15 -> [16913815, 157300, 16917066, 50406336, 142044, 143106, 50405157, 100759333, 138641, 16900623, 156449, 149305, 33683146, 134250426, 16919021]
+  rally points: 10 -> province 4394, province 4531, province 4064, province 1438, province 7127, province 7973, province 4505, province 1440, province 4109, province 4782
+  player armies (armies.armies join units): 0
+
+--- Council & Court ---
+  council tasks (player's court): 6
+    task_integrate_title owner=16906901 progress=None
+    task_promote_culture owner=135903 progress=70.50335
+    task_organize_levies owner=128744 progress=None
+    task_disrupt_schemes owner=16913190 progress=None
+    task_manage_domain owner=149003 progress=None
+    task_religious_relations owner=50426972 progress=None
+  court positions (player's court): 26
+    court_tutor_court_position task=court_tutor_teach_kids employee=117505814
+    court_artificer_court_position task=court_artificer_court_position_task_learning employee=128590
+    master_of_hunt_court_position task=None employee=67188752
+    champion_court_position task=champion_improve_self employee=143106
+    court_artificer_court_position task=court_artificer_court_position_task_learning employee=128794
+    chief_qadi_court_position task=chief_qadi_court_position_task_public_alms employee=67188752
+    eparch_court_position task=eparch_enforce_public_order employee=16913382
+    bodyguard_court_position task=None employee=50406336
+    travel_leader_court_position task=caravan_master_prepare_armies employee=16877088
+    cupbearer_court_position task=cupbearer_court_position_task_flatter_dignitaries employee=67165912
+    food_taster_court_position task=food_taster_court_position_task_ear_to_the_ground employee=142159
+    court_jester_court_position task=court_jester_court_position_task_entertain_court employee=16887583
+    royal_architect_court_position task=royal_architect_public_works employee=128590
+    bodyguard_court_position task=None employee=142044
+    wet_nurse_court_position task=wet_nurse_promote_competition employee=149003
+    executioner_court_position task=None employee=33675409
+    high_almoner_court_position task=high_almoner_court_position_task_appease_zealots employee=116969
+    court_musician_court_position task=court_musician_court_position_task_bolster_legitimacy employee=16906901
+    antiquarian_court_position task=antiquarian_court_position_task_scout_for_artifacts employee=128590
+    chronicler_court_position task=None employee=16906901
+    court_gardener_court_position task=royal_architect_public_works employee=16856564
+    court_scholar_court_position task=physician_guard_family employee=117505814
+    court_physician_court_position task=physician_improve_self employee=67165898
+    court_poet_court_position task=chronicler_espouse_legend employee=33695665
+    master_of_horse_court_position task=master_of_horse_mightiest_warhorse employee=50415825
+    seneschal_court_position task=seneschal_improve_domain employee=143106
+  decisions (raw flags — 'no' NOT reported as available): 11
+    __anon__ = False
+    convert_to_feudalism_from_administrative_decision = False
+    vizier_assessment_decision = False
+    vizier_diplomacy_decision = False
+    vizier_economy_decision = False
+    vizier_intrigue_decision = False
+    vizier_lifestyle_decision = False
+    vizier_military_decision = False
+    vizier_realm_decision = False
+    vizier_succession_decision = False
+    vizier_urgent_overdomain_decision = False
+
+--- Opinions involving player (of 161563 opinion rows) ---
+    char 16899787 (held_by_player): total=8
+      reputation_opinion: 8 (until 1082.2.13)
+    char 50465979 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 134473 (held_by_player): total=14
+      spouse_mediation_opinion: 14 (until 1082.3.29)
+    char 16912739 (about_player): total=-60
+      zealot_approves_temple_upgrade_opinion: 6 (until 1079.6.22)
+      zealot_approves_temple_construction_opinion: 14 (until 1080.3.7)
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 67189874 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 133952 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 16899478 (about_player): total=None
+    char 16913772 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 67124166 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 16915316 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 16895371 (held_by_player): total=16
+      reputation_opinion: 16 (until 1088.9.5)
+    char 50451422 (about_player): total=-31
+      claimed_my_title_opinion: -31 (until 1101.3.9)
+    char 126103 (about_player): total=-34
+      loved_one_dungeon_death: -34 (until 1092.8.21)
+    char 143727 (about_player): total=6
+      impressed_opinion: 6 (until 1080.6.3)
+    char 16896103 (held_by_player): total=21
+      impressed_opinion: 21 (until 1092.4.11)
+    char 152646 (about_player): total=-34
+      loved_one_dungeon_death: -34 (until 1092.8.21)
+    char 134262386 (held_by_player): total=21
+      impressed_opinion: 21 (until 1092.4.11)
+    char 100738789 (held_by_player): total=21
+      impressed_opinion: 21 (until 1092.4.11)
+    char 83997257 (held_by_player): total=8
+      friendliness_opinion: 8 (until 1081.7.6)
+    char 16861480 (about_player): total=15
+      respect_opinion: 15 (until 1087.7.8)
+    char 83916320 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 16909318 (about_player): total=-85
+      disappointed_opinion: -5 (until 1079.6.24)
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 50432660 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 16899478 (held_by_player): total=11
+      friendliness_opinion: 11 (until 1084.5.17)
+    char 33664068 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 184604045 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 128744 (about_player): total=61
+      glory_hound_approves_war_victory_opinion: 1 (until 1075.11.30)
+      glory_hound_approves_war_victory_opinion: 5 (until 1080.4.27)
+      received_title_duchy: 60 (until 1101.4.16)
+      unfriendly_opinion: -5 (until 9999.1.1)
+    char 131962 (about_player): total=95
+      disappointed_opinion: -5 (until 1079.6.24)
+      courtly_title_creation_opinion: 15 (until 1080.7.7)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+    char 100771075 (about_player): total=-17
+      claimed_my_title_opinion: -17 (until 1089.8.15)
+    char 67196093 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 16912080 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 16916946 (held_by_player): total=6
+      friendliness_opinion: 6 (until 1080.5.16)
+    char 33652024 (about_player): total=7
+      pleased_opinion: 7 (until 1080.12.25)
+    char 16891321 (held_by_player): total=-25
+      schemed_against_me: -10 (until 1077.8.22)
+      slaughtered_my_camel_opinion: -15 (until 1082.12.18)
+    char 50444985 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 50409651 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 130646 (about_player): total=95
+      disappointed_opinion: -5 (until 1079.6.24)
+      courtly_title_creation_opinion: 15 (until 1080.7.7)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+    char 148784 (about_player): total=10
+      pilgrimage_apa_communal_prayer_opinion: 10 (until 1082.6.11)
+    char 16892978 (about_player): total=-14
+      court_chaplain_fabricated_claim_opinion: -9 (until 1078.8.10)
+      disappointed_opinion: -5 (until 1079.6.24)
+    char 149003 (about_player): total=3
+      pleased_opinion: 3 (until 1077.11.21)
+    char 16887583 (about_player): total=95
+      disappointed_opinion: -5 (until 1079.6.24)
+      courtly_title_creation_opinion: 15 (until 1080.7.7)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+    char 139944 (held_by_player): total=-11
+      angry_opinion: -11 (until 1084.9.4)
+    char 129010 (held_by_player): total=-70
+      attempted_murder_close_family_crime: -70 (until 1088.5.22)
+    char 16900684 (held_by_player): total=1
+      reputation_opinion: 1 (until 1076.1.7)
+    char 129290 (about_player): total=-85 potential_rival
+      disappointed_opinion: -5 (until 1079.6.24)
+      revoked_title: -80 (until 1081.1.1)
+    char 33684494 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 83907723 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 33660606 (about_player): total=95
+      disappointed_opinion: -5 (until 1079.6.24)
+      courtly_title_creation_opinion: 15 (until 1080.7.7)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+    char 50457838 (held_by_player): total=8
+      spouse_mediation_opinion: 8 (until 1079.9.4)
+    char 16884472 (about_player): total=-24
+      claimed_my_title_opinion: -24 (until 1095.5.5)
+    char 33678657 (held_by_player): total=13
+      grateful_opinion: 13 (until 1085.9.6)
+    char 16919207 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 50415459 (about_player): total=-30
+      imprisoned_me: -30 (until 1085.9.3)
+    char 16900195 (about_player): total=12
+      favor_opinion: 12 (until 1094.9.9)
+    char 16877088 (about_player): total=-35
+      insulted_opinion: -35 (until 1081.10.12)
+    char 143206 (held_by_player): total=-16
+      contempt_opinion: -16 (until 1100.8.1)
+    char 67194170 (held_by_player): total=21
+      impressed_opinion: 21 (until 1092.4.11)
+    char 33643632 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 16902187 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 127168 (about_player): total=95
+      disappointed_opinion: -5 (until 1079.6.24)
+      courtly_title_creation_opinion: 15 (until 1080.7.7)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+    char 50426972 (about_player): total=67
+      disappointed_opinion: -5 (until 1079.6.24)
+      courtly_title_creation_opinion: 15 (until 1080.7.7)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+      revoked_court_position_opinion: -28 (until 1084.11.5)
+    char 67125718 (held_by_player): total=-15
+      failed_to_treat_kin_crime_opinion: -15 (until 1082.12.20)
+    char 143206 (about_player): total=35
+      glory_hound_approves_war_victory_opinion: 1 (until 1075.11.30)
+      glory_hound_approves_war_victory_opinion: 5 (until 1080.4.27)
+      impressed_opinion: 29 (until 1099.1.31)
+    char 50437484 (about_player): total=100
+      courtly_title_creation_opinion: 15 (until 1080.7.7)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+    char 67234130 (about_player): total=-34
+      angry_opinion: -34 (until 1103.3.14)
+    char 100718427 (held_by_player): total=-91
+      exposed_my_secret_opinion: -11 (until 1082.6.19)
+      refused_to_renounce_lover_opinion: -16 (until 1083.7.14)
+      unfaithful_spouse_exposed_opinion: -64 (until 1088.7.12)
+    char 33669235 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 201393877 (held_by_player): total=13
+      reputation_opinion: 13 (until 1086.2.11)
+    char 128794 (held_by_player): total=-4
+      seduce_regular_cooldown_opinion: -4 (until 1077.8.25)
+    char 16913190 (about_player): total=-21
+      disrespect_opinion: -21 (until 1092.5.20)
+    char 33663395 (held_by_player): total=29
+      converted_to_state_faith_opinion: 29 (until 1123.2.24)
+    char 129930 (about_player): total=21 potential_friend
+      grateful_opinion: 2 (until 1076.10.26)
+      stole_artifact_from_me: -5 (until 1076.12.16)
+      friendliness_opinion: 4 (until 1078.5.2)
+      zealot_approves_temple_upgrade_opinion: 6 (until 1079.6.22)
+      zealot_approves_temple_construction_opinion: 14 (until 1080.3.7)
+    char 16900083 (held_by_player): total=28 potential_friend
+      friendliness_opinion: 28 (until 1098.7.24)
+    char 16913815 (about_player): total=17
+      respect_opinion: 17 (until 1089.1.6)
+    char 67188471 (held_by_player): total=1
+      reputation_opinion: 1 (until 1076.6.9)
+    char 83971526 (about_player): total=-30
+      loved_one_dungeon_death: -30 (until 1090.5.22)
+    char 67146215 (about_player): total=-69
+      court_chaplain_fabricated_claim_opinion: -19 (until 1081.10.5)
+      usurped_title: -50 (until 1082.7.7)
+    char 50379523 (about_player): total=18
+      impressed_opinion: 18 (until 1090.2.3)
+    char 134473 (about_player): total=120
+      received_title_duchy: 60 (until 1120.7.7)
+      received_title_duchy: 60 (until 1120.7.22)
+    char 16898208 (held_by_player): total=2
+      spouse_mediation_opinion: 2 (until 1077.5.27)
+    char 129290 (held_by_player): total=None potential_rival
+    char 16912113 (held_by_player): total=10
+      reputation_opinion: 10 (until 1083.11.3)
+    char 120438 (about_player): total=None potential_friend
+    char 120438 (held_by_player): total=None potential_friend
+    char 16922012 (about_player): total=-5 potential_friend
+      impressed_opinion: 15 (until 1087.4.14)
+      received_title_duchy: 60 (until 1124.11.5)
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 33647560 (held_by_player): total=18
+      respect_opinion: 18 (until 1089.11.16)
+    char 50399135 (held_by_player): total=21
+      impressed_opinion: 21 (until 1092.4.11)
+    char 83969987 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 67206942 (held_by_player): total=-3
+      impious_opinion: -3 (until 1078.1.20)
+    char 83929595 (held_by_player): total=-3
+      impious_opinion: -3 (until 1078.1.20)
+    char 16891321 (about_player): total=29
+      zealot_approves_temple_upgrade_opinion: 6 (until 1079.6.22)
+      zealot_approves_temple_construction_opinion: 14 (until 1080.3.7)
+      grateful_opinion: 9 (until 1082.11.19)
+    char 33578121 (about_player): total=63
+      zealot_approves_temple_upgrade_opinion: 6 (until 1079.6.22)
+      zealot_approves_temple_construction_opinion: 14 (until 1080.3.7)
+      received_title_duchy: 60 (until 1114.6.28)
+      claimed_my_title_opinion: -17 (until 1121.12.29)
+    char 136419 (about_player): total=20
+      zealot_approves_temple_upgrade_opinion: 6 (until 1079.6.22)
+      zealot_approves_temple_construction_opinion: 14 (until 1080.3.7)
+    char 119961 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 16922012 (held_by_player): total=None potential_friend
+    char 128744 (held_by_player): total=8
+      impious_opinion: -3 (until 1077.12.2)
+      friendliness_opinion: 11 (until 1084.5.17)
+    char 16906901 (held_by_player): total=21
+      impressed_opinion: 21 (until 1092.4.11)
+    char 16863162 (about_player): total=95
+      disappointed_opinion: -5 (until 1079.6.24)
+      courtly_title_creation_opinion: 15 (until 1080.7.7)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+    char 16903576 (held_by_player): total=-1
+      failed_to_treat_kin_crime_opinion: -1 (until 1076.2.12)
+    char 137039 (held_by_player): total=14
+      pleased_opinion: 14 (until 1087.1.28)
+    char 50450527 (about_player): total=-5
+      exposed_my_secret_opinion: -5 (until 1078.11.18)
+    char 50432660 (held_by_player): total=-70
+      attempted_murder_close_family_crime: -70 (until 1084.10.28)
+    char 33674694 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 136410 (held_by_player): total=45 best_friend
+      pleased_opinion: 2 (until 1076.12.19)
+      pleased_opinion: 9 (until 1082.12.19)
+      respect_opinion: 9 (until 1083.1.27)
+      gift_opinion: 25 (until 1083.11.3)
+    char 16900713 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 133841 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 16910343 (about_player): total=5
+      glory_hound_approves_war_victory_opinion: 5 (until 1080.4.27)
+    char 16903117 (about_player): total=9
+      kindness_opinion: 9 (until 1082.8.29)
+    char 16910897 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 16899504 (held_by_player): total=21
+      impressed_opinion: 21 (until 1092.4.11)
+    char 16905860 (held_by_player): total=-18
+      punished_my_camel_farm_opinion: -18 (until 1088.10.17)
+    char 140058 (about_player): total=9
+      grateful_opinion: 9 (until 1082.11.19)
+    char 33668639 (held_by_player): total=21
+      impressed_opinion: 21 (until 1092.4.11)
+    char 150099 (held_by_player): total=-26 rival
+      slept_with_spouse_exposed_opinion: -26 (until 1088.7.12)
+    char 50356900 (held_by_player): total=21
+      impressed_opinion: 21 (until 1092.4.11)
+    char 16896928 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 16898095 (held_by_player): total=-5
+      uncertain_lineage_opinion: -5 (until 1081.12.14)
+    char 67195855 (held_by_player): total=21
+      impressed_opinion: 21 (until 1092.4.11)
+    char 50415523 (held_by_player): total=-70
+      attempted_murder_close_family_crime: -70 (until 1092.6.1)
+    char 138019 (about_player): total=95
+      disappointed_opinion: -5 (until 1079.6.24)
+      courtly_title_creation_opinion: 15 (until 1080.7.7)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+    char 16882836 (about_player): total=40
+      granted_vassal: 40 (until 1080.7.22)
+    char 150099 (about_player): total=-27 rival
+      exposed_my_secret_opinion: -27 (until 1093.7.12)
+    char 16909318 (held_by_player): total=8
+      friendliness_opinion: 8 (until 1081.12.2)
+    char 100718427 (about_player): total=-62
+      disgusted_opinion: -8 (until 1081.10.3)
+      exposed_my_secret_opinion: -54 (until 1093.7.12)
+    char 16863162 (held_by_player): total=21
+      impressed_opinion: 21 (until 1092.4.11)
+    char 16911386 (about_player): total=20
+      received_title_barony: 20 (until 1104.2.19)
+    char 16861825 (held_by_player): total=19
+      pleased_opinion: 19 (until 1091.4.6)
+    char 50446079 (about_player): total=6
+      respect_opinion: 6 (until 1080.4.10)
+    char 16859197 (held_by_player): total=21
+      impressed_opinion: 21 (until 1092.4.11)
+    char 83991862 (about_player): total=-54
+      parochial_disapproves_strong_war_enemy_opinion: -4 (until 1079.1.24)
+      parochial_approves_holding_upgrade_opinion: 4 (until 1079.6.22)
+      parochial_approves_holding_upgrade_opinion: 4 (until 1079.6.22)
+      parochial_approves_holding_upgrade_opinion: 4 (until 1079.6.22)
+      parochial_approves_holding_construction_opinion: 9 (until 1080.3.7)
+      parochial_approves_holding_construction_opinion: 9 (until 1080.3.13)
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 16908080 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 67157596 (about_player): total=20
+      received_title_barony: 20 (until 1119.7.14)
+    char 16918808 (held_by_player): total=13
+      pleased_opinion: 13 (until 1086.2.17)
+    char 138146 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 33654960 (held_by_player): total=20
+      converted_to_state_faith_opinion: 20 (until 1108.7.26)
+    char 16910760 (about_player): total=15
+      guardian_of_relative_opinion: 15 (until 9999.1.1)
+    char 128794 (about_player): total=82
+      grateful_opinion: 17 (until 1089.1.10)
+      grateful_opinion: 29 (until 1099.1.31)
+      grateful_opinion: 36 (until 1104.11.22)
+    char 141003 (about_player): total=-77
+      impressed_opinion: 3 (until 1078.1.5)
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 100705609 (about_player): total=25
+      teaching_moment_opinion: 25 (until 1083.11.13)
+    char 16912986 (about_player): total=20
+      zealot_approves_temple_upgrade_opinion: 6 (until 1079.6.22)
+      zealot_approves_temple_construction_opinion: 14 (until 1080.3.7)
+    char 130485 (about_player): total=-5
+      disappointed_opinion: -5 (until 1079.6.24)
+    char 16894073 (about_player): total=-5
+      disappointed_opinion: -5 (until 1079.6.24)
+    char 33655892 (about_player): total=20
+      received_title_barony: 20 (until 1101.7.26)
+    char 50422624 (about_player): total=35
+      received_title_duchy: 60 (until 1114.6.28)
+      claimed_my_title_opinion: -25 (until 1128.6.12)
+    char 83893234 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 67188473 (about_player): total=-5
+      disappointed_opinion: -5 (until 1079.6.24)
+    char 33644017 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 33684459 (held_by_player): total=3
+      spouse_mediation_opinion: 3 (until 1078.7.12)
+    char 50441124 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 50461284 (about_player): total=-5
+      disappointed_opinion: -5 (until 1079.6.24)
+    char 16897776 (held_by_player): total=-3
+      impious_opinion: -3 (until 1077.10.22)
+    char 16901235 (held_by_player): total=12
+      reputation_opinion: 12 (until 1084.12.19)
+    char 50441101 (held_by_player): total=21
+      impressed_opinion: 21 (until 1092.4.11)
+    char 67124330 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 128879 (held_by_player): total=18 potential_friend
+      sent_poem_grateful_opinion: 18 (until 1080.8.19)
+    char 117506331 (about_player): total=-5
+      disappointed_opinion: -5 (until 1079.6.24)
+    char 83905569 (about_player): total=-25
+      claimed_my_title_opinion: -25 (until 1095.7.27)
+    char 33646408 (held_by_player): total=15
+      grateful_opinion: 15 (until 1087.6.17)
+    char 138916 (held_by_player): total=8
+      friendliness_opinion: 8 (until 1081.12.2)
+    char 33615713 (held_by_player): total=-10
+      angry_opinion: -10 (until 1083.4.6)
+    char 16906963 (held_by_player): total=None potential_friend
+    char 134300294 (held_by_player): total=21
+      impressed_opinion: 21 (until 1092.4.11)
+    char 125151 (about_player): total=-41
+      opinion_of_predecessor: -41 (until 1079.10.18)
+    char 16912243 (about_player): total=30
+      disappointed_opinion: -5 (until 1079.6.24)
+      claimed_my_title_opinion: -25 (until 1095.7.27)
+      received_title_duchy: 60 (until 1114.6.28)
+    char 122281 (held_by_player): total=2
+      spouse_mediation_opinion: 2 (until 1076.8.22)
+    char 128879 (about_player): total=None potential_friend
+    char 100705609 (held_by_player): total=-14
+      uncertain_lineage_opinion: -14 (until 1093.7.12)
+    char 50435142 (held_by_player): total=-3
+      exposed_my_secret_opinion: -3 (until 1077.7.6)
+    char 33640410 (about_player): total=-49
+      court_chaplain_fabricated_claim_on_vassal_opinion: -6 (until 1078.8.10)
+      declared_war: -12 (until 1081.1.24)
+      claimed_my_title_opinion: -31 (until 1101.3.9)
+    char 16913815 (held_by_player): total=17
+      respect_opinion: 17 (until 1089.1.6)
+    char 33685142 (held_by_player): total=None
+    char 50439694 (held_by_player): total=-15 potential_rival
+      blackmailing_me_opinion: -15 (until 9999.1.1)
+    char 117518692 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 138641 (about_player): total=None potential_friend
+    char 33651990 (about_player): total=-26
+      court_chaplain_fabricated_claim_opinion: -26 (until 1084.4.15)
+    char 50443742 (held_by_player): total=-12
+      opinion_of_predecessor: -12 (until 1078.1.11)
+    char 16861480 (held_by_player): total=28
+      honored_opinion: 28 (until 1120.7.30)
+    char 16895358 (about_player): total=62
+      court_chaplain_fabricated_claim_opinion: -2 (until 1076.2.23)
+      disappointed_opinion: -5 (until 1079.6.24)
+      courtly_title_creation_opinion: 15 (until 1080.7.7)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+      claimed_my_title_opinion: -31 (until 1134.1.23)
+    char 128416 (held_by_player): total=21
+      impressed_opinion: 21 (until 1092.4.11)
+    char 16910760 (held_by_player): total=3
+      opinion_of_predecessor: 3 (until 1079.8.21)
+    char 16853790 (about_player): total=-18
+      court_chaplain_fabricated_claim_on_vassal_opinion: -12 (until 1077.5.13)
+      declared_war_on_son_daughter: -6 (until 1079.1.24)
+    char 139624 (about_player): total=-19 old_flame
+      lover_breakup_opinion: -30 (until 1082.5.24)
+      romance_opinion: 11 (until 1084.3.1)
+    char 50399135 (about_player): total=10
+      promoted_me_opinion: 10 (until 1091.9.2)
+    char 67231287 (held_by_player): total=5
+      pleased_opinion: 5 (until 1079.1.15)
+    char 126727 (held_by_player): total=5
+      grateful_opinion: 5 (until 1079.1.18)
+    char 16871959 (held_by_player): total=None friend
+    char 16871959 (about_player): total=9 friend
+      impressed_opinion: 9 (until 1082.12.21)
+    char 83976755 (about_player): total=-80
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 67206755 (held_by_player): total=-8
+      opinion_of_predecessor: -8 (until 1079.10.6)
+    char 50439694 (about_player): total=None potential_rival
+    char 33656932 (about_player): total=-18
+      court_chaplain_fabricated_claim_on_vassal_opinion: -18 (until 1084.4.15)
+    char 142159 (about_player): total=27
+      changed_my_life_opinion: 27 (until 1102.4.20)
+    char 16891797 (held_by_player): total=3
+      reputation_opinion: 3 (until 1077.7.28)
+    char 33686956 (about_player): total=159
+      parochial_disapproves_strong_war_enemy_opinion: -4 (until 1079.1.24)
+      disappointed_opinion: -5 (until 1079.6.24)
+      courtly_title_creation_opinion: 15 (until 1080.7.7)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+      gift_opinion: 33 (until 1086.7.8)
+      received_title_duchy: 60 (until 1114.6.28)
+      refused_alliance_opinion: -25 (until 1171.11.17)
+    char 131456 (about_player): total=-5
+      disappointed_opinion: -5 (until 1079.6.24)
+    char 16916216 (about_player): total=-25
+      claimed_my_title_opinion: -25 (until 1095.7.27)
+    char 156449 (held_by_player): total=7
+      opinion_of_predecessor: 7 (until 1078.9.10)
+    char 83959077 (about_player): total=-2
+      declared_war: -2 (until 1076.6.28)
+    char 131962 (held_by_player): total=21
+      impressed_opinion: 21 (until 1092.4.11)
+    char 16878796 (held_by_player): total=14
+      grateful_opinion: 14 (until 1087.3.6)
+    char 100688749 (held_by_player): total=-12
+      angry_opinion: -12 (until 1085.8.2)
+    char 113628 (about_player): total=-5
+      disappointed_opinion: -5 (until 1079.6.24)
+    char 16899883 (held_by_player): total=19
+      reputation_opinion: 19 (until 1091.2.18)
+    char 136511 (about_player): total=80
+      zealot_approves_temple_upgrade_opinion: 6 (until 1079.6.22)
+      zealot_approves_temple_construction_opinion: 14 (until 1080.3.7)
+      received_title_duchy: 60 (until 1114.6.28)
+    char 16907861 (about_player): total=5
+      glory_hound_approves_war_victory_opinion: 5 (until 1080.4.27)
+    char 151049508 (about_player): total=-5
+      disappointed_opinion: -5 (until 1079.6.24)
+    char 136410 (about_player): total=33 best_friend
+      impressed_opinion: 9 (until 1082.11.16)
+      flattered_opinion: 24 (until 1094.10.27)
+    char 67188752 (held_by_player): total=40 potential_friend
+      trust_opinion: 18 (until 1089.10.12)
+      honored_opinion: 22 (until 1111.4.6)
+    char 16901813 (about_player): total=-11
+      court_chaplain_fabricated_claim_opinion: -11 (until 1079.5.10)
+    char 120691 (about_player): total=None potential_friend
+    char 148784 (held_by_player): total=10
+      pilgrimage_apa_communal_prayer_opinion: 10 (until 1082.6.11)
+    char 50452877 (about_player): total=-8
+      court_chaplain_fabricated_claim_on_vassal_opinion: -8 (until 1079.5.10)
+    char 152181 (about_player): total=-9
+      imprisoned_family_member: -9 (until 1087.6.22)
+    char 83997257 (about_player): total=26
+      parochial_disapproves_strong_war_enemy_opinion: -4 (until 1079.1.24)
+      parochial_approves_holding_upgrade_opinion: 4 (until 1079.6.22)
+      parochial_approves_holding_upgrade_opinion: 4 (until 1079.6.22)
+      parochial_approves_holding_upgrade_opinion: 4 (until 1079.6.22)
+      parochial_approves_holding_construction_opinion: 9 (until 1080.3.7)
+      parochial_approves_holding_construction_opinion: 9 (until 1080.3.13)
+    char 146553 (held_by_player): total=-1
+      opinion_of_predecessor: -1 (until 1075.12.21)
+    char 16893809 (about_player): total=-21
+      stole_artifact_from_me: -21 (until 1081.10.16)
+    char 123350 (held_by_player): total=14
+      grateful_opinion: 14 (until 1087.2.6)
+    char 33695665 (about_player): total=73
+      grateful_opinion: 12 (until 1084.12.27)
+      contempt_opinion: -6 (until 1085.3.24)
+      grateful_opinion: 31 (until 1101.1.20)
+      grateful_opinion: 36 (until 1104.11.22)
+    char 184601683 (held_by_player): total=7
+      pleased_opinion: 7 (until 1080.9.22)
+    char 145947 (about_player): total=33
+      grateful_opinion: 33 (until 1102.2.12)
+    char 135735 (held_by_player): total=-26
+      exposed_my_secret_opinion: -26 (until 1092.10.23)
+    char 117505814 (held_by_player): total=-10
+      schemed_against_me: -10 (until 1077.8.22)
+    char 33646730 (about_player): total=26
+      parochial_disapproves_strong_war_enemy_opinion: -4 (until 1079.1.24)
+      parochial_approves_holding_upgrade_opinion: 4 (until 1079.6.22)
+      parochial_approves_holding_upgrade_opinion: 4 (until 1079.6.22)
+      parochial_approves_holding_upgrade_opinion: 4 (until 1079.6.22)
+      parochial_approves_holding_construction_opinion: 9 (until 1080.3.7)
+      parochial_approves_holding_construction_opinion: 9 (until 1080.3.13)
+    char 67154825 (about_player): total=5
+      glory_hound_approves_war_victory_opinion: 5 (until 1080.4.27)
+    char 50448896 (held_by_player): total=8
+      pleased_opinion: 8 (until 1081.11.1)
+    char 50407040 (held_by_player): total=45
+      flattered_opinion: 16 (until 1088.5.27)
+      converted_to_state_faith_opinion: 29 (until 1122.4.13)
+    char 50409706 (about_player): total=155
+      disappointed_opinion: -5 (until 1079.6.24)
+      courtly_title_creation_opinion: 15 (until 1080.7.7)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+      received_title_duchy: 60 (until 1114.6.28)
+    char 120691 (held_by_player): total=7 potential_friend
+      respect_opinion: 7 (until 1080.12.19)
+    char 33656932 (held_by_player): total=1
+      spouse_mediation_opinion: 1 (until 1075.11.30)
+    char 67203628 (about_player): total=5
+      glory_hound_approves_war_victory_opinion: 5 (until 1080.4.27)
+    char 129930 (held_by_player): total=34 potential_friend
+      friendliness_opinion: 4 (until 1078.5.2)
+      spouse_mediation_opinion: 9 (until 1084.9.11)
+      impressed_opinion: 21 (until 1092.4.11)
+    char 142278 (about_player): total=-5
+      disappointed_opinion: -5 (until 1079.6.24)
+    char 128632 (about_player): total=-5
+      disappointed_opinion: -5 (until 1079.6.24)
+    char 50410905 (about_player): total=-5
+      disappointed_opinion: -5 (until 1079.6.24)
+    char 132528 (held_by_player): total=15
+      grateful_opinion: 15 (until 1087.12.20)
+    char 33663395 (about_player): total=-5
+      disappointed_opinion: -5 (until 1079.6.24)
+    char 146741 (about_player): total=20
+      received_title_barony: 20 (until 1104.11.2)
+    char 67188752 (about_player): total=106 potential_friend
+      frustrated_opinion: -4 (until 1078.5.14)
+      disappointed_opinion: -5 (until 1079.6.24)
+      courtly_title_creation_opinion: 15 (until 1080.7.7)
+      courtly_court_position_opinion: 5 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+      scheme_sway_opinion: 10 (until 1090.10.6)
+    char 135495 (about_player): total=20
+      received_title_barony: 20 (until 1104.11.2)
+    char 135910 (about_player): total=20
+      received_title_barony: 20 (until 1104.11.2)
+    char 50402045 (held_by_player): total=2
+      respect_opinion: 2 (until 1076.7.22)
+    char 16912739 (held_by_player): total=5
+      respect_opinion: 5 (until 1079.5.29)
+    char 152041 (about_player): total=-25
+      refused_alliance_opinion: -25 (until 1164.2.17)
+    char 83966315 (about_player): total=20
+      received_title_barony: 20 (until 1110.8.4)
+    char 50460267 (held_by_player): total=15
+      grateful_opinion: 15 (until 1087.6.12)
+    char 33650285 (about_player): total=160
+      received_title_duchy: 60 (until 1114.6.28)
+      pressed_my_claim: 100 (until 1115.11.30)
+    char 16906898 (held_by_player): total=28
+      honored_opinion: 28 (until 1120.7.23)
+    char 84003476 (held_by_player): total=7
+      pleased_opinion: 7 (until 1081.3.7)
+    char 138641 (held_by_player): total=None potential_friend
+    char 16900083 (about_player): total=None potential_friend
+    char 117448079 (held_by_player): total=3
+      opinion_of_predecessor: 3 (until 1079.3.11)
+    char 50405157 (about_player): total=10
+      became_vassal: 10 (until 9999.1.1)
+    char 117505814 (about_player): total=12
+      grateful_opinion: 5 (until 1079.4.13)
+      angry_opinion: -8 (until 1081.12.31)
+      grateful_opinion: 9 (until 1082.11.19)
+      grateful_opinion: 11 (until 1084.8.16)
+      contempt_opinion: -5 (until 1092.1.5)
+    char 33651362 (about_player): total=34 potential_friend
+      spouse_praised_me_opinion: 15 (until 1082.11.15)
+      pleased_opinion: 19 (until 1090.11.12)
+    char 50441101 (about_player): total=15
+      disappointed_opinion: -5 (until 1079.6.24)
+      courtly_title_creation_opinion: 15 (until 1080.7.7)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+      murdered_close_family_crime: -80 (until 9999.1.1)
+    char 16919037 (held_by_player): total=-6
+      opinion_of_predecessor: -6 (until 1077.9.17)
+    char 128590 (about_player): total=100
+      disappointed_opinion: -2 (until 1076.12.9)
+      contempt_opinion: -6 (until 1085.4.28)
+      kindness_opinion: 14 (until 1087.2.8)
+      grateful_opinion: 29 (until 1099.1.31)
+      grateful_opinion: 31 (until 1100.11.26)
+      grateful_opinion: 34 (until 1103.2.21)
+    char 16906963 (about_player): total=165 potential_friend
+      courtly_title_creation_opinion: 15 (until 1080.7.7)
+      courtly_court_position_opinion: 5 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+      received_title_duchy: 60 (until 1114.6.28)
+    char 135903 (held_by_player): total=None potential_friend
+    char 139624 (held_by_player): total=15 old_flame
+      romance_opinion: 4 (until 1078.12.23)
+      romance_opinion: 11 (until 1084.3.1)
+    char 33651362 (held_by_player): total=None potential_friend
+    char 83930073 (about_player): total=20
+      received_title_barony: 20 (until 1104.11.2)
+    char 33647852 (held_by_player): total=9
+      pleased_opinion: 9 (until 1082.6.29)
+    char 135903 (about_player): total=96 potential_friend
+      grateful_opinion: 2 (until 1076.10.26)
+      disappointed_opinion: -5 (until 1079.6.24)
+      courtly_title_creation_opinion: 15 (until 1080.7.7)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+      retracted_vassal: -40 (until 1080.7.26)
+      feeling_appreciated_opinion: 24 (until 1113.10.22)
+      mentoring_governor_opinion: 15 (until 9999.1.1)
+    char 16890861 (about_player): total=20
+      zealot_approves_temple_upgrade_opinion: 6 (until 1079.6.22)
+      zealot_approves_temple_construction_opinion: 14 (until 1080.3.7)
+    char 116969 (about_player): total=100
+      disappointed_opinion: -5 (until 1079.6.24)
+      courtly_title_creation_opinion: 15 (until 1080.7.7)
+      courtly_court_position_opinion: 5 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+    char 50415825 (held_by_player): total=-13 potential_rival
+      hate_opinion: -13 (until 1095.8.22)
+    char 33654836 (about_player): total=-36
+      disappointed_opinion: -5 (until 1079.6.24)
+      claimed_my_title_opinion: -31 (until 1101.3.9)
+    char 125558 (held_by_player): total=-25 potential_rival
+      insulted_opinion: -40 (until 1081.4.2)
+      friendliness_opinion: 15 (until 1087.9.9)
+    char 124884 (about_player): total=59
+      court_chaplain_fabricated_claim_opinion: -5 (until 1076.9.29)
+      disappointed_opinion: -5 (until 1079.6.24)
+      courtly_title_creation_opinion: 15 (until 1080.7.7)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 15 (until 1080.7.9)
+      courtly_title_creation_opinion: 5 (until 1080.7.9)
+      claimed_my_title_opinion: -31 (until 1101.3.9)
+    char 147115 (about_player): total=20
+      received_title_barony: 20 (until 1108.9.25)
+    char 83998626 (about_player): total=-10
+      court_chaplain_fabricated_claim_opinion: -5 (until 1077.5.13)
+      disappointed_opinion: -5 (until 1079.6.24)
+    char 125558 (about_player): total=None potential_rival
+    char 50415825 (about_player): total=-13 potential_rival
+      hate_opinion: -13 (until 1095.8.22)
+    char 16814273 (held_by_player): total=8
+      opinion_of_predecessor: 8 (until 1079.11.22)
+    char 50406336 (about_player): total=33
+      grateful_opinion: 33 (until 1102.2.12)
+    char 16900865 (about_player): total=-30
+      disappointed_opinion: -5 (until 1079.6.24)
+      claimed_my_title_opinion: -25 (until 1095.7.27)
+    char 16904449 (held_by_player): total=12
+      grateful_opinion: 12 (until 1085.4.15)
+    char 33650285 (held_by_player): total=-14
+      plotting_against_vassals_opinion: -14 (until 1086.6.6)
+    char 67165898 (about_player): total=33
+      grateful_opinion: 33 (until 1102.2.12)
+    char 16919021 (about_player): total=53
+      grateful_opinion: 33 (until 1102.2.12)
+      received_title_barony: 20 (until 1125.9.12)
+    char 134300294 (about_player): total=-5
+      unfriendly_opinion: -5 (until 9999.1.1)
+    char 16922127 (held_by_player): total=8
+      opinion_of_predecessor: 8 (until 1077.10.27)
+    char 151020283 (about_player): total=20
+      received_title_barony: 20 (until 1104.11.2)
+    char 16895618 (about_player): total=16
+      granted_vassal: 40 (until 1080.7.22)
+      claimed_my_title_opinion: -24 (until 1095.5.5)
+    char 50435956 (held_by_player): total=-14
+      attempted_to_steal_artifact_from_me: -14 (until 1078.1.16)
+    char 142044 (about_player): total=34
+      grateful_opinion: 34 (until 1103.2.21)
+    char 84006158 (about_player): total=20
+      received_title_barony: 20 (until 1120.4.7)
+    char 149244 (about_player): total=25
+      grateful_opinion: 5 (until 1079.6.18)
+      received_title_barony: 20 (until 1120.4.7)
+    char 149961 (about_player): total=20
+      received_title_barony: 20 (until 1120.4.7)
+    char 16900623 (held_by_player): total=10
+      opinion_of_predecessor: 10 (until 1078.4.1)
+    char 151059451 (held_by_player): total=6
+      opinion_of_predecessor: 6 (until 1076.11.20)
+    char 16877088 (held_by_player): total=-29
+      pleased_opinion: 6 (until 1080.8.22)
+      insulted_opinion: -35 (until 1081.10.12)
+    char 50436765 (about_player): total=-31
+      claimed_my_title_opinion: -31 (until 1101.3.9)
+    char 16909410 (about_player): total=-18
+      opinion_of_predecessor: -18 (until 1079.10.18)
+    char 157300 (about_player): total=15
+      grateful_opinion: 15 (until 1087.9.6)
+
+-- [5. Intrigue, Relations, Dynasty & Artifacts] --
+------------------------------------------------------
+  Schemes (active): 13 - missing type: 101
+  Secrets (known): 7
+  Relations (family hooks/alliances): 112
+  Dynasty: 5269 - Prestige: 487.065 - Head: None
+  Artifacts (family owned): 16 - missing owner: 35

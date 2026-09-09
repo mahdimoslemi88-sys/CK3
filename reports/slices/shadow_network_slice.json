@@ -1,0 +1,399 @@
+{
+  "date": "1075.9.23",
+  "ruler": {
+    "id": "16888178",
+    "name": "Mehrzad",
+    "age": 72,
+    "health": 1.5221,
+    "stress": null,
+    "gold": 3192.45609,
+    "income": 291.0847,
+    "piety": 48908.32771,
+    "prestige": 4790.35392,
+    "legitimacy": 1013.187,
+    "culture": 91,
+    "faith": 50
+  },
+  "schemes": [
+    {
+      "id": "1845493833",
+      "type": "learn_language",
+      "target": 131962,
+      "target_type": "character",
+      "owner": 33668134,
+      "progress": 365.0,
+      "secrecy": 100.0,
+      "opportunities": 0,
+      "ramping_success_chance": 0.0,
+      "scheme_exposed": false,
+      "agents": []
+    },
+    {
+      "id": "1895825552",
+      "type": "murder",
+      "target": 16885403,
+      "target_type": "character",
+      "owner": 50409706,
+      "progress": 13.0,
+      "secrecy": 31.0,
+      "opportunities": 20,
+      "ramping_success_chance": 88.2,
+      "scheme_exposed": true,
+      "agents": [
+        {
+          "type": "agent_assassin",
+          "character": 33650285,
+          "contribution": 21.0
+        },
+        {
+          "type": "agent_assassin",
+          "character": 136511,
+          "contribution": 17.0
+        },
+        {
+          "type": "agent_thug",
+          "character": 33686956,
+          "contribution": 11.0
+        },
+        {
+          "type": "agent_infiltrator",
+          "character": 50424899,
+          "contribution": -12.0
+        }
+      ]
+    },
+    {
+      "id": "2097152269",
+      "type": "sway",
+      "target": 16910486,
+      "target_type": "character",
+      "owner": 129930,
+      "progress": 211.0,
+      "secrecy": 100.0,
+      "opportunities": 0,
+      "ramping_success_chance": 0.0,
+      "scheme_exposed": false,
+      "agents": []
+    },
+    {
+      "id": "2147484044",
+      "type": "learn_language",
+      "target": 50454423,
+      "target_type": "character",
+      "owner": 33686956,
+      "progress": 77.0,
+      "secrecy": 100.0,
+      "opportunities": 0,
+      "ramping_success_chance": 0.0,
+      "scheme_exposed": false,
+      "agents": []
+    },
+    {
+      "id": "1912603088",
+      "type": "sway",
+      "target": 129930,
+      "target_type": "character",
+      "owner": 16924449,
+      "progress": 165.0,
+      "secrecy": 100.0,
+      "opportunities": 0,
+      "ramping_success_chance": 0.0,
+      "scheme_exposed": false,
+      "agents": []
+    },
+    {
+      "id": "2130707142",
+      "type": "sway",
+      "target": 33697738,
+      "target_type": "character",
+      "owner": 131962,
+      "progress": 179.0,
+      "secrecy": 100.0,
+      "opportunities": 0,
+      "ramping_success_chance": 0.0,
+      "scheme_exposed": false,
+      "agents": []
+    },
+    {
+      "id": "1761608417",
+      "type": "learn_language",
+      "target": 134473,
+      "target_type": "character",
+      "owner": 136511,
+      "progress": 563.0,
+      "secrecy": 100.0,
+      "opportunities": 0,
+      "ramping_success_chance": 0.0,
+      "scheme_exposed": false,
+      "agents": []
+    },
+    {
+      "id": "1811940503",
+      "type": "learn_language",
+      "target": 135903,
+      "target_type": "character",
+      "owner": 131200,
+      "progress": 326.0,
+      "secrecy": 100.0,
+      "opportunities": 0,
+      "ramping_success_chance": 0.0,
+      "scheme_exposed": false,
+      "agents": []
+    },
+    {
+      "id": "1744831829",
+      "type": "learn_language",
+      "target": 50454423,
+      "target_type": "character",
+      "owner": 50409706,
+      "progress": 188.0,
+      "secrecy": 100.0,
+      "opportunities": 0,
+      "ramping_success_chance": 0.0,
+      "scheme_exposed": false,
+      "agents": []
+    },
+    {
+      "id": "1191183899",
+      "type": "murder",
+      "target": 16894993,
+      "target_type": "character",
+      "owner": 131962,
+      "progress": 38.0,
+      "secrecy": 73.0,
+      "opportunities": 7,
+      "ramping_success_chance": 47.25,
+      "scheme_exposed": true,
+      "agents": [
+        {
+          "type": "agent_assassin",
+          "character": 134271844,
+          "contribution": 18.0
+        },
+        {
+          "type": "agent_assassin",
+          "character": 67214691,
+          "contribution": 18.0
+        },
+        {
+          "type": "agent_thug",
+          "character": 138641,
+          "contribution": 23.0
+        },
+        {
+          "type": "agent_infiltrator",
+          "character": 50435956,
+          "contribution": -16.0
+        },
+        {
+          "type": "agent_alibi",
+          "character": 83997257,
+          "contribution": 17.0
+        }
+      ]
+    },
+    {
+      "id": "1040188960",
+      "type": "sway",
+      "target": 16900623,
+      "target_type": "character",
+      "owner": 128744,
+      "progress": 143.0,
+      "secrecy": 100.0,
+      "opportunities": 0,
+      "ramping_success_chance": 0.0,
+      "scheme_exposed": false,
+      "agents": []
+    },
+    {
+      "id": "771753575",
+      "type": "slander",
+      "target": 138641,
+      "target_type": "character",
+      "owner": 129009,
+      "progress": 6.0,
+      "secrecy": 61.0,
+      "opportunities": 13,
+      "ramping_success_chance": 79.0,
+      "scheme_exposed": false,
+      "agents": [
+        {
+          "type": "agent_sycophant",
+          "character": 16891321,
+          "contribution": 50.0
+        },
+        {
+          "type": "agent_intermediary",
+          "character": 136511,
+          "contribution": 50.0
+        },
+        {
+          "type": "agent_political_socialite",
+          "character": 131962,
+          "contribution": -40.0
+        },
+        {
+          "type": "agent_bureaucrat",
+          "character": 129930,
+          "contribution": -50.0
+        },
+        {
+          "type": "agent_courtesan",
+          "character": 138229,
+          "contribution": 50.0
+        }
+      ]
+    },
+    {
+      "id": "251659968",
+      "type": "sway",
+      "target": 135903,
+      "target_type": "character",
+      "owner": 138641,
+      "progress": 43.0,
+      "secrecy": 100.0,
+      "opportunities": 0,
+      "ramping_success_chance": 0.0,
+      "scheme_exposed": false,
+      "agents": []
+    }
+  ],
+  "secrets": [
+    {
+      "type": "secret_lover",
+      "participants": [
+        131962
+      ]
+    },
+    {
+      "type": "secret_murder",
+      "participants": [
+        135903
+      ]
+    },
+    {
+      "type": "secret_disputed_heritage",
+      "participants": [
+        100718427,
+        150099
+      ]
+    },
+    {
+      "type": "secret_witch",
+      "participants": [
+        135903
+      ]
+    },
+    {
+      "type": "secret_witch",
+      "participants": [
+        16896103
+      ]
+    },
+    {
+      "type": "secret_disputed_heritage",
+      "participants": [
+        100718427
+      ]
+    },
+    {
+      "type": "secret_witch",
+      "participants": [
+        128744
+      ]
+    }
+  ],
+  "hooks": [
+    {
+      "type": null,
+      "first": 33686956,
+      "second": 117514972,
+      "start": null,
+      "hooks": [
+        {
+          "type": "favor_hook",
+          "expiration_date": "1076.9.25"
+        }
+      ],
+      "alliances": []
+    },
+    {
+      "type": null,
+      "first": 16925507,
+      "second": 33651362,
+      "start": null,
+      "hooks": [
+        {
+          "type": "saved_my_life_hook",
+          "expiration_date": "9999.1.1"
+        }
+      ],
+      "alliances": []
+    },
+    {
+      "type": null,
+      "first": 135903,
+      "second": 136419,
+      "start": null,
+      "hooks": [
+        {
+          "type": "favor_hook",
+          "expiration_date": "1077.12.12"
+        }
+      ],
+      "alliances": []
+    },
+    {
+      "type": null,
+      "first": 144981,
+      "second": 33651362,
+      "start": null,
+      "hooks": [
+        {
+          "type": "favor_hook",
+          "expiration_date": "1079.11.13"
+        }
+      ],
+      "alliances": []
+    },
+    {
+      "type": null,
+      "first": 16914773,
+      "second": 50409706,
+      "start": null,
+      "hooks": [
+        {
+          "type": "favor_hook",
+          "expiration_date": "1076.5.27"
+        }
+      ],
+      "alliances": []
+    },
+    {
+      "type": null,
+      "first": 131441,
+      "second": 134300294,
+      "start": null,
+      "hooks": [
+        {
+          "type": "favor_hook",
+          "expiration_date": "1078.10.7"
+        }
+      ],
+      "alliances": []
+    },
+    {
+      "type": null,
+      "first": 136511,
+      "second": 50437847,
+      "start": null,
+      "hooks": [
+        {
+          "type": "favor_hook",
+          "expiration_date": "1077.2.22"
+        }
+      ],
+      "alliances": []
+    }
+  ]
+}
